@@ -1,6 +1,6 @@
 ---
 title: ANALYZING RAKSAS DATA
-allDay: false
+allDay: true
 startTime: 06:00
 endTime: 06:30
 date: 2024-07-07

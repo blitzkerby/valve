@@ -4,31 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1bc6e2d91278e18e",
+        "id": "1a4b589c86055be8",
         "type": "tabs",
         "children": [
           {
-            "id": "3b4247670db799ea",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "605c1bd85d7ae2aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Rough Notes/2024-07-06 ACCOUNTING PROBLEM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c499c113d39c4219",
+            "id": "bb4511ddeb1caad8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -114,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 - Rough Notes/2024-07-06 LINEAR REGRESSION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01 - Rough Notes/2024-07-06 LINEAR REGRESSION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01 - Rough Notes/2024-07-06 LINEAR REGRESSION.md"
+              }
             }
           },
           {
@@ -195,21 +179,22 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5ec8c7d2b701816d",
+  "active": "3b4247670db799ea",
   "lastOpenFiles": [
+    "01 - Rough Notes/2024-07-06 Null Hypothesis.md",
     "01 - Rough Notes/2024-07-06 LINEAR REGRESSION.md",
+    "01 - Rough Notes/2024-07-07 ANALYZING RAKSAS DATA.md",
+    "01 - Rough Notes/2024-07-07 EXPONENTIAL REGRESSION.md",
+    "01 - Rough Notes/2024-07-07 Matrix Operations.md",
+    "01 - Rough Notes/2024-07-08 Machine Learning Algorithm.md",
+    "01 - Rough Notes/2024-07-08 NULL HYPOTHESIS.md",
+    "Home.md",
     "01 - Rough Notes/2024-07-06 ACCOUNTING PROBLEM.md",
     "DESCRIPTIVE STATISTICS.md",
-    "01 - Rough Notes/2024-07-07 EXPONENTIAL REGRESSION.md",
     "TEAM IPYNB.md",
     "Untitled 1.md",
     "01 - Rough Notes/2024-07-06 INFLATION.md",
-    "01 - Rough Notes/2024-07-06 Null Hypothesis.md",
-    "01 - Rough Notes/2024-07-07 ANALYZING RAKSAS DATA.md",
     "01 - Rough Notes/2024-07-06 STATISTICS IN HALF AN HOUR.md",
-    "01 - Rough Notes/2024-07-07 Matrix Operations.md",
-    "01 - Rough Notes/2024-07-08 NULL HYPOTHESIS.md",
-    "01 - Rough Notes/2024-07-08 Machine Learning Algorithm.md",
     "01 - Rough Notes/2024-07-06 Consumer Price Index.md",
     "01 - Rough Notes/2024-06-24 PRACTICE SESSION.md",
     "01 - Rough Notes/2024-07-05 Competition Day.md",
@@ -218,7 +203,6 @@
     "2024-07-06.md",
     "Untitled.canvas",
     "Untitled.md",
-    "Home.md",
     "01 - Rough Notes/Things To do Now.md",
     "01 - Notes/2024-07-06 ACCOUNTING PROBLEM.md",
     "01 - Rough Notes/2024-06-27 Watch Python for Data Analytics - Full Course for beginners.md",

@@ -27,7 +27,19 @@ Given n points $\begin{bmatrix} x_1 \\ y_1 \end{bmatrix}$ , $\begin{bmatrix} x_2
 \end{align}
 $$
 
+## $$
+\begin{align}
+	a   &= \frac{\displaystyle \sum_{i=1}^{n}{y}  - b\sum_{i=1}^{n}{x}}
+		{n}
+
+	\\ \\
+
+		&= \frac{S_y - b S_x} 
+					{n} 
+\end{align}
+$$
 
 
-
-
+## $$
+y = bx+a
+$$

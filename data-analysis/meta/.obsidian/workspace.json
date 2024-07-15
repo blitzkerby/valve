@@ -4,26 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2e036b0b549327df",
+        "id": "553b11632d253763",
         "type": "tabs",
         "children": [
           {
-            "id": "fc309aa5a149107d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "59ce3112b94d0d43",
+            "id": "ae1eff04fbb9bd50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Rough Notes/2024-07-13 Catsa cute.md",
-                "mode": "source",
-                "source": false
+                "file": "Screenshot 2024-07-04 at 1.20.01 in the afternoon.png"
               }
             }
           }
@@ -103,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Rough Notes/2024-07-13 Catsa cute.md",
+                "file": "Screenshot 2024-07-04 at 1.20.01 in the afternoon.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Rough Notes/2024-07-13 Catsa cute.md",
+                "file": "Screenshot 2024-07-04 at 1.20.01 in the afternoon.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Rough Notes/2024-07-13 Catsa cute.md"
+                "file": "Screenshot 2024-07-04 at 1.20.01 in the afternoon.png"
               }
             }
           },
@@ -190,26 +180,42 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "59ce3112b94d0d43",
+  "active": "ae1eff04fbb9bd50",
   "lastOpenFiles": [
-    "99 - Misc/the-business-model-canvas.pdf",
-    "99 - Misc/the-business-model-canvas.pdf.crdownload",
-    "01 - Rough Notes/2024-07-13 Catsa cute.md",
-    "01 - Rough Notes/MISSION 4/2024-07-13 studying business canvas model.md",
-    "01 - Rough Notes/RANDOM/Things To do Now.md",
-    "01 - Rough Notes/RANDOM",
-    "99 - Excalidraw/Drawing 2024-07-13 13.53.26.excalidraw.md",
-    "01 - Rough Notes/MISSION 4",
-    "99 - Excalidraw/Drawing 2024-07-13 15.40.41.excalidraw.md",
-    "07 - Mission 4/the-business-model-canvas.pdf",
-    "07 - Mission 3/3rd missiion for indivisual.pdf",
-    "01 - Rough Notes/MISSION 3/2024-06-03 A trick for Logarithm integrals.md",
-    "07 - Mission 4/Untitled.md",
-    "01 - Rough Notes/MISSION 3",
-    "99 - Misc/Pasted image 20240621094355.png",
-    "99 - Misc/Untitled.canvas",
-    "99 - Misc/Screenshot 2024-07-04 at 1.20.01 in the afternoon.png",
-    "01 - Rough Notes/MISSION 3/TEAM IPYNB.md",
+    "the-business-model-canvas.pdf",
+    "Untitled.canvas",
+    "Untitled 1.md",
+    "Screenshot 2024-07-04 at 1.20.01 in the afternoon.png",
+    "Pasted image 20240621094157.png",
+    "DESCRIPTIVE STATISTICS.md",
+    "01 - Rough Notes/2024-06-10 Team Review II.md",
+    "Excalidraw/Drawing 2024-07-13 13.53.26.excalidraw.md",
+    "Excalidraw",
+    "Untitled.md",
+    "99 - Meta",
+    "01 - Rough Notes/2024-07-13 studying business canvas model.md",
+    "01 - Rough Notes/2024-06-26 PRACTICE SESSION.md",
+    "01 - Rough Notes/2024-06-27 build local storage infrastructure.md",
+    "01 - Rough Notes/2024-06-28 PRACTICE SESSION.md",
+    "01 - Rough Notes/2024-06-27 Watch Python for Data Analytics - Full Course for beginners.md",
+    "01 - Rough Notes/2024-07-05 Competition Day.md",
+    "01 - Rough Notes/2024-07-06 INFLATION.md",
+    "01 - Rough Notes/2024-07-06 Consumer Price Index.md",
+    "01 - Rough Notes/2024-07-06 LINEAR REGRESSION.md",
+    "01 - Rough Notes/2024-07-06 Null Hypothesis.md",
+    "01 - Rough Notes/2024-07-06 STATISTICS IN HALF AN HOUR.md",
+    "01 - Rough Notes/2024-07-07 ANALYZING RAKSAS DATA.md",
+    "01 - Rough Notes/2024-07-07 EXPONENTIAL REGRESSION.md",
+    "01 - Rough Notes/2024-07-07 Matrix Operations.md",
+    "01 - Rough Notes/2024-07-08 NULL HYPOTHESIS.md",
+    "01 - Rough Notes/2024-07-08 Machine Learning Algorithm.md",
+    "01 - Rough Notes/Things To do Now.md",
+    "01 - Rough Notes/2024-06-05 Make a To-Do-List application.md",
+    "01 - Rough Notes/2024-06-05 Continue Doing To-Do-list application.md",
+    "01 - Rough Notes/2024-06-03 A trick for Logarithm integrals.md",
+    "06 - Zettelkasten/3rd missiion for indivisual.pdf",
+    "01 - Rough Notes",
+    "Pasted image 20240621094355.png",
     "Plan.canvas",
     "Personal Kanban.md",
     "Home.md",

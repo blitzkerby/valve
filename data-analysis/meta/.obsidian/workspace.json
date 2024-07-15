@@ -1,35 +1,48 @@
 {
   "main": {
-    "id": "1806ed625a3624d5",
+    "id": "601964232d7952d6",
     "type": "split",
     "children": [
       {
-        "id": "c4ca5a197df6fc69",
+        "id": "2e036b0b549327df",
         "type": "tabs",
         "children": [
           {
-            "id": "4d5cd5eb513f6f0e",
+            "id": "fc309aa5a149107d",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "59ce3112b94d0d43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Rough Notes/2024-07-13 Catsa cute.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "736c06d297517607",
+    "id": "34d779c8e59f3280",
     "type": "split",
     "children": [
       {
-        "id": "4e17ed3bddc74611",
+        "id": "61f893a5e0de62ae",
         "type": "tabs",
         "children": [
           {
-            "id": "9fad713789c11950",
+            "id": "5e758e114848d670",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +52,7 @@
             }
           },
           {
-            "id": "4ae76630601e1988",
+            "id": "c6cf954f06989605",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +67,7 @@
             }
           },
           {
-            "id": "11601041f1626f6f",
+            "id": "9d8de7332a5413af",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -62,7 +75,7 @@
             }
           },
           {
-            "id": "5ec8c7d2b701816d",
+            "id": "f64ddae5cc2a149b",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -73,22 +86,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
-    "id": "86e677a152ca1adf",
+    "id": "847303605f34bc97",
     "type": "split",
     "children": [
       {
-        "id": "ef130c1d46b26bfc",
+        "id": "b0ebe15e18dc5b9f",
         "type": "tabs",
         "children": [
           {
-            "id": "9f5ee4df4c4325d9",
+            "id": "5991f3137955d332",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 - Rough Notes/2024-07-13 Catsa cute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,18 +115,19 @@
             }
           },
           {
-            "id": "54dbff5456c26371",
+            "id": "97bf974823adbb09",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01 - Rough Notes/2024-07-13 Catsa cute.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "502e9aafea7fb3f4",
+            "id": "1488debab6ad52ec",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -122,15 +138,17 @@
             }
           },
           {
-            "id": "bb159d49c227aa8a",
+            "id": "72487a6e925a2046",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01 - Rough Notes/2024-07-13 Catsa cute.md"
+              }
             }
           },
           {
-            "id": "190fe846750dde00",
+            "id": "345fd06f7495e4a4",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -138,7 +156,7 @@
             }
           },
           {
-            "id": "d166b21704f1fe21",
+            "id": "96639004445bd0fd",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -146,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -172,55 +190,38 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9fad713789c11950",
+  "active": "59ce3112b94d0d43",
   "lastOpenFiles": [
-    "Home.md",
-    "01 - Rough Notes/2024-07-06 LINEAR REGRESSION.md",
-    "01 - Rough Notes/2024-07-06 ACCOUNTING PROBLEM.md",
-    "DESCRIPTIVE STATISTICS.md",
-    "01 - Rough Notes/2024-07-07 EXPONENTIAL REGRESSION.md",
-    "TEAM IPYNB.md",
-    "Untitled 1.md",
-    "01 - Rough Notes/2024-07-06 INFLATION.md",
-    "01 - Rough Notes/2024-07-06 Null Hypothesis.md",
-    "01 - Rough Notes/2024-07-07 ANALYZING RAKSAS DATA.md",
-    "01 - Rough Notes/2024-07-06 STATISTICS IN HALF AN HOUR.md",
-    "01 - Rough Notes/2024-07-07 Matrix Operations.md",
-    "01 - Rough Notes/2024-07-08 NULL HYPOTHESIS.md",
-    "01 - Rough Notes/2024-07-08 Machine Learning Algorithm.md",
-    "01 - Rough Notes/2024-07-06 Consumer Price Index.md",
-    "01 - Rough Notes/2024-06-24 PRACTICE SESSION.md",
-    "01 - Rough Notes/2024-07-05 Competition Day.md",
-    "01 - Rough Notes/2024-06-28 PRACTICE SESSION.md",
-    "2024-06-17.md",
-    "2024-07-06.md",
-    "Untitled.canvas",
-    "Untitled.md",
-    "01 - Rough Notes/Things To do Now.md",
-    "01 - Notes/2024-07-06 ACCOUNTING PROBLEM.md",
-    "01 - Rough Notes/2024-06-27 Watch Python for Data Analytics - Full Course for beginners.md",
-    "01 - Rough Notes/2024-06-27 PRACTICE SESSION.md",
-    "01 - Rough Notes/2024-06-27 build local storage infrastructure.md",
-    "01 - Rough Notes",
-    "06 - Zettelkasten/3rd missiion for indivisual.pdf",
-    "Pasted image 20240621094355.png",
-    "Pasted image 20240621094157.png",
+    "99 - Misc/the-business-model-canvas.pdf",
+    "99 - Misc/the-business-model-canvas.pdf.crdownload",
+    "01 - Rough Notes/2024-07-13 Catsa cute.md",
+    "01 - Rough Notes/MISSION 4/2024-07-13 studying business canvas model.md",
+    "01 - Rough Notes/RANDOM/Things To do Now.md",
+    "01 - Rough Notes/RANDOM",
+    "99 - Excalidraw/Drawing 2024-07-13 13.53.26.excalidraw.md",
+    "01 - Rough Notes/MISSION 4",
+    "99 - Excalidraw/Drawing 2024-07-13 15.40.41.excalidraw.md",
+    "07 - Mission 4/the-business-model-canvas.pdf",
+    "07 - Mission 3/3rd missiion for indivisual.pdf",
+    "01 - Rough Notes/MISSION 3/2024-06-03 A trick for Logarithm integrals.md",
+    "07 - Mission 4/Untitled.md",
+    "01 - Rough Notes/MISSION 3",
+    "99 - Misc/Pasted image 20240621094355.png",
+    "99 - Misc/Untitled.canvas",
+    "99 - Misc/Screenshot 2024-07-04 at 1.20.01 in the afternoon.png",
+    "01 - Rough Notes/MISSION 3/TEAM IPYNB.md",
     "Plan.canvas",
-    "99 - Meta/artifact/module pattern variations/exports/exports.js",
-    "99 - Meta/artifact/module pattern variations/exports",
-    "99 - Meta/artifact/module pattern variations/Import MIxins/usage.js",
-    "99 - Meta/artifact/module pattern variations/Import MIxins/mixins.mjs",
-    "99 - Meta/artifact/module pattern variations/Import MIxins",
-    "99 - Meta/artifact/module pattern variations",
-    "99 - Meta/artifact/example/exports",
-    "99 - Meta/artifact/example/Import MIxins/usage.js",
-    "99 - Meta/true-src-code/bootstrap-main/nuget/bootstrap.png",
-    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/webpack-dev-server.png",
-    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/webpack-dev-server-bootstrap.png",
-    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/vite-dev-server.png",
-    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/vite-dev-server-bootstrap.png",
-    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/parcel-dev-server.png",
-    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/parcel-dev-server-bootstrap.png",
-    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/bootstrap-webpack@2x.png"
+    "Personal Kanban.md",
+    "Home.md",
+    "99 - Misc/2024-06-17.md",
+    "99 - Misc/Pasted image 20240621094157.png",
+    "01 - Rough Notes/MISSION 3/DESCRIPTIVE STATISTICS.md",
+    "01 - Rough Notes/MISSION 3/Untitled 1.md",
+    "99 - Misc/Untitled 1.canvas",
+    "99 - Misc/Untitled.md",
+    "99 - Misc/2024-07-06.md",
+    "DRAGON LADY/Welcome.md",
+    "07 - Mission 4",
+    "07 - Mission 3"
   ]
 }

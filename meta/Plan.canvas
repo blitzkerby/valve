@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"f4d3cb33514db66a","type":"text","text":"Math Studies Roadmap","x":-540,"y":-200,"width":250,"height":60},
-		{"id":"f18f0d5a1d4eda9c","type":"text","text":"Abstract Linear Algebra","x":-500,"y":-120,"width":250,"height":60},
-		{"id":"45bd51dad83b18d3","type":"text","text":"","x":-500,"y":-40,"width":250,"height":60},
-		{"id":"6ce6486c6633ad74","x":-60,"y":-200,"width":250,"height":60,"type":"text","text":"Project Roadmap"}
-	],
-	"edges":[]
-}

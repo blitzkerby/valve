@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "f5f92cc69e2cc2c2",
+        "id": "fa2113078c7c6f7c",
         "type": "tabs",
         "children": [
           {
-            "id": "351d887cb1c30e55",
+            "id": "b1f38752ac401ed2",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
+              "type": "empty",
               "state": {}
             }
           }
@@ -174,7 +174,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "351d887cb1c30e55",
+  "active": "b1f38752ac401ed2",
   "lastOpenFiles": [
     "Home.md",
     "2024-07-15.md",

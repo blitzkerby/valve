@@ -4,27 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4d8e6e0827ffacad",
+        "id": "a207e4ee6a16c834",
         "type": "tabs",
         "children": [
           {
-            "id": "3a9f8c15c5092df8",
+            "id": "1b64d6223a8b9615",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "452ee47ef1a41a5f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/base-10.md"
+              },
+              "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,12 +73,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 295.5026054382324
+    "width": 475.5
   },
   "right": {
     "id": "86e677a152ca1adf",
@@ -99,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/base-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/base-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/base-10.md"
+              }
             }
           },
           {
@@ -177,11 +175,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "homepage:Open homepage": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5ec8c7d2b701816d",
+  "active": "1b64d6223a8b9615",
   "lastOpenFiles": [
+    "ebays-business-model-canvas.png",
+    "Excalidraw/base-10.md",
+    "ebays-business-model-canvas.PNG",
+    "facebook-business-model-canvas.png",
+    "the-business-model-canvas.pdf",
+    "Kanban",
+    "Kanban/Kanban.md",
+    "Excalidraw",
     "01 - Rough Notes/2024-07-07 Matrix Operations.md",
     "01 - Rough Notes/2024-07-08 IQR.md",
     "01 - Rough Notes/2024-07-07 EXPONENTIAL REGRESSION.md",
@@ -206,9 +214,6 @@
     "01 - Rough Notes/2024-06-27 PRACTICE SESSION.md",
     "01 - Rough Notes/2024-06-27 build local storage infrastructure.md",
     "01 - Rough Notes/2024-06-25 PRACTICE SESSION.md",
-    "01 - Rough Notes/2024-06-26 PRACTICE SESSION.md",
-    "01 - Rough Notes/2024-06-24 PRACTICE SESSION.md",
-    "01 - Rough Notes/2024-06-21 PERSONAL PROJECT SESSION.md",
     "01 - Rough Notes",
     "06 - Zettelkasten/3rd missiion for indivisual.pdf",
     "Pasted image 20240621094355.png",
@@ -219,16 +224,10 @@
     "99 - Meta/artifact/module pattern variations/Import MIxins/usage.js",
     "99 - Meta/artifact/module pattern variations/Import MIxins/mixins.mjs",
     "99 - Meta/artifact/module pattern variations/Import MIxins",
-    "99 - Meta/artifact/module pattern variations",
-    "99 - Meta/artifact/example/exports",
-    "99 - Meta/artifact/example/Import MIxins/usage.js",
     "99 - Meta/true-src-code/bootstrap-main/nuget/bootstrap.png",
     "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/webpack-dev-server.png",
     "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/webpack-dev-server-bootstrap.png",
     "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/vite-dev-server.png",
-    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/vite-dev-server-bootstrap.png",
-    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/parcel-dev-server.png",
-    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/parcel-dev-server-bootstrap.png",
-    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/bootstrap-webpack@2x.png"
+    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/vite-dev-server-bootstrap.png"
   ]
 }

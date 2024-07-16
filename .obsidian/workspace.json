@@ -18,8 +18,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "0497a37e3ea99597",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/ebays-business-model-canvas.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/base-10.md",
+                "file": "Assets/ebays-business-model-canvas.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/base-10.md",
+                "file": "Assets/ebays-business-model-canvas.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/base-10.md"
+                "file": "Assets/ebays-business-model-canvas.png"
               }
             }
           },
@@ -180,13 +191,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1b64d6223a8b9615",
+  "active": "9fad713789c11950",
   "lastOpenFiles": [
-    "ebays-business-model-canvas.png",
     "Excalidraw/base-10.md",
+    "Assets",
+    "Calendar",
+    "Assets/ebays-business-model-canvas.png",
     "ebays-business-model-canvas.PNG",
-    "facebook-business-model-canvas.png",
-    "the-business-model-canvas.pdf",
+    "Assets/facebook-business-model-canvas.png",
+    "Assets/the-business-model-canvas.pdf",
     "Kanban",
     "Kanban/Kanban.md",
     "Excalidraw",
@@ -222,8 +235,6 @@
     "99 - Meta/artifact/module pattern variations/exports/exports.js",
     "99 - Meta/artifact/module pattern variations/exports",
     "99 - Meta/artifact/module pattern variations/Import MIxins/usage.js",
-    "99 - Meta/artifact/module pattern variations/Import MIxins/mixins.mjs",
-    "99 - Meta/artifact/module pattern variations/Import MIxins",
     "99 - Meta/true-src-code/bootstrap-main/nuget/bootstrap.png",
     "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/webpack-dev-server.png",
     "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/webpack-dev-server-bootstrap.png",

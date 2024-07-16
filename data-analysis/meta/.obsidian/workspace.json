@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Screenshot 2024-07-04 at 1.20.01 in the afternoon.png"
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Screenshot 2024-07-04 at 1.20.01 in the afternoon.png",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Screenshot 2024-07-04 at 1.20.01 in the afternoon.png",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Screenshot 2024-07-04 at 1.20.01 in the afternoon.png"
+                "file": "Home.md"
               }
             }
           },
@@ -182,6 +183,7 @@
   },
   "active": "ae1eff04fbb9bd50",
   "lastOpenFiles": [
+    "Home.md",
     "the-business-model-canvas.pdf",
     "Untitled.canvas",
     "Untitled 1.md",
@@ -217,16 +219,8 @@
     "01 - Rough Notes",
     "Pasted image 20240621094355.png",
     "Plan.canvas",
-    "Personal Kanban.md",
-    "Home.md",
-    "99 - Misc/2024-06-17.md",
     "99 - Misc/Pasted image 20240621094157.png",
-    "01 - Rough Notes/MISSION 3/DESCRIPTIVE STATISTICS.md",
-    "01 - Rough Notes/MISSION 3/Untitled 1.md",
     "99 - Misc/Untitled 1.canvas",
-    "99 - Misc/Untitled.md",
-    "99 - Misc/2024-07-06.md",
-    "DRAGON LADY/Welcome.md",
     "07 - Mission 4",
     "07 - Mission 3"
   ]

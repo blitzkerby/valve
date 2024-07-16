@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "1806ed625a3624d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4ca5a197df6fc69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d5cd5eb513f6f0e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "736c06d297517607",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e17ed3bddc74611",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fad713789c11950",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ae76630601e1988",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11601041f1626f6f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ec8c7d2b701816d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 391.5
+  },
+  "right": {
+    "id": "86e677a152ca1adf",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef130c1d46b26bfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f5ee4df4c4325d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "54dbff5456c26371",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "502e9aafea7fb3f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bb159d49c227aa8a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "190fe846750dde00",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d166b21704f1fe21",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9fad713789c11950",
+  "lastOpenFiles": [
+    "Home.md",
+    "01 - Rough Notes/2024-07-06 LINEAR REGRESSION.md",
+    "01 - Rough Notes/2024-07-06 ACCOUNTING PROBLEM.md",
+    "DESCRIPTIVE STATISTICS.md",
+    "01 - Rough Notes/2024-07-07 EXPONENTIAL REGRESSION.md",
+    "TEAM IPYNB.md",
+    "Untitled 1.md",
+    "01 - Rough Notes/2024-07-06 INFLATION.md",
+    "01 - Rough Notes/2024-07-06 Null Hypothesis.md",
+    "01 - Rough Notes/2024-07-07 ANALYZING RAKSAS DATA.md",
+    "01 - Rough Notes/2024-07-06 STATISTICS IN HALF AN HOUR.md",
+    "01 - Rough Notes/2024-07-07 Matrix Operations.md",
+    "01 - Rough Notes/2024-07-08 NULL HYPOTHESIS.md",
+    "01 - Rough Notes/2024-07-08 Machine Learning Algorithm.md",
+    "01 - Rough Notes/2024-07-06 Consumer Price Index.md",
+    "01 - Rough Notes/2024-06-24 PRACTICE SESSION.md",
+    "01 - Rough Notes/2024-07-05 Competition Day.md",
+    "01 - Rough Notes/2024-06-28 PRACTICE SESSION.md",
+    "2024-06-17.md",
+    "2024-07-06.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "01 - Rough Notes/Things To do Now.md",
+    "01 - Notes/2024-07-06 ACCOUNTING PROBLEM.md",
+    "01 - Rough Notes/2024-06-27 Watch Python for Data Analytics - Full Course for beginners.md",
+    "01 - Rough Notes/2024-06-27 PRACTICE SESSION.md",
+    "01 - Rough Notes/2024-06-27 build local storage infrastructure.md",
+    "01 - Rough Notes",
+    "06 - Zettelkasten/3rd missiion for indivisual.pdf",
+    "Pasted image 20240621094355.png",
+    "Pasted image 20240621094157.png",
+    "Plan.canvas",
+    "99 - Meta/artifact/module pattern variations/exports/exports.js",
+    "99 - Meta/artifact/module pattern variations/exports",
+    "99 - Meta/artifact/module pattern variations/Import MIxins/usage.js",
+    "99 - Meta/artifact/module pattern variations/Import MIxins/mixins.mjs",
+    "99 - Meta/artifact/module pattern variations/Import MIxins",
+    "99 - Meta/artifact/module pattern variations",
+    "99 - Meta/artifact/example/exports",
+    "99 - Meta/artifact/example/Import MIxins/usage.js",
+    "99 - Meta/true-src-code/bootstrap-main/nuget/bootstrap.png",
+    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/webpack-dev-server.png",
+    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/webpack-dev-server-bootstrap.png",
+    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/vite-dev-server.png",
+    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/vite-dev-server-bootstrap.png",
+    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/parcel-dev-server.png",
+    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/parcel-dev-server-bootstrap.png",
+    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/bootstrap-webpack@2x.png"
+  ]
+}

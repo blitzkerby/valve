@@ -1,35 +1,44 @@
 {
   "main": {
-    "id": "295a861461cfd6d2",
+    "id": "1806ed625a3624d5",
     "type": "split",
     "children": [
       {
-        "id": "c2256b42ea8f0050",
+        "id": "4d8e6e0827ffacad",
         "type": "tabs",
         "children": [
           {
-            "id": "cbeae1dd65806ad8",
+            "id": "3a9f8c15c5092df8",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "452ee47ef1a41a5f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "da02b50f2ebd0fca",
+    "id": "736c06d297517607",
     "type": "split",
     "children": [
       {
-        "id": "8ded809ba536767b",
+        "id": "4e17ed3bddc74611",
         "type": "tabs",
         "children": [
           {
-            "id": "e38f85b6a7881e1a",
+            "id": "9fad713789c11950",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,12 +48,12 @@
             }
           },
           {
-            "id": "a6641203fbb54829",
+            "id": "4ae76630601e1988",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#statistics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,10 +63,18 @@
             }
           },
           {
-            "id": "6002a522aa41aa9e",
+            "id": "11601041f1626f6f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ec8c7d2b701816d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
               "state": {}
             }
           }
@@ -65,18 +82,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 295.5026054382324
   },
   "right": {
-    "id": "04f4a2ce16606588",
+    "id": "86e677a152ca1adf",
     "type": "split",
     "children": [
       {
-        "id": "971c5f6c98f0eef7",
+        "id": "ef130c1d46b26bfc",
         "type": "tabs",
         "children": [
           {
-            "id": "ec787855cfddef1d",
+            "id": "9f5ee4df4c4325d9",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +109,7 @@
             }
           },
           {
-            "id": "ff615158bbbcca29",
+            "id": "54dbff5456c26371",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +120,7 @@
             }
           },
           {
-            "id": "0efc2da5cda38911",
+            "id": "502e9aafea7fb3f4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,14 +131,31 @@
             }
           },
           {
-            "id": "ad5607164aed8287",
+            "id": "bb159d49c227aa8a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "190fe846750dde00",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d166b21704f1fe21",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -138,9 +172,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e38f85b6a7881e1a",
+  "active": "452ee47ef1a41a5f",
   "lastOpenFiles": [
-    "2024-07-16.md",
-    "Untitled.md"
+    "01 - Rough Notes/2024-07-07 Matrix Operations.md",
+    "01 - Rough Notes/2024-07-08 IQR.md",
+    "01 - Rough Notes/2024-07-07 EXPONENTIAL REGRESSION.md",
+    "01 - Rough Notes/2024-07-07 ANALYZING RAKSAS DATA.md",
+    "01 - Rough Notes/2024-07-06 STATISTICS IN HALF AN HOUR.md",
+    "01 - Rough Notes/2024-07-08 Skewness.md",
+    "Home.md",
+    "Untitled 1.md",
+    "01 - Rough Notes/2024-07-06 LINEAR REGRESSION.md",
+    "01 - Rough Notes/2024-07-06 Consumer Price Index.md",
+    "01 - Rough Notes/2024-07-06 INFLATION.md",
+    "01 - Rough Notes/2024-07-06 Null Hypothesis.md",
+    "01 - Rough Notes/2024-07-06 ACCOUNTING PROBLEM.md",
+    "01 - Rough Notes/2024-07-05 Competition Day.md",
+    "01 - Rough Notes/Things To do Now.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "2024-07-06.md",
+    "01 - Notes/2024-07-06 ACCOUNTING PROBLEM.md",
+    "01 - Rough Notes/2024-06-28 PRACTICE SESSION.md",
+    "01 - Rough Notes/2024-06-27 Watch Python for Data Analytics - Full Course for beginners.md",
+    "01 - Rough Notes/2024-06-27 PRACTICE SESSION.md",
+    "01 - Rough Notes/2024-06-27 build local storage infrastructure.md",
+    "01 - Rough Notes/2024-06-25 PRACTICE SESSION.md",
+    "01 - Rough Notes/2024-06-26 PRACTICE SESSION.md",
+    "01 - Rough Notes/2024-06-24 PRACTICE SESSION.md",
+    "01 - Rough Notes/2024-06-21 PERSONAL PROJECT SESSION.md",
+    "01 - Rough Notes",
+    "06 - Zettelkasten/3rd missiion for indivisual.pdf",
+    "Pasted image 20240621094355.png",
+    "Pasted image 20240621094157.png",
+    "Plan.canvas",
+    "99 - Meta/artifact/module pattern variations/exports/exports.js",
+    "99 - Meta/artifact/module pattern variations/exports",
+    "99 - Meta/artifact/module pattern variations/Import MIxins/usage.js",
+    "99 - Meta/artifact/module pattern variations/Import MIxins/mixins.mjs",
+    "99 - Meta/artifact/module pattern variations/Import MIxins",
+    "99 - Meta/artifact/module pattern variations",
+    "99 - Meta/artifact/example/exports",
+    "99 - Meta/artifact/example/Import MIxins/usage.js",
+    "99 - Meta/true-src-code/bootstrap-main/nuget/bootstrap.png",
+    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/webpack-dev-server.png",
+    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/webpack-dev-server-bootstrap.png",
+    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/vite-dev-server.png",
+    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/vite-dev-server-bootstrap.png",
+    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/parcel-dev-server.png",
+    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/parcel-dev-server-bootstrap.png",
+    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/bootstrap-webpack@2x.png"
   ]
 }

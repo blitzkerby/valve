@@ -8,29 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b64d6223a8b9615",
+            "id": "c5f0f73ab4370a79",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/base-10.md"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "0497a37e3ea99597",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/ebays-business-model-canvas.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/ebays-business-model-canvas.png",
+                "file": "Excalidraw/base-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/ebays-business-model-canvas.png",
+                "file": "Excalidraw/base-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/ebays-business-model-canvas.png"
+                "file": "Excalidraw/base-10.md"
               }
             }
           },
@@ -191,12 +178,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9fad713789c11950",
+  "active": "c5f0f73ab4370a79",
   "lastOpenFiles": [
     "Excalidraw/base-10.md",
+    "Pasted Image 20240716230641_640.png",
+    "Assets/ebays-business-model-canvas.png",
     "Assets",
     "Calendar",
-    "Assets/ebays-business-model-canvas.png",
     "ebays-business-model-canvas.PNG",
     "Assets/facebook-business-model-canvas.png",
     "Assets/the-business-model-canvas.pdf",
@@ -238,7 +226,6 @@
     "99 - Meta/true-src-code/bootstrap-main/nuget/bootstrap.png",
     "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/webpack-dev-server.png",
     "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/webpack-dev-server-bootstrap.png",
-    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/vite-dev-server.png",
-    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/vite-dev-server-bootstrap.png"
+    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/vite-dev-server.png"
   ]
 }

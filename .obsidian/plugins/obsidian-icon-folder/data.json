@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlbum",
+      "LiAtom",
       "CoNote",
       "CoBookOpen",
-      "CoFileBlank",
-      "CoCheckAllBig",
-      "CoCommand"
+      "CoFileBlank"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -48,6 +48,8 @@
   "06 - Zettelkasten/Systems Architecture/Advantages of using Modules.md": "CoCheckAllBig",
   "06 - Zettelkasten/Systems Architecture/Lazy-Loading modules.md": "CoSettingsFuture",
   "Home.md": "CoCommand",
-  "02 - Src": "CoLinkVertical",
-  "01 - Rough Notes": "CoNote"
+  "02 - Zettelkasten": "LiAtom",
+  "01 - Rough Notes": "CoNote",
+  "99 - Mission 3": "LiAlbum",
+  "99 - Mission 4": "LiAlbum"
 }

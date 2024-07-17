@@ -4,20 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "a207e4ee6a16c834",
+        "id": "be677e61d2379311",
         "type": "tabs",
         "children": [
           {
-            "id": "c5f0f73ab4370a79",
+            "id": "bbbf873e274580bf",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/2024-07-17 Canvas Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "06699a3643bd32a5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/base-10.md"
+                "file": "Calendar/2024-07-16 Differentiation of Complex Functions.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/base-10.md",
+                "file": "Calendar/2024-07-16 Differentiation of Complex Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/base-10.md",
+                "file": "Calendar/2024-07-16 Differentiation of Complex Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/base-10.md"
+                "file": "Calendar/2024-07-16 Differentiation of Complex Functions.md"
               }
             }
           },
@@ -170,62 +187,65 @@
       "smart-random-note:Open Random Note from Search": false,
       "templater-obsidian:Templater": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c5f0f73ab4370a79",
+  "active": "06699a3643bd32a5",
   "lastOpenFiles": [
-    "Excalidraw/base-10.md",
-    "Pasted Image 20240716230641_640.png",
+    "Calendar/2024-07-16 Fast Facts about Cambodia's Agriculture Sector.md",
+    "Calendar/2024-07-16 Legatum prosperity index.md",
+    "Calendar/2024-07-16 RESEARCH NOTE.md",
+    "Calendar/2024-07-17 Canvas Model.md",
+    "Calendar/2024-07-16 Cambodia's Rank for agricultural quality in SEA.md",
+    "Calendar/2024-07-16 Differentiation of Complex Functions.md",
     "Assets/ebays-business-model-canvas.png",
-    "Assets",
-    "Calendar",
-    "ebays-business-model-canvas.PNG",
-    "Assets/facebook-business-model-canvas.png",
-    "Assets/the-business-model-canvas.pdf",
-    "Kanban",
-    "Kanban/Kanban.md",
-    "Excalidraw",
-    "01 - Rough Notes/2024-07-07 Matrix Operations.md",
-    "01 - Rough Notes/2024-07-08 IQR.md",
-    "01 - Rough Notes/2024-07-07 EXPONENTIAL REGRESSION.md",
-    "01 - Rough Notes/2024-07-07 ANALYZING RAKSAS DATA.md",
-    "01 - Rough Notes/2024-07-06 STATISTICS IN HALF AN HOUR.md",
-    "01 - Rough Notes/2024-07-08 Skewness.md",
-    "Home.md",
-    "Untitled 1.md",
-    "01 - Rough Notes/2024-07-06 LINEAR REGRESSION.md",
-    "01 - Rough Notes/2024-07-06 Consumer Price Index.md",
-    "01 - Rough Notes/2024-07-06 INFLATION.md",
-    "01 - Rough Notes/2024-07-06 Null Hypothesis.md",
-    "01 - Rough Notes/2024-07-06 ACCOUNTING PROBLEM.md",
-    "01 - Rough Notes/2024-07-05 Competition Day.md",
+    "src/data-analysis/meta/99 - Excalidraw/Drawing 2024-07-13 13.53.26.excalidraw.md",
+    "src/data-analysis/meta/99 - Excalidraw/Drawing 2024-07-13 15.40.41.excalidraw.md",
+    "99 - Mission 3/3rd missiion for indivisual.pdf",
+    "01 - Rough Notes/2024-06-03 A trick for Logarithm integrals.md",
     "01 - Rough Notes/Things To do Now.md",
-    "Untitled.md",
+    "01 - Rough Notes/2024-07-13 studying business canvas model.md",
+    "01 - Rough Notes/2024-06-05 Continue Doing To-Do-list application.md",
+    "99 - Mission 4/the-business-model-canvas.pdf",
+    "Excalidraw/base-10.md",
+    "src/data-analysis/meta/06 - Zettelkasten/Abstract Linear Algebra/Pasted image 20240604061442.png",
+    "src/data-analysis/meta/06 - Zettelkasten/Abstract Linear Algebra/Pasted image 20240601160233.png",
+    "src/data-analysis/meta/06 - Zettelkasten/Abstract Linear Algebra/1. The basics of functions.md",
+    "01 - Rough Notes/2024-07-15 Go ask aunt about the agricultural situation.md",
+    "01 - Rough Notes/2024-07-09 Start of the evaluation of our ideas.md",
+    "01 - Notes/Untitled.md",
+    "02 - Src/Webpages/LaTex Cheat Sheet/LaTeX Cheat Sheet & Quick Reference_files/carbon.js.download",
+    "02 - Src/Webpages/LaTex Cheat Sheet/LaTeX Cheat Sheet & Quick Reference_files/style.css",
+    "02 - Src/Webpages/LaTex Cheat Sheet/LaTeX Cheat Sheet & Quick Reference_files/reference",
+    "02 - Src/Webpages/LaTex Cheat Sheet/LaTeX Cheat Sheet & Quick Reference_files/monetization.custom.js.download",
+    "02 - Src/Webpages/LaTex Cheat Sheet/LaTeX Cheat Sheet & Quick Reference_files/main.js.download",
+    "02 - Src/Webpages/LaTex Cheat Sheet/LaTeX Cheat Sheet & Quick Reference_files/katex.min.js.download",
+    "02 - Src/Webpages/LaTex Cheat Sheet/LaTeX Cheat Sheet & Quick Reference_files/katex.min.css",
+    "02 - Src/Webpages/LaTex Cheat Sheet/LaTeX Cheat Sheet & Quick Reference_files/js",
+    "src/react/TRANSLATION-APP/src/assets/react.svg",
+    "src/data-analysis/meta/06 - Zettelkasten/Systems Architecture/Lazy-Loading modules.md",
+    "src/data-analysis/meta/06 - Zettelkasten/Systems Architecture/LEARNING JS DESIGN PATTERNS.md",
+    "src/data-analysis/meta/06 - Zettelkasten/Systems Architecture/Advantages of using Modules.md",
+    "src/data-analysis/meta/99 - Misc/Obsidian-Notebook-Themes-main/README.md",
+    "src/data-analysis/meta/99 - Misc/Obsidian-Game-Themes-main/README.md",
+    "src/data-analysis/meta/99 - Misc/Obsidian-Daily-Themes-main/title.png",
+    "src/data-analysis/meta/99 - Misc/Obsidian-Daily-Themes-main/example_full.png",
+    "src/data-analysis/meta/99 - Misc/Obsidian-Daily-Themes-main/README.md",
+    "src/data-analysis/meta/99 - Misc/Obsidian-Colored-Sidebar-main/example.png",
+    "src/data-analysis/meta/99 - Misc/Obsidian-Colored-Sidebar-main/Sidebar-Guide.md",
+    "src/data-analysis/meta/06 - Zettelkasten/React/Untitled.md",
+    "01 - Rough Notes/Untitled 1.md",
+    "src/react/TRANSLATION-APP/public/vite.svg",
+    "src/data-analysis/meta/99 - Misc/Untitled.canvas",
+    "src/data-analysis/meta/99 - Misc/Untitled 1.canvas",
+    "src/data-analysis/meta/99 - Misc/Screenshot 2024-07-04 at 1.20.01 in the afternoon.png",
+    "src/data-analysis/meta/99 - Misc/Pasted image 20240621094355.png",
     "Untitled.canvas",
-    "2024-07-06.md",
-    "01 - Notes/2024-07-06 ACCOUNTING PROBLEM.md",
-    "01 - Rough Notes/2024-06-28 PRACTICE SESSION.md",
-    "01 - Rough Notes/2024-06-27 Watch Python for Data Analytics - Full Course for beginners.md",
-    "01 - Rough Notes/2024-06-27 PRACTICE SESSION.md",
-    "01 - Rough Notes/2024-06-27 build local storage infrastructure.md",
-    "01 - Rough Notes/2024-06-25 PRACTICE SESSION.md",
-    "01 - Rough Notes",
-    "06 - Zettelkasten/3rd missiion for indivisual.pdf",
-    "Pasted image 20240621094355.png",
-    "Pasted image 20240621094157.png",
-    "Plan.canvas",
-    "99 - Meta/artifact/module pattern variations/exports/exports.js",
-    "99 - Meta/artifact/module pattern variations/exports",
-    "99 - Meta/artifact/module pattern variations/Import MIxins/usage.js",
-    "99 - Meta/true-src-code/bootstrap-main/nuget/bootstrap.png",
-    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/webpack-dev-server.png",
-    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/webpack-dev-server-bootstrap.png",
-    "99 - Meta/true-src-code/bootstrap-main/site/static/docs/5.3/assets/img/guides/vite-dev-server.png"
+    "Plan.canvas"
   ]
 }

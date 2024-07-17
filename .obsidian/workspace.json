@@ -22,19 +22,65 @@
             }
           },
           {
-            "id": "06699a3643bd32a5",
+            "id": "93965b1c99500408",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "0867f21881619c9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/2024-07-16 Differentiation of Complex Functions.md",
+                "file": "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32970fdae0940338",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/2024-07-17 Canvas Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb33501716da58b6",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
+              }
+            }
+          },
+          {
+            "id": "8016f62aa2ee3bee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -92,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475.5
+    "width": 475.5,
+    "collapsed": true
   },
   "right": {
     "id": "86e677a152ca1adf",
@@ -108,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/2024-07-16 Differentiation of Complex Functions.md",
+                "file": "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/2024-07-16 Differentiation of Complex Functions.md",
+                "file": "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/2024-07-16 Differentiation of Complex Functions.md"
+                "file": "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md"
               }
             }
           },
@@ -195,56 +242,56 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "06699a3643bd32a5",
+  "active": "9fad713789c11950",
   "lastOpenFiles": [
+    "01 - Rough Notes/Laplacian Operator.md",
+    "01 - Rough Notes/Laplacian Operator.md",
+    "Untitled Kanban.md",
+    "Screenshot 2024-07-17 at 6.45.36 in the evening.png",
+    "Calendar/2024-07-17 Canvas Model.md",
+    "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
+    "How to calculate an atomic bomb's critical mass.md",
+    "Assets/Pasted Image 20240716134414_605.svg",
+    "Assets/ebays-business-model-canvas.png",
+    "Assets/facebook-business-model-canvas.png",
+    "Assets/the-business-model-canvas.pdf",
+    "Assets/Pasted Image 20240717114707_789.svg",
+    "Assets/Pasted Image 20240717081008_460.png",
+    "Assets/Pasted Image 20240716230641_640.png",
+    "99 - Mission 4/the-business-model-canvas.pdf",
+    "Untitled 1",
+    "99 - Mission 3/3rd missiion for indivisual.pdf",
+    "03 - Archived/DESCRIPTIVE STATISTICS.md",
+    "03 - Archived/MISSION 3 (Briefing II).md",
+    "03 - Archived",
+    "Untitled",
+    "Kanban/Kanban.md",
+    "Output/base-10.png",
+    "03 - Archived/Untitled 1.md",
+    "03 - Archived/Things To do Now.md",
+    "03 - Archived/Mission 3 - Revised.md",
+    "03 - Archived/Mission 3.md",
+    "Calendar/2024-06-03 A trick for Logarithm integrals.md",
+    "Calendar/2024-07-16 Differentiation of Complex Functions.md",
     "Calendar/2024-07-16 Fast Facts about Cambodia's Agriculture Sector.md",
     "Calendar/2024-07-16 Legatum prosperity index.md",
     "Calendar/2024-07-16 RESEARCH NOTE.md",
-    "Calendar/2024-07-17 Canvas Model.md",
     "Calendar/2024-07-16 Cambodia's Rank for agricultural quality in SEA.md",
-    "Calendar/2024-07-16 Differentiation of Complex Functions.md",
-    "Assets/ebays-business-model-canvas.png",
     "src/data-analysis/meta/99 - Excalidraw/Drawing 2024-07-13 13.53.26.excalidraw.md",
     "src/data-analysis/meta/99 - Excalidraw/Drawing 2024-07-13 15.40.41.excalidraw.md",
-    "99 - Mission 3/3rd missiion for indivisual.pdf",
-    "01 - Rough Notes/2024-06-03 A trick for Logarithm integrals.md",
-    "01 - Rough Notes/Things To do Now.md",
-    "01 - Rough Notes/2024-07-13 studying business canvas model.md",
-    "01 - Rough Notes/2024-06-05 Continue Doing To-Do-list application.md",
-    "99 - Mission 4/the-business-model-canvas.pdf",
+    "Calendar/2024-07-13 studying business canvas model.md",
+    "Calendar/2024-06-05 Continue Doing To-Do-list application.md",
     "Excalidraw/base-10.md",
     "src/data-analysis/meta/06 - Zettelkasten/Abstract Linear Algebra/Pasted image 20240604061442.png",
     "src/data-analysis/meta/06 - Zettelkasten/Abstract Linear Algebra/Pasted image 20240601160233.png",
     "src/data-analysis/meta/06 - Zettelkasten/Abstract Linear Algebra/1. The basics of functions.md",
-    "01 - Rough Notes/2024-07-15 Go ask aunt about the agricultural situation.md",
-    "01 - Rough Notes/2024-07-09 Start of the evaluation of our ideas.md",
-    "01 - Notes/Untitled.md",
+    "Calendar/2024-07-15 Go ask aunt about the agricultural situation.md",
     "02 - Src/Webpages/LaTex Cheat Sheet/LaTeX Cheat Sheet & Quick Reference_files/carbon.js.download",
     "02 - Src/Webpages/LaTex Cheat Sheet/LaTeX Cheat Sheet & Quick Reference_files/style.css",
     "02 - Src/Webpages/LaTex Cheat Sheet/LaTeX Cheat Sheet & Quick Reference_files/reference",
     "02 - Src/Webpages/LaTex Cheat Sheet/LaTeX Cheat Sheet & Quick Reference_files/monetization.custom.js.download",
-    "02 - Src/Webpages/LaTex Cheat Sheet/LaTeX Cheat Sheet & Quick Reference_files/main.js.download",
-    "02 - Src/Webpages/LaTex Cheat Sheet/LaTeX Cheat Sheet & Quick Reference_files/katex.min.js.download",
-    "02 - Src/Webpages/LaTex Cheat Sheet/LaTeX Cheat Sheet & Quick Reference_files/katex.min.css",
-    "02 - Src/Webpages/LaTex Cheat Sheet/LaTeX Cheat Sheet & Quick Reference_files/js",
-    "src/react/TRANSLATION-APP/src/assets/react.svg",
-    "src/data-analysis/meta/06 - Zettelkasten/Systems Architecture/Lazy-Loading modules.md",
-    "src/data-analysis/meta/06 - Zettelkasten/Systems Architecture/LEARNING JS DESIGN PATTERNS.md",
-    "src/data-analysis/meta/06 - Zettelkasten/Systems Architecture/Advantages of using Modules.md",
-    "src/data-analysis/meta/99 - Misc/Obsidian-Notebook-Themes-main/README.md",
-    "src/data-analysis/meta/99 - Misc/Obsidian-Game-Themes-main/README.md",
-    "src/data-analysis/meta/99 - Misc/Obsidian-Daily-Themes-main/title.png",
-    "src/data-analysis/meta/99 - Misc/Obsidian-Daily-Themes-main/example_full.png",
-    "src/data-analysis/meta/99 - Misc/Obsidian-Daily-Themes-main/README.md",
-    "src/data-analysis/meta/99 - Misc/Obsidian-Colored-Sidebar-main/example.png",
-    "src/data-analysis/meta/99 - Misc/Obsidian-Colored-Sidebar-main/Sidebar-Guide.md",
-    "src/data-analysis/meta/06 - Zettelkasten/React/Untitled.md",
-    "01 - Rough Notes/Untitled 1.md",
-    "src/react/TRANSLATION-APP/public/vite.svg",
     "src/data-analysis/meta/99 - Misc/Untitled.canvas",
     "src/data-analysis/meta/99 - Misc/Untitled 1.canvas",
-    "src/data-analysis/meta/99 - Misc/Screenshot 2024-07-04 at 1.20.01 in the afternoon.png",
-    "src/data-analysis/meta/99 - Misc/Pasted image 20240621094355.png",
     "Untitled.canvas",
     "Plan.canvas"
   ]

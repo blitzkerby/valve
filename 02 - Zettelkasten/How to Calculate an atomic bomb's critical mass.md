@@ -101,7 +101,7 @@ $$
 	 \\
 \end{align}
 $$
-#### Diffusion Factor
+#### Diffusion Constant
 ## $$
 	 D = \frac{1}{3} \lambda_t \Braket{v} 
 $$

@@ -4,83 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "be677e61d2379311",
+        "id": "3994b6d0b3dd14ea",
         "type": "tabs",
         "children": [
           {
-            "id": "bbbf873e274580bf",
+            "id": "654e73babe0009a0",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Calendar/2024-07-17 Canvas Model.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "93965b1c99500408",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "0867f21881619c9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32970fdae0940338",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/2024-07-17 Canvas Model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb33501716da58b6",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
-              }
-            }
-          },
-          {
-            "id": "8016f62aa2ee3bee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/base-12.md"
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475.5,
-    "collapsed": true
+    "width": 475.5
   },
   "right": {
     "id": "86e677a152ca1adf",
@@ -155,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
+                "file": "Excalidraw/base-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
+                "file": "Excalidraw/base-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md"
+                "file": "Excalidraw/base-12.md"
               }
             }
           },
@@ -242,22 +178,30 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9fad713789c11950",
+  "active": "654e73babe0009a0",
   "lastOpenFiles": [
-    "01 - Rough Notes/Laplacian Operator.md",
-    "01 - Rough Notes/Laplacian Operator.md",
-    "Untitled Kanban.md",
-    "Screenshot 2024-07-17 at 6.45.36 in the evening.png",
-    "Calendar/2024-07-17 Canvas Model.md",
+    "Pasted Image 20240718104850_534.png",
+    "people-together_4596136.png",
+    "Excalidraw/base-12.md",
+    "Pasted Image 20240718103044_938.png",
+    "Pasted Image 20240718102930_425.png",
+    "Pasted Image 20240718102859_446.png",
+    "Pasted Image 20240718102039_472.png",
+    "Pasted Image 20240718101521_328.png",
     "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
+    "Assets/Pasted Image 20240718101112_655.png",
+    "02 - Zettelkasten/Strategic Thinking - A Mental Model from Chess.md",
+    "Assets/Screenshot 2024-07-18 at 10.11.13 in the morning.png",
+    "Assets/Screenshot 2024-07-18 at 10.10.04 in the morning.png",
+    "Assets/Screenshot 2024-07-18 at 10.09.03 in the morning.png",
+    "Untitled Kanban.md",
+    "Excalidraw/base-9.md",
+    "Home.md",
+    "Calendar/2024-07-17 Canvas Model.md",
+    "01 - Rough Notes/Laplacian Operator.md",
+    "01 - Rough Notes/Laplacian Operator.md",
     "How to calculate an atomic bomb's critical mass.md",
-    "Assets/Pasted Image 20240716134414_605.svg",
-    "Assets/ebays-business-model-canvas.png",
-    "Assets/facebook-business-model-canvas.png",
     "Assets/the-business-model-canvas.pdf",
-    "Assets/Pasted Image 20240717114707_789.svg",
-    "Assets/Pasted Image 20240717081008_460.png",
-    "Assets/Pasted Image 20240716230641_640.png",
     "99 - Mission 4/the-business-model-canvas.pdf",
     "Untitled 1",
     "99 - Mission 3/3rd missiion for indivisual.pdf",
@@ -266,7 +210,6 @@
     "03 - Archived",
     "Untitled",
     "Kanban/Kanban.md",
-    "Output/base-10.png",
     "03 - Archived/Untitled 1.md",
     "03 - Archived/Things To do Now.md",
     "03 - Archived/Mission 3 - Revised.md",
@@ -279,13 +222,6 @@
     "Calendar/2024-07-16 Cambodia's Rank for agricultural quality in SEA.md",
     "src/data-analysis/meta/99 - Excalidraw/Drawing 2024-07-13 13.53.26.excalidraw.md",
     "src/data-analysis/meta/99 - Excalidraw/Drawing 2024-07-13 15.40.41.excalidraw.md",
-    "Calendar/2024-07-13 studying business canvas model.md",
-    "Calendar/2024-06-05 Continue Doing To-Do-list application.md",
-    "Excalidraw/base-10.md",
-    "src/data-analysis/meta/06 - Zettelkasten/Abstract Linear Algebra/Pasted image 20240604061442.png",
-    "src/data-analysis/meta/06 - Zettelkasten/Abstract Linear Algebra/Pasted image 20240601160233.png",
-    "src/data-analysis/meta/06 - Zettelkasten/Abstract Linear Algebra/1. The basics of functions.md",
-    "Calendar/2024-07-15 Go ask aunt about the agricultural situation.md",
     "02 - Src/Webpages/LaTex Cheat Sheet/LaTeX Cheat Sheet & Quick Reference_files/carbon.js.download",
     "02 - Src/Webpages/LaTex Cheat Sheet/LaTeX Cheat Sheet & Quick Reference_files/style.css",
     "02 - Src/Webpages/LaTex Cheat Sheet/LaTeX Cheat Sheet & Quick Reference_files/reference",

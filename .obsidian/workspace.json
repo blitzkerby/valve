@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bbbf873e274580bf",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/2024-07-17 Canvas Model.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "93965b1c99500408",
             "type": "leaf",
             "state": {
@@ -30,7 +16,7 @@
             }
           },
           {
-            "id": "0867f21881619c9d",
+            "id": "32970fdae0940338",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,32 +24,6 @@
                 "file": "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "32970fdae0940338",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/2024-07-17 Canvas Model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb33501716da58b6",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
               }
             }
           },
@@ -73,14 +33,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475.5,
-    "collapsed": true
+    "width": 475.5
   },
   "right": {
     "id": "86e677a152ca1adf",
@@ -242,14 +201,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9fad713789c11950",
+  "active": "32970fdae0940338",
   "lastOpenFiles": [
     "01 - Rough Notes/Laplacian Operator.md",
-    "01 - Rough Notes/Laplacian Operator.md",
+    "Output/base-10.png",
+    "Calendar/2024-07-17 Canvas Model.md",
+    "Home.md",
+    "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
     "Untitled Kanban.md",
     "Screenshot 2024-07-17 at 6.45.36 in the evening.png",
-    "Calendar/2024-07-17 Canvas Model.md",
-    "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
     "How to calculate an atomic bomb's critical mass.md",
     "Assets/Pasted Image 20240716134414_605.svg",
     "Assets/ebays-business-model-canvas.png",
@@ -266,7 +226,6 @@
     "03 - Archived",
     "Untitled",
     "Kanban/Kanban.md",
-    "Output/base-10.png",
     "03 - Archived/Untitled 1.md",
     "03 - Archived/Things To do Now.md",
     "03 - Archived/Mission 3 - Revised.md",
@@ -284,8 +243,6 @@
     "Excalidraw/base-10.md",
     "src/data-analysis/meta/06 - Zettelkasten/Abstract Linear Algebra/Pasted image 20240604061442.png",
     "src/data-analysis/meta/06 - Zettelkasten/Abstract Linear Algebra/Pasted image 20240601160233.png",
-    "src/data-analysis/meta/06 - Zettelkasten/Abstract Linear Algebra/1. The basics of functions.md",
-    "Calendar/2024-07-15 Go ask aunt about the agricultural situation.md",
     "02 - Src/Webpages/LaTex Cheat Sheet/LaTeX Cheat Sheet & Quick Reference_files/carbon.js.download",
     "02 - Src/Webpages/LaTex Cheat Sheet/LaTeX Cheat Sheet & Quick Reference_files/style.css",
     "02 - Src/Webpages/LaTex Cheat Sheet/LaTeX Cheat Sheet & Quick Reference_files/reference",

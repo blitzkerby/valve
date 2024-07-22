@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "edd08b16c0d93bc8",
+            "id": "d26380736f436194",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d26380736f436194",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/2024-07-20 Nice general formula.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,13 +73,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "28f84addcdfc127b",
@@ -116,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/2024-07-20 Nice general formula.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/2024-07-20 Nice general formula.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/2024-07-20 Nice general formula.md"
+                "file": "Home.md"
               }
             }
           },
@@ -195,7 +180,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49c8d6a64672f215",
+  "active": "3687e9fda175fe4e",
   "lastOpenFiles": [
     "Home.md",
     "Calendar/2024-07-20 Nice general formula.md"

@@ -11,5 +11,10 @@ completed: null
 The absolute value (or modulus) of a real number x (written $| x |$) is a non-negative real number that satisfies the conditions:
 
 ## $$
-\
+\begin{matrix}
+	\begin{align}
+		|x| &= x   & \text{if }x \ge 0 \\ 
+		|x| &= -x  & \text{if }x < 0
+	\end{align}
+\end{matrix}
 $$

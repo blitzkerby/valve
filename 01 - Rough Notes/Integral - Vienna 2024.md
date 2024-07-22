@@ -10,6 +10,19 @@ tags:
 ---
 ## $$
 
-\int^{\frac{p}{#}}}_{#}
+\int^{\frac{\pi}{2}}_{0} 
+	\frac{\sin 2024x}
+		{\sin x}
+dx 
+
+\\ 
+
+\int^{\frac{\pi}{2}}_{0} 
+	\frac{\sin 2024x}
+		{\sin x}
+dx
+
+
 
 $$
+

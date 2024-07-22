@@ -1,0 +1,15 @@
+{
+  "open": [
+    [
+      {
+        "name": "Auto Commit",
+        "path": "${workspaceFolder}",
+        "command": ".\\autocommit.bat"
+      }
+    ]
+  ],
+  "close": [
+    "killall",
+    "closeall"
+  ]
+}

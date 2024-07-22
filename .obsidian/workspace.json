@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5722fe3197a1d791",
+        "id": "8e1df6823819b32e",
         "type": "tabs",
         "children": [
           {
-            "id": "d26380736f436194",
+            "id": "90b53ce515fa9111",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,7 +180,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3687e9fda175fe4e",
+  "active": "90b53ce515fa9111",
   "lastOpenFiles": [
     "Home.md",
     "Calendar/2024-07-20 Nice general formula.md"

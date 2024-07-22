@@ -4,9 +4,7 @@ allDay: false
 startTime: 19:00
 endTime: 19:30
 date: 2024-07-17
-completed: 
-tags:
-  - math
+completed: null
 ---
 #### $$
 \begin{align}

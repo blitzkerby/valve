@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Rough Notes/Laplacian Operator.md",
+                "file": "01 - Rough Notes/Integral - Vienna 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Rough Notes/Laplacian Operator.md",
+                "file": "01 - Rough Notes/Integral - Vienna 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Rough Notes/Laplacian Operator.md",
+                "file": "01 - Rough Notes/Integral - Vienna 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Rough Notes/Laplacian Operator.md"
+                "file": "01 - Rough Notes/Integral - Vienna 2024.md"
               }
             }
           },
@@ -195,12 +195,12 @@
   },
   "active": "824f0ed0877b51dd",
   "lastOpenFiles": [
-    "01 - Rough Notes/Laplacian Operator 1.md",
-    "01 - Rough Notes/The Absolute Value of a Real Number.md",
     "01 - Rough Notes/Laplacian Operator.md",
+    "01 - Rough Notes/Integral - Vienna 2024.md",
+    "01 - Rough Notes/The Absolute Value of a Real Number.md",
+    "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
     "02 - Zettelkasten/Strategic Thinking - A Mental Model from Chess.md",
     "Untitled.md",
-    "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
     "Excalidraw/Drawing 2024-07-22 15.32.14.excalidraw.md",
     "Home.md",
     "Calendar/2024-07-20 Nice general formula.md"

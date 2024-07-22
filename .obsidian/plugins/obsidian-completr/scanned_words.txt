@@ -13019,6 +13019,7 @@ sVX
 sqp
 sHP
 spRb
+satisfies
 wa
 with
 www
@@ -62781,6 +62782,7 @@ cniG
 cUxg
 cKG
 cSD
+conditions
 Qa
 QSO
 Qr
@@ -100461,6 +100463,7 @@ njrW
 nGB
 nUP
 noI
+negative
 yS
 yda
 yy
@@ -125076,6 +125079,7 @@ mrtzJ
 mLk
 med
 macw
+modulus
 GpG
 Gj
 Gz
@@ -131078,6 +131082,7 @@ aLhwOi
 azV
 acm
 aoJ
+absolute
 Ufy
 Uh
 UvOW

@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "Calendar",
+      "path": "Calendar.md"
+    },
+    {
+      "basename": "Pasted Image 20240718101521_328",
+      "path": "Assets/Pasted Image 20240718101521_328.png"
+    },
+    {
+      "basename": "Pasted Image 20240718100357_184",
+      "path": "Assets/Pasted Image 20240718100357_184.png"
+    },
+    {
+      "basename": "Pasted Image 20240717114707_789",
+      "path": "Assets/Pasted Image 20240717114707_789.svg"
+    },
+    {
+      "basename": "Pasted Image 20240717081008_460",
+      "path": "Assets/Pasted Image 20240717081008_460.png"
+    },
+    {
+      "basename": "Pasted Image 20240716230641_640",
+      "path": "Assets/Pasted Image 20240716230641_640.png"
+    },
+    {
+      "basename": "Pasted Image 20240716134414_605",
+      "path": "Assets/Pasted Image 20240716134414_605.svg"
+    },
+    {
+      "basename": "Screenshot 2024-07-18 at 10.11.13 in the morning",
+      "path": "Assets/Screenshot 2024-07-18 at 10.11.13 in the morning.png"
+    },
+    {
+      "basename": "Screenshot 2024-07-18 at 10.10.04 in the morning",
+      "path": "Assets/Screenshot 2024-07-18 at 10.10.04 in the morning.png"
+    },
+    {
+      "basename": "Screenshot 2024-07-18 at 10.09.03 in the morning",
+      "path": "Assets/Screenshot 2024-07-18 at 10.09.03 in the morning.png"
+    },
+    {
+      "basename": "Screenshot 2024-07-17 at 6.45.36 in the evening",
+      "path": "Assets/Screenshot 2024-07-17 at 6.45.36 in the evening.png"
+    },
+    {
+      "basename": "Pasted Image 20240719144134_900",
+      "path": "Assets/Pasted Image 20240719144134_900.png"
+    },
+    {
+      "basename": "Kanban",
+      "path": "Kanban/Kanban.md"
+    },
+    {
       "basename": "First Order Differential Equations",
       "path": "01 - Rough Notes/First Order Differential Equations.md"
     },
@@ -23,14 +75,6 @@
     {
       "basename": "Strategic Thinking - A Mental Model from Chess",
       "path": "02 - Zettelkasten/Strategic Thinking - A Mental Model from Chess.md"
-    },
-    {
-      "basename": "Drawing 2024-07-22 15.32.14.excalidraw",
-      "path": "Excalidraw/Drawing 2024-07-22 15.32.14.excalidraw.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     }
   ],
   "omittedPaths": []

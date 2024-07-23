@@ -4,5 +4,5 @@ cd /d "%~dp0"
 git add -A
 git commit -m "Auto commit"
 git push origin main
-timeout /t 300
+timeout /t 1000
 goto loop

@@ -11,11 +11,9 @@
             "id": "a435202f74165adc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Calendar/2024-07-24 Props.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/base-14.md"
               }
             }
           }
@@ -101,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/2024-07-24 Props.md",
+                "file": "Excalidraw/base-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/2024-07-24 Props.md",
+                "file": "Excalidraw/base-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/2024-07-24 Props.md"
+                "file": "Excalidraw/base-14.md"
               }
             }
           },
@@ -182,8 +180,8 @@
   },
   "active": "a435202f74165adc",
   "lastOpenFiles": [
-    "Calendar.md",
     "Calendar/2024-07-24 Props.md",
+    "Calendar.md",
     "Excalidraw/base-14.md",
     "Calendar/2024-07-24 Converting HTML to JSX.md",
     "Calendar/2024-07-23 Asynchronous JavaScript.md",

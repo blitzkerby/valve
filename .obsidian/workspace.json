@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c8ee2cc0b9101dc9",
+        "id": "cf8ea8732addf839",
         "type": "tabs",
         "children": [
           {
-            "id": "a435202f74165adc",
+            "id": "0124ea371c92d6b7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/base-14.md"
-              }
+              "type": "full-calendar-view",
+              "state": {}
             }
           }
         ]
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/base-14.md",
+                "file": "Calendar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/base-14.md",
+                "file": "Calendar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/base-14.md"
+                "file": "Calendar.md"
               }
             }
           },
@@ -178,11 +176,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a435202f74165adc",
+  "active": "0124ea371c92d6b7",
   "lastOpenFiles": [
+    "Excalidraw/base-14.md",
     "Calendar/2024-07-24 Props.md",
     "Calendar.md",
-    "Excalidraw/base-14.md",
     "Calendar/2024-07-24 Converting HTML to JSX.md",
     "Calendar/2024-07-23 Asynchronous JavaScript.md",
     "01 - Rough Notes/React Journey.md",

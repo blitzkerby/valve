@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-07-23 Asynchronous JavaScript",
+      "path": "Calendar/2024-07-23 Asynchronous JavaScript.md"
+    },
+    {
+      "basename": "React Journey",
+      "path": "01 - Rough Notes/React Journey.md"
+    },
+    {
       "basename": "2024-07-24 Component Trees",
       "path": "Calendar/2024-07-24 Component Trees.md"
     },
@@ -23,14 +31,6 @@
     {
       "basename": "Calendar",
       "path": "Calendar.md"
-    },
-    {
-      "basename": "React Journey",
-      "path": "01 - Rough Notes/React Journey.md"
-    },
-    {
-      "basename": "2024-07-23 Asynchronous JavaScript",
-      "path": "Calendar/2024-07-23 Asynchronous JavaScript.md"
     },
     {
       "basename": "2024-07-23 Rest-Spread operator",

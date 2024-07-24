@@ -1,6 +1,6 @@
 ---
 title: Component Trees
-allDay: false
+allDay: true
 startTime: 16:30
 endTime: 17:00
 date: 2024-07-24

@@ -92,7 +92,7 @@ function Menu()
       <Pizza 
         name="Pizza Funghi"
         ingredients="Tomato, mushrooms"
-        price="12"
+        price={12}
         photoName='pizzas/funghi.jpg'
       />
     </main>

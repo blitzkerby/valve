@@ -11,8 +11,12 @@
             "id": "0124ea371c92d6b7",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/2024-07-24 Props.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -97,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar.md",
+                "file": "Calendar/2024-07-24 Props.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar.md",
+                "file": "Calendar/2024-07-24 Props.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar.md"
+                "file": "Calendar/2024-07-24 Props.md"
               }
             }
           },
@@ -178,9 +182,10 @@
   },
   "active": "0124ea371c92d6b7",
   "lastOpenFiles": [
+    "Pasted image 20240724233157.png",
+    "Calendar.md",
     "Excalidraw/base-14.md",
     "Calendar/2024-07-24 Props.md",
-    "Calendar.md",
     "Calendar/2024-07-24 Converting HTML to JSX.md",
     "Calendar/2024-07-23 Asynchronous JavaScript.md",
     "01 - Rough Notes/React Journey.md",
@@ -210,7 +215,6 @@
     "02 - Zettelkasten/Strategic Thinking - A Mental Model from Chess.md",
     "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
     "02 - Zettelkasten/1. The basics of functions.md",
-    "Calendar/2024-07-23 test.md",
     "01 - pure-react",
     "01-pure-react",
     "Calendar/Untitled.canvas",

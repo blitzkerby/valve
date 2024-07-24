@@ -82,10 +82,12 @@ function Menu()
   return (
     <main className="menu">
       <h2>Our Menu</h2>
-      <Pizza />
-      <Pizza />
-      <Pizza />
-      <Pizza />
+      <Pizza 
+          name="Pizza Spinaci"
+          ingredients="Tomato, mozarella, spinach, and ricotta cheese"
+          photoName='pizzas/spinaci.jpg'
+          price="10"
+        />
     </main>
   )
 }
@@ -104,17 +106,21 @@ function Footer()
   //   alert("Sorry, we're closed.");
   // }
 
-  return <footer> {new Date().toLocaleDateString()} We're currently open </footer>
+  return (
+    <footer className="footer"> 
+      {new Date().toLocaleDateString()} We're currently open 
+    </footer>
+  )
 }
 
 
-function Pizza()
+function Pizza(props)
 {
     return (
         <div>
-            <img src="pizzas/spinaci.jpg" alt="Pizza spinaci"></img>
-            <h2>Pizza</h2>
-            <p>Tomato | Mozarella | Spinach | Ricotta Cheese</p>
+            <img src={props.photoName} alt={props.name}></img>
+            <h2>{props.name}</h2>
+            <p>{props.ingredients}</p>
         </div>
     )
 }

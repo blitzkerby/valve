@@ -83,11 +83,18 @@ function Menu()
     <main className="menu">
       <h2>Our Menu</h2>
       <Pizza 
-          name="Pizza Spinaci"
-          ingredients="Tomato, mozarella, spinach, and ricotta cheese"
-          photoName='pizzas/spinaci.jpg'
-          price="10"
-        />
+        name="Pizza Spinaci"
+        ingredients="Tomato, mozarella, spinach, and ricotta cheese"
+        photoName='pizzas/spinaci.jpg'
+        price="10"
+      />
+
+      <Pizza 
+        name="Pizza Funghi"
+        ingredients="Tomato, mushrooms"
+        price="12"
+        photoName='pizzas/funghi.jpg'
+      />
     </main>
   )
 }
@@ -117,10 +124,11 @@ function Footer()
 function Pizza(props)
 {
     return (
-        <div>
+        <div className="pizza">
             <img src={props.photoName} alt={props.name}></img>
-            <h2>{props.name}</h2>
+            <h3>{props.name}</h3>
             <p>{props.ingredients}</p>
+            <span>{props.price}</span>
         </div>
     )
 }

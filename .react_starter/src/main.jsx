@@ -55,14 +55,19 @@ function App()
         <div>
             <h1>Welcome to my React App!</h1>
             <Pizza />
+            <Pizza />
+            <Pizza />
         </div>
     )
 }
+
+
 
 function Pizza()
 {
     return (
         <div>
+            <img src="pizzas/spinaci.jpg" alt="Pizza spinaci"></img>
             <h2>Pizza</h2>
             <p>Tomato | Mozarella | Spinach | Ricotta Cheese</p>
         </div>

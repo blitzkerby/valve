@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/base-14.md",
+                "file": "Calendar/2024-07-24 Component Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/base-14.md",
+                "file": "Calendar/2024-07-24 Component Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/base-14.md"
+                "file": "Calendar/2024-07-24 Component Trees.md"
               }
             }
           },
@@ -191,11 +190,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c080986c3926ed05",
+  "active": "e68b8941e13bb4f5",
   "lastOpenFiles": [
-    "Calendar/2024-07-24 Component Trees.md",
-    "Pasted image 20240724165107.png",
+    "Pasted image 20240724165244.png",
     "Excalidraw/base-14.md",
+    "Calendar/2024-07-24 Component Trees.md",
+    "Pasted image 20240724165219.png",
+    "Pasted image 20240724165131.png",
+    "Pasted image 20240724165122.png",
+    "Pasted image 20240724165107.png",
     "Excalidraw/Drawing 2024-07-19 09.07.51.excalidraw.md",
     "Excalidraw/Drawing 2024-07-19 11.29.05.excalidraw.md",
     "Excalidraw/base-13.md",
@@ -229,9 +232,6 @@
     "Assets/Pasted Image 20240717114707_789.svg",
     "Assets/Pasted Image 20240717081008_460.png",
     "Assets/Pasted Image 20240716230641_640.png",
-    "Assets/Pasted Image 20240716134414_605.svg",
-    "Assets/Screenshot 2024-07-18 at 10.11.13 in the morning.png",
-    "Assets/Screenshot 2024-07-18 at 10.10.04 in the morning.png",
     "ipynb/states.csv",
     "ipynb/instance.ipynb",
     "ipynb/base-1.ipynb",

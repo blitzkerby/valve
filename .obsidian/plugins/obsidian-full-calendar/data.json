@@ -4,6 +4,66 @@
       "type": "local",
       "color": "hsl(126, 100%, 70%)",
       "directory": "Calendar"
+    },
+    {
+      "type": "local",
+      "color": "hsl(126, 100%, 70%)",
+      "directory": "01 - Rough Notes"
+    },
+    {
+      "type": "local",
+      "color": "hsl(126, 100%, 70%)",
+      "directory": "02 - Zettelkasten"
+    },
+    {
+      "type": "local",
+      "color": "hsl(126, 100%, 70%)",
+      "directory": "03 - Archived"
+    },
+    {
+      "type": "local",
+      "color": "hsl(126, 100%, 70%)",
+      "directory": "99 - Mission 3"
+    },
+    {
+      "type": "local",
+      "color": "hsl(126, 100%, 70%)",
+      "directory": "99 - Mission 4"
+    },
+    {
+      "type": "local",
+      "color": "hsl(126, 100%, 70%)",
+      "directory": "Assets"
+    },
+    {
+      "type": "local",
+      "color": "hsl(126, 100%, 70%)",
+      "directory": "Excalidraw"
+    },
+    {
+      "type": "local",
+      "color": "hsl(126, 100%, 70%)",
+      "directory": "Kanban"
+    },
+    {
+      "type": "local",
+      "color": "hsl(126, 100%, 70%)",
+      "directory": "Output"
+    },
+    {
+      "type": "local",
+      "color": "hsl(126, 100%, 70%)",
+      "directory": "ipynb"
+    },
+    {
+      "type": "local",
+      "color": "hsl(126, 100%, 70%)",
+      "directory": "ipynb/docs"
+    },
+    {
+      "type": "local",
+      "color": "hsl(126, 100%, 70%)",
+      "directory": "/"
     }
   ],
   "defaultCalendar": 0,

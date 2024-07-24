@@ -1,8 +1,76 @@
 {
   "recentFiles": [
     {
+      "basename": "base-14",
+      "path": "Excalidraw/base-14.md"
+    },
+    {
+      "basename": "2024-07-24 Component Trees",
+      "path": "Calendar/2024-07-24 Component Trees.md"
+    },
+    {
+      "basename": "Drawing 2024-07-19 09.07.51.excalidraw",
+      "path": "Excalidraw/Drawing 2024-07-19 09.07.51.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-07-19 11.29.05.excalidraw",
+      "path": "Excalidraw/Drawing 2024-07-19 11.29.05.excalidraw.md"
+    },
+    {
+      "basename": "base-13",
+      "path": "Excalidraw/base-13.md"
+    },
+    {
       "basename": "Calendar",
       "path": "Calendar.md"
+    },
+    {
+      "basename": "React Journey",
+      "path": "01 - Rough Notes/React Journey.md"
+    },
+    {
+      "basename": "2024-07-23 Asynchronous JavaScript",
+      "path": "Calendar/2024-07-23 Asynchronous JavaScript.md"
+    },
+    {
+      "basename": "2024-07-23 Rest-Spread operator",
+      "path": "Calendar/2024-07-23 Rest-Spread operator.md"
+    },
+    {
+      "basename": "The Absolute Value of a Real Number",
+      "path": "01 - Rough Notes/The Absolute Value of a Real Number.md"
+    },
+    {
+      "basename": "Laplacian Operator",
+      "path": "01 - Rough Notes/Laplacian Operator.md"
+    },
+    {
+      "basename": "Integral - Vienna 2024",
+      "path": "01 - Rough Notes/Integral - Vienna 2024.md"
+    },
+    {
+      "basename": "First Order Differential Equations",
+      "path": "01 - Rough Notes/First Order Differential Equations.md"
+    },
+    {
+      "basename": "2024-07-23 Destructuring Data",
+      "path": "Calendar/2024-07-23 Destructuring Data.md"
+    },
+    {
+      "basename": "2024-07-23 Template",
+      "path": "Template/2024-07-23 Template.md"
+    },
+    {
+      "basename": "Strategic Thinking - A Mental Model from Chess",
+      "path": "02 - Zettelkasten/Strategic Thinking - A Mental Model from Chess.md"
+    },
+    {
+      "basename": "How to Calculate an atomic bomb's critical mass",
+      "path": "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md"
+    },
+    {
+      "basename": "1. The basics of functions",
+      "path": "02 - Zettelkasten/1. The basics of functions.md"
     },
     {
       "basename": "Pasted Image 20240718101521_328",
@@ -51,30 +119,6 @@
     {
       "basename": "Kanban",
       "path": "Kanban/Kanban.md"
-    },
-    {
-      "basename": "First Order Differential Equations",
-      "path": "01 - Rough Notes/First Order Differential Equations.md"
-    },
-    {
-      "basename": "Integral - Vienna 2024",
-      "path": "01 - Rough Notes/Integral - Vienna 2024.md"
-    },
-    {
-      "basename": "Laplacian Operator",
-      "path": "01 - Rough Notes/Laplacian Operator.md"
-    },
-    {
-      "basename": "The Absolute Value of a Real Number",
-      "path": "01 - Rough Notes/The Absolute Value of a Real Number.md"
-    },
-    {
-      "basename": "How to Calculate an atomic bomb's critical mass",
-      "path": "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md"
-    },
-    {
-      "basename": "Strategic Thinking - A Mental Model from Chess",
-      "path": "02 - Zettelkasten/Strategic Thinking - A Mental Model from Chess.md"
     }
   ],
   "omittedPaths": []

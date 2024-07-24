@@ -4,28 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "361917d193e97864",
+        "id": "3b73f59dc820a3f3",
         "type": "tabs",
         "children": [
           {
-            "id": "aac0411cffdfcdb0",
+            "id": "e68b8941e13bb4f5",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/2024-07-24 Component Trees.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "2ed834f2bb9f42b2",
+            "id": "c080986c3926ed05",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/base-14.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 248.5
   },
   "right": {
     "id": "28f84addcdfc127b",
@@ -107,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/base-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/base-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/base-14.md"
+              }
             }
           },
           {
@@ -182,19 +191,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aac0411cffdfcdb0",
+  "active": "c080986c3926ed05",
   "lastOpenFiles": [
+    "Calendar/2024-07-24 Component Trees.md",
+    "Pasted image 20240724165107.png",
+    "Excalidraw/base-14.md",
+    "Excalidraw/Drawing 2024-07-19 09.07.51.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-19 11.29.05.excalidraw.md",
+    "Excalidraw/base-13.md",
+    "Calendar.md",
+    "Pasted Image 20240724164752_308.svg",
+    "Calendar/2024-07-24 Converting HTML to JSX.md",
+    "01 - Rough Notes/React Journey.md",
+    "Calendar/2024-07-23 Asynchronous JavaScript.md",
+    "Calendar/2024-07-23 Rest-Spread operator.md",
+    "“2024-07-23.md",
+    "2024-07-23.md",
+    "Test.md",
+    "Test2.md",
+    "01 - Rough Notes/The Absolute Value of a Real Number.md",
+    "01 - Rough Notes/Laplacian Operator.md",
+    "01 - Rough Notes/Integral - Vienna 2024.md",
+    "01 - Rough Notes/First Order Differential Equations.md",
+    "Calendar/2024-07-23 Destructuring Data.md",
+    "01 - Rough Notes/Untitled.md",
+    "Template/2024-07-23 Template.md",
+    "Template",
+    "02 - Zettelkasten/Strategic Thinking - A Mental Model from Chess.md",
+    "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
+    "02 - Zettelkasten/1. The basics of functions.md",
+    "Calendar/2024-07-23 test.md",
     "01 - pure-react",
     "01-pure-react",
-    "02 - Zettelkasten/1. The basics of functions.md",
-    "Calendar/2024-06-03 Solve Leetcode Problem.md",
     "Calendar/Untitled.canvas",
-    "Calendar/2024-06-04 Quotes of the Day.md",
-    "Calendar/2024-06-04 Prepare a lesson for team.md",
-    "Calendar/Things To do Now.md",
-    "Calendar/2024-07-08 Skewness.md",
-    "Calendar/2024-07-08 IQR.md",
-    "Calendar.md",
     "Assets/Pasted Image 20240718101521_328.png",
     "Assets/Pasted Image 20240718100357_184.png",
     "Assets/Pasted Image 20240717114707_789.svg",
@@ -203,31 +232,12 @@
     "Assets/Pasted Image 20240716134414_605.svg",
     "Assets/Screenshot 2024-07-18 at 10.11.13 in the morning.png",
     "Assets/Screenshot 2024-07-18 at 10.10.04 in the morning.png",
-    "Assets/Screenshot 2024-07-18 at 10.09.03 in the morning.png",
-    "Assets/Screenshot 2024-07-17 at 6.45.36 in the evening.png",
-    "Kanban/Kanban.md",
-    "Excalidraw/Drawing 2024-07-22 15.32.14.excalidraw.md",
     "ipynb/states.csv",
     "ipynb/instance.ipynb",
     "ipynb/base-1.ipynb",
     "ipynb/docs/Wild Bones (2022) - full transcript.txt",
     "ipynb/docs/Under the Tree (2008) - full transcript.txt",
     "ipynb/docs/Tjoet Nja' Dhien (1988) - full transcript.txt",
-    "ipynb/docs/Three Days to Eternity (2007) - full transcript.txt",
-    "ipynb/docs/Titanic (1997) - full transcript.txt",
-    "ipynb/docs/The Secret Face (1991) - full transcript.txt",
-    "Excalidraw/Drawing 2024-07-19 11.29.05.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-19 09.07.51.excalidraw.md",
-    "Calendar/2024-07-19 BASICS FOR WEBSCRAPING.md",
-    "Excalidraw/Drawing 2024-07-22 23.17.08.excalidraw.md",
-    "Home.md",
-    "01 - Rough Notes/First Order Differential Equations.md",
-    "01 - Rough Notes/Integral - Vienna 2024.md",
-    "01 - Rough Notes/Laplacian Operator.md",
-    "01 - Rough Notes/The Absolute Value of a Real Number.md",
-    "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
-    "02 - Zettelkasten/Strategic Thinking - A Mental Model from Chess.md",
-    "Untitled.md",
-    "Calendar/2024-07-20 Nice general formula.md"
+    "ipynb/docs/Three Days to Eternity (2007) - full transcript.txt"
   ]
 }

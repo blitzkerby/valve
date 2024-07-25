@@ -18,3 +18,17 @@ const skills = [
     // Add more skills as needed
 ]
 
+const skillsJSON = JSON.stringify(skills, null, 2)
+
+const fs = require('fs')
+
+fs.writeFile("./skills.json", skillsJSON, (err) => {
+    if (err) 
+    {
+        console.error("Error writing to file: ", err)
+    } 
+    else 
+    {
+        console.log("Skills data saved to skills.json")
+    }
+})

@@ -160,23 +160,19 @@ function Order(props)
 function Pizza({pizzaObject})
 {
     return (
-        <li className="pizza">
+        <li className={`pizza ${pizzaObject.soldOut ? "sold-out" : ""}`}>
             <img src={pizzaObject.photoName} alt={pizzaObject.name}></img>
             <div>
               <h3>    {pizzaObject.name} </h3>
               <p>     {pizzaObject.ingredients} </p>
 
-              {pizzaObject.soldOut 
-              
-              ?(
+              {/* {pizzaObject.soldOut ? (
                 <span>SOLD OUT</span>
-              )
-              
-              :(
+              ):(
                 <span>  {pizzaObject.price} </span>
-              )}
+              )} */}
 
-              <span>  {pizzaObject.price ? "Sold Out" : pizzaObject.price} </span>
+              <span>  {pizzaObject.soldOut ? "Sold Out" : pizzaObject.price} </span>
             </div>
         </li>
     )

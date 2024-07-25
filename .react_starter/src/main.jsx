@@ -126,7 +126,7 @@ function Footer()
       { 
         isOpen ? 
         (
-          <Order openHour={openHour}/>
+          <Order openHour={closeHour}/>
         )
       :
       (
@@ -142,7 +142,7 @@ function Order(props)
   return (
   <div className="order">
     <p>
-      We're open until {props.openHour}. Come visit us or order online.
+      We're open until {props.closeHour}. Come visit us or order online.
     </p>
   </div>
   )

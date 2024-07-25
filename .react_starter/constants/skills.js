@@ -20,7 +20,7 @@ const skills = [
 
 const skillsJSON = JSON.stringify(skills, null, 2)
 
-const fs = require('fs')
+const fs = import('fs')
 
 fs.writeFile("./skills.json", skillsJSON, (err) => {
     if (err) 

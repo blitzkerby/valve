@@ -89,11 +89,19 @@ function Menu()
       {
         numPizzas > 0 ? 
         (
-          <ul className="pizzas">
-            {pizzaData.map((pizza) => 
-              <Pizza pizzaObject={pizza} key={pizza.name}/>)
-            }
-          </ul>
+          <>
+            <p>
+              Authentic Italian cuisine. 6 creative dishes to choose from. All 
+              from our stone oven, all organic, all delicious.
+            </p>
+
+            <ul className="pizzas">
+              {pizzaData.map((pizza) => 
+                <Pizza pizzaObject={pizza} key={pizza.name}/>)
+              }
+            </ul>
+          </>
+
         ) 
         
         : 
@@ -126,7 +134,7 @@ function Footer()
       { 
         isOpen ? 
         (
-          <Order openHour={closeHour}/>
+          <Order closeHour={closeHour}/>
         )
       :
       (
@@ -142,22 +150,35 @@ function Order(props)
   return (
   <div className="order">
     <p>
-      We're open until {props.closeHour}. Come visit us or order online.
+      We're open until {props.closeHour}:00. Come visit us or order online.
     </p>
   </div>
   )
 }
 
 
-function Pizza(props)
+function Pizza({pizzaObject})
 {
     return (
-        <div className="pizza">
-            <img src={props.pizzaObject.photoName} alt={props.pizzaObject.name}></img>
-            <h3>{props.pizzaObject.name}</h3>
-            <p>{props.pizzaObject.ingredients}</p>
-            <span>{props.pizzaObject.price}</span>
-        </div>
+        <li className="pizza">
+            <img src={pizzaObject.photoName} alt={pizzaObject.name}></img>
+            <div>
+              <h3>    {pizzaObject.name} </h3>
+              <p>     {pizzaObject.ingredients} </p>
+
+              {pizzaObject.soldOut 
+              
+              ?(
+                <span>SOLD OUT</span>
+              )
+              
+              :(
+                <span>  {pizzaObject.price} </span>
+              )}
+
+              <span>  {pizzaObject.price ? "Sold Out" : pizzaObject.price} </span>
+            </div>
+        </li>
     )
 }
 

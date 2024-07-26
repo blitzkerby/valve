@@ -287,30 +287,13 @@ Gomez Corp. uses the allowance method to account for un-collectibles. On January
 
 ### 1. Prepare the journal entries for January 31
 
-- **Debit:** Allowance for Doubtful Accounts ($800)
-- **Credit:** Accounts Receivable ($800)
-
 | Date   | Account Title                   | Debit | Credit |
 | ------ | ------------------------------- | ----- | ------ |
 | Jan 31 | Allowance for Doubtful Accounts | 800   |        |
 |        | Accounts Receivable - C. Green  |       | 800    |
 
 
-### 2. March 9: Receiving Payment from C. Green
-
-The customer made a partial payment. This will increase Cash and decrease Accounts Receivable. However, since we previously wrote off the entire amount, we need to reinstate the account and then record the cash receipt.
-
-**First Entry: Reinstating the Account**
-
-- **Debit:** Accounts Receivable - C. Green ($800)
-- **Credit:** Allowance for Doubtful Accounts ($800)
-
-**Second Entry: Recording Cash Receipt**
-
-- **Debit:** Cash ($300)
-- **Credit:** Accounts Receivable - C. Green ($300)
-
-**Journal Entries:**
+### 2. Prepare the journal entries for March 9
 
 |Date|Account Title|Debit|Credit|
 |---|---|---|---|
@@ -319,8 +302,6 @@ The customer made a partial payment. This will increase Cash and decrease Accoun
 |Mar 9|Cash|300||
 ||Accounts Receivable - C. Green||300|
 
-
-**Note:** The remaining balance of $500 in Accounts Receivable - C. Green would typically be considered uncollectible and written off again at a later date if no further payments are received.
 
 
 
@@ -345,7 +326,7 @@ Prepare journal entries to record:
 
 ---
 
-**Journal Entry 1: Accrued Payroll**
+1. Accrued Payroll
 
 | Account Title               | Debit   | Credit  |
 | --------------------------- | ------- | ------- |
@@ -361,13 +342,7 @@ Prepare journal entries to record:
 | Cash Payable                |         | 142,940 |
 
 
-**Explanation:**
-
-- This entry records the gross pay of all employees ($360,000), as well as the employer's payroll taxes and other expenses incurred.
-- The employee deductions (social security, Medicare, federal income tax, state income tax, and union dues) are recorded as liabilities payable.
-- The net payroll amount ($217,060) is credited to Salaries Payable and Cash Payable is debited for the total employee deductions ($142,940).
-
-**Journal Entry 2: Cash Payment of Net Payroll**
+2. Cash Payment of Net Payroll
 
 | Account Title    | Debit   | Credit  |
 | ---------------- | ------- | ------- |
@@ -376,12 +351,7 @@ Prepare journal entries to record:
 | Cash             |         | 217,060 |
 
 
-**Explanation:**
-
-- This entry records the cash payment of the net payroll to the employees.
-- The Salaries Payable and Cash Payable accounts are credited for the net payroll amount ($217,060), and Cash is debited for the same amount.
-
-**Journal Entry 3: Accrued Employer Payroll Taxes**
+3. **Accrued Employer Payroll Taxes**
 
 | Account Title               | Debit     | Credit    |
 | --------------------------- | --------- | --------- |
@@ -392,13 +362,7 @@ Prepare journal entries to record:
 | Salaries Expense            |           | 2,754,000 |
 
 
-**Explanation:**
-
-- This entry records the employer's payroll taxes for July.
-- The Social Security Tax Payable, Medicare Tax Payable, SUTA Tax Payable, and FUTA Tax Payable accounts are debited for the respective amounts.
-- Salaries Expense is credited for the total employer payroll taxes ($2,754,000).
-
-**Journal Entry 4: Cash Payment of All Liabilities**
+4. Cash Payment of All Liabilities
 
 | Account Title               | Debit     | Credit    |
 | --------------------------- | --------- | --------- |
@@ -413,12 +377,6 @@ Prepare journal entries to record:
 | Life Insurance Expense      | 2,400     |           |
 | Cash                        |           | 3,135,600 |
 
-
-**Explanation:**
-
-- This entry records the cash payment of all payroll liabilities for July.
-- All the liability accounts and expense accounts are debited for their respective balances.
-- Cash is credited for the total amount paid ($3,135,600).
 
 
 
@@ -452,15 +410,10 @@ d. Prepare the entry to record the current calendar year’s depreciation.
 
 ### b. Prepare the entry to record the cost of the structural repairs that are paid in cash.
 
-- **Debit:** Building ($68,350)
-- **Credit:** Cash ($68,350)
-
-**Journal Entry:**
-
-|Date|Account Title|Debit|Credit|
-|---|---|---|---|
-|Jan|Building|68,350||
-||Cash||68,350|
+| Date | Account Title | Debit  | Credit |
+| ---- | ------------- | ------ | ------ |
+| Jan  | Building      | 68,350 |        |
+|      | Cash          |        | 68,350 |
 
 
 ### c. Determine the book value of the building immediately after the repairs are recorded.
@@ -485,9 +438,6 @@ d. Prepare the entry to record the current calendar year’s depreciation.
 - **Debit:** Depreciation Expense ($64,035)
     
 - **Credit:** Accumulated Depreciation - Building ($64,035)
-    
-
-**Journal Entry:**
 
 |Date|Account Title|Debit|Credit|
 |---|---|---|---|
@@ -517,22 +467,13 @@ c. Diaz sold the machine for $68,000 cash.
 d. Diaz sold the machine for $80,000 cash.
 
 ---
-
-### Understanding the Problem
-
-- Cost of milling machine: $250,000
-- Accumulated depreciation: $182,000
-- Book value: $250,000 - $182,000 = $68,000
-
-### Journal Entries for Different Disposal Scenarios
-
 #### a. Machine disposed of with no return
 
-|Date|Account Title|Debit|Credit|
-|---|---|---|---|
-|Jan 3|Accumulated Depreciation - Milling Machine|182,000||
-||Loss on Disposal of Milling Machine|68,000||
-||Milling Machine||250,000|
+| Date  | Account Title                              | Debit   | Credit  |
+| ----- | ------------------------------------------ | ------- | ------- |
+| Jan 3 | Accumulated Depreciation - Milling Machine | 182,000 |         |
+|       | Loss on Disposal of Milling Machine        | 68,000  |         |
+|       | Milling Machine                            |         | 250,000 |
 
 
 #### b. Machine sold for $35,000 cash

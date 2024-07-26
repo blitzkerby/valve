@@ -70,7 +70,7 @@ completed:
 ---
 >>A **plant asset** (or fixed asset) is a long-term asset with a physical form that is used in the operations of a business and is not intended for sale.
 >
->	**Types of plant assets:**
+>**Types of plant assets:**
 >
 >	- **Land:** The earth's surface and anything permanently attached to it.
 >	- **Buildings:** Structures used for business operations.
@@ -81,6 +81,7 @@ completed:
 >
 >- **Plant assets:** Have a long useful life, are not readily converted to cash, and are used in operations.
 >- **Current assets:** Expected to be converted to cash within one year, are more liquid.
+>  
 
 
 

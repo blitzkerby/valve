@@ -533,9 +533,11 @@ assuming a five-year life and double-declining-balance depreciation.
 
 ---
 
-**a. Allocation Table**
+### a. Allocation of Lump-Sum Purchase Price and Journal Entry
 
-|Asset|Fair Market Value|Percentage|Allocated Cost|
+### Allocation Table
+
+|Asset|Estimated Market Value|Percentage|Allocated Cost|
 |---|---|---|---|
 |Building|$508,800|56%|$504,000|
 |Land|$297,600|33%|$297,000|
@@ -543,35 +545,36 @@ assuming a five-year life and double-declining-balance depreciation.
 |Vehicles|$124,800|8%|$72,000|
 |**Total**|$960,000|100%|$900,000|
 
+Export to Sheets
 
-**b. Journal Entry to Record Purchase**
+**Note:** Percentages are rounded to the nearest 1%.
 
-|Date|Account Title|Debit|Credit|
-|---|---|---|---|
-|Jan 1, 2015|Building|$504,000||
-||Land|$297,000||
-||Land Improvements|$27,000||
-||Vehicles|$72,000||
-||Cash||$900,000|
+### Journal Entry
 
+```
+Date        Account Title                                  Debit  Credit
+Jan 1, 2015 Building                                      $504,000
+             Land                                           $297,000
+             Land Improvements                            $27,000
+             Vehicles                                       $72,000
+             Cash                                                   $900,000
+```
 
-## Depreciation Expense
+### b. Depreciation Expense for Building in 2015
 
-### b. Depreciation Expense for Building
+**Straight-line depreciation:**
 
-- **Cost:** $504,000
-- **Salvage value:** $27,000
-- **Depreciable base:** $504,000 - $27,000 = $477,000
-- **Annual depreciation:** $477,000 / 15 years = $31,800
+- Depreciable cost = Cost - Salvage value = $504,000 - $27,000 = $477,000
+- Annual depreciation = Depreciable cost / Useful life = $477,000 / 15 years = $31,800
+- Depreciation for 2015 = Annual depreciation * (Months in service / 12) = $31,800 * (12/12) = $31,800
 
-**Depreciation expense for year 2015 on the building is $31,800.**
+**Depreciation expense for building in 2015 is $31,800.**
 
-### c. Depreciation Expense for Land Improvements
+### c. Depreciation Expense for Land Improvements in 2015
 
-- **Cost:** $27,000
-- **Salvage value:** Assumed to be $0 (common for land improvements)
-- **Depreciable base:** $27,000
-- **Depreciation rate:** 2 / 5 = 40% (double-declining-balance)
+**Double-declining-balance depreciation:**
 
-**Depreciation expense for year 2015:** $27,000 * 40% = $10,800
-**Depreciation expense for year 2015 on land improvements is $10,800.**
+- Depreciation rate = (1 / Useful life) * 2 = (1 / 5) * 2 = 40%
+- Depreciation expense for 2015 = Beginning book value * Depreciation rate = $27,000 * 40% = $10,800
+
+**Depreciation expense for land improvements in 2015 is $10,800.**

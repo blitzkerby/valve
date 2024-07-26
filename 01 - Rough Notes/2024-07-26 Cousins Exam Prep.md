@@ -291,9 +291,7 @@ Gomez Corp. uses the allowance method to account for un-collectibles. On January
 
 ---
 
-## 1. Gomez Corp. Journal Entries
-
-### A. January 31: Writing Off C. Green's Account
+### 1. January 31: Writing Off C. Green's Account
 
 Since Gomez Corp. uses the allowance method, we will reduce the Accounts Receivable and the Allowance for Doubtful Accounts.
 
@@ -302,14 +300,13 @@ Since Gomez Corp. uses the allowance method, we will reduce the Accounts Receiva
 
 **Journal Entry:**
 
-|Date|Account Title|Debit|Credit|
-|---|---|---|---|
-|Jan 31|Allowance for Doubtful Accounts|800||
-||Accounts Receivable - C. Green||800|
+| Date   | Account Title                   | Debit | Credit |
+| ------ | ------------------------------- | ----- | ------ |
+| Jan 31 | Allowance for Doubtful Accounts | 800   |        |
+|        | Accounts Receivable - C. Green  |       | 800    |
 
-Export to Sheets
 
-### B. March 9: Receiving Payment from C. Green
+### 2. March 9: Receiving Payment from C. Green
 
 The customer made a partial payment. This will increase Cash and decrease Accounts Receivable. However, since we previously wrote off the entire amount, we need to reinstate the account and then record the cash receipt.
 
@@ -332,9 +329,9 @@ The customer made a partial payment. This will increase Cash and decrease Accoun
 |Mar 9|Cash|300||
 ||Accounts Receivable - C. Green||300|
 
-Export to Sheets
 
 **Note:** The remaining balance of $500 in Accounts Receivable - C. Green would typically be considered uncollectible and written off again at a later date if no further payments are received.
+
 
 
 
@@ -351,12 +348,10 @@ salaries, $200,000; office salaries, $160,000; federal income taxes withheld, $9
 ***Required:*** 
 
 Prepare journal entries to record:  
-(1) accrued payroll, including employee deductions, for July;  
-(2) cash payment of the net payroll (salaries payable) for July;  
-(3) accrued employer payroll taxes, and other related employment expenses, for 
-July—assume that FICA taxes are identical to those on employees and that SUTA 
-taxes are 5.4% and FUTA taxes are 0.6%; and  
-(4) cash payment of all liabilities related to the July payroll.
+1) accrued payroll, including employee deductions, for July;  
+2) cash payment of the net payroll (salaries payable) for July;  
+3) accrued employer payroll taxes, and other related employment expenses, for July—assume that FICA taxes are identical to those on employees and that SUTA taxes are 5.4% and FUTA taxes are 0.6%; and  
+4) cash payment of all liabilities related to the July payroll.
 
 ---
 
@@ -375,7 +370,6 @@ taxes are 5.4% and FUTA taxes are 0.6%; and
 |Salaries Payable||217,060|
 |Cash Payable||142,940|
 
-Export to Sheets
 
 **Explanation:**
 
@@ -391,7 +385,6 @@ Export to Sheets
 |Cash Payable|142,940||
 |Cash||217,060|
 
-Export to Sheets
 
 **Explanation:**
 
@@ -408,7 +401,6 @@ Export to Sheets
 |FUTA Tax Payable|2,160||
 |Salaries Expense||2,754,000|
 
-Export to Sheets
 
 **Explanation:**
 
@@ -431,7 +423,6 @@ Export to Sheets
 | Life Insurance Expense      | 2,400     |           |
 | Cash                        |           | 3,135,600 |
 
-Export to Sheets
 
 **Explanation:**
 

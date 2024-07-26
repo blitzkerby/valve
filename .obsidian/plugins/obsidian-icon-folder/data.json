@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiFolderOutput",
-      "LiArchive",
-      "LiAlbum",
+      "LiAlarmPlus",
+      "LiAmpersand",
       "LiAtom",
-      "CoNote"
+      "LiAirplay",
+      "LiCalendar"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -52,8 +52,10 @@
   "99 - Mission 3": "LiAlbum",
   "99 - Mission 4": "LiAlbum",
   "03 - Archived": "LiArchive",
-  "04 - Output": {
-    "iconName": "LiFolderOutput",
-    "iconColor": "#ff0000"
-  }
+  "07 - Output": "LiFolderOutput",
+  "00 - Assets": "LiWrench",
+  "00 - Calendar": "LiCalendar",
+  "00 - Excalidraw": "LiAmpersand",
+  "00 - ipynb": "LiAtom",
+  "00 - Kanban": "LiAlarmPlus"
 }

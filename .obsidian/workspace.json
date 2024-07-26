@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0f3136fce20e874a",
+        "id": "24fd55b260ba9505",
         "type": "tabs",
         "children": [
           {
-            "id": "59ab9493b01aabc1",
+            "id": "ebf54bbda28ab8f2",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
+                "file": "00 - Calendar/2024-07-26 Cousins Exam Prep.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -31,6 +33,7 @@
       {
         "id": "8f555a9b5839e619",
         "type": "tabs",
+        "dimension": 37.91374122367101,
         "children": [
           {
             "id": "3687e9fda175fe4e",
@@ -74,10 +77,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "bfab6c801dfbc679",
+        "type": "tabs",
+        "dimension": 62.08625877632898,
+        "children": [
+          {
+            "id": "e67f1ef328ccbf85",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 578.5,
+    "collapsed": true
   },
   "right": {
     "id": "28f84addcdfc127b",
@@ -101,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
+                "file": "00 - Calendar/2024-07-26 Cousins Exam Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
+                "file": "00 - Calendar/2024-07-26 Cousins Exam Prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md"
+                "file": "00 - Calendar/2024-07-26 Cousins Exam Prep.md"
               }
             }
           },
@@ -171,19 +190,25 @@
       "obsidian-advanced-slides:Show Slide Preview": false,
       "homepage:Open homepage": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "3687e9fda175fe4e",
+  "active": "ebf54bbda28ab8f2",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Calendar.md",
+    "00 - Calendar/2024-07-26 Cousins Exam Prep.md",
+    "2024-07-26.md",
+    "00 - Calendar/2024-07-24 Props.md",
     "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
+    "Untitled.md",
+    "00 - Excalidraw/Drawing 2024-07-26 21.00.10.excalidraw.md",
+    "04 - Template/2024-07-23 Calendar Template.md",
     "02 - Zettelkasten/Strategic Thinking - A Mental Model from Chess.md",
     "01 - Rough Notes/Integral - Vienna 2024.md",
     "01 - Rough Notes/First Order Differential Equations.md",
@@ -191,43 +216,37 @@
     "01 - Rough Notes/React Journey.md",
     "01 - Rough Notes/The Absolute Value of a Real Number.md",
     "02 - Zettelkasten/1. The basics of functions.md",
-    "Excalidraw/base-9.md",
-    "Excalidraw/Drawing 2024-07-19 09.07.51.excalidraw.md",
-    "Excalidraw/base-10.md",
-    "04 - Output/Integral - Vienna 2024.pdf",
-    "04 - Output",
+    "00 - Excalidraw/base-9.md",
+    "00 - Excalidraw/Drawing 2024-07-19 09.07.51.excalidraw.md",
+    "00 - Excalidraw/base-10.md",
+    "07 - Output/Integral - Vienna 2024.pdf",
+    "07 - Output",
     "99 - Output",
     "New folder (2)",
     "New folder",
-    "Calendar/2024-07-24 Component Trees.md",
-    "Calendar.md",
-    "Calendar/2024-07-24 Props.md",
+    "00 - Calendar/2024-07-24 Component Trees.md",
     "Pasted image 20240724233157.png",
-    "Excalidraw/base-14.md",
-    "Calendar/2024-07-24 Converting HTML to JSX.md",
-    "Calendar/2024-07-23 Asynchronous JavaScript.md",
+    "00 - Excalidraw/base-14.md",
+    "00 - Calendar/2024-07-24 Converting HTML to JSX.md",
+    "00 - Calendar/2024-07-23 Asynchronous JavaScript.md",
     "Pasted image 20240724165244.png",
     "Pasted image 20240724165219.png",
     "Pasted image 20240724165131.png",
     "Pasted image 20240724165122.png",
     "Pasted image 20240724165107.png",
-    "Excalidraw/Drawing 2024-07-19 11.29.05.excalidraw.md",
-    "Excalidraw/base-13.md",
+    "00 - Excalidraw/Drawing 2024-07-19 11.29.05.excalidraw.md",
+    "00 - Excalidraw/base-13.md",
     "Pasted Image 20240724164752_308.svg",
-    "Calendar/2024-07-23 Rest-Spread operator.md",
+    "00 - Calendar/2024-07-23 Rest-Spread operator.md",
     "“2024-07-23.md",
-    "2024-07-23.md",
-    "Test.md",
-    "Test2.md",
-    "Calendar/2024-07-23 Destructuring Data.md",
-    "05 - Template",
+    "04 - Template",
     "01 - pure-react",
     "01-pure-react",
     "Calendar/Untitled.canvas",
-    "Assets/Pasted Image 20240718101521_328.png",
-    "Assets/Pasted Image 20240718100357_184.png",
-    "Assets/Pasted Image 20240717114707_789.svg",
-    "ipynb/states.csv",
-    "ipynb/instance.ipynb"
+    "00 - Assets/Pasted Image 20240718101521_328.png",
+    "00 - Assets/Pasted Image 20240718100357_184.png",
+    "00 - Assets/Pasted Image 20240717114707_789.svg",
+    "00 - ipynb/states.csv",
+    "00 - ipynb/instance.ipynb"
   ]
 }

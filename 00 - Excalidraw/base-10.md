@@ -181,7 +181,7 @@ Consumers can directly reach out to each their providers
 on the app. ^svipfwW8
 
 ## Embedded Files
-4315edb51c1ad43261340bda341aa1ec8fc3c64a: [[Assets/the-business-model-canvas.pdf#page=1]]
+4315edb51c1ad43261340bda341aa1ec8fc3c64a: [[00 - Assets/the-business-model-canvas.pdf#page=1]]
 c3b73d35d8b6070ebf3866df3c361933b51d0e53: [[facebook-business-model-canvas.png]]
 4831909d944a3c6f1adb13df8c00d7ac7a121bb4: [[ebays-business-model-canvas.png]]
 c550c16d07154db95ad8fe2e502df50d06711972: [[Pasted Image 20240716230641_640.png]]

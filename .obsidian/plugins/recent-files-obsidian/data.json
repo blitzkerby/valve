@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-07-26 Cousins Exam Prep",
+      "path": "00 - Calendar/2024-07-26 Cousins Exam Prep.md"
+    },
+    {
+      "basename": "Calendar",
+      "path": "Calendar.md"
+    },
+    {
+      "basename": "2024-07-24 Props",
+      "path": "00 - Calendar/2024-07-24 Props.md"
+    },
+    {
       "basename": "How to Calculate an atomic bomb's critical mass",
       "path": "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "Drawing 2024-07-26 21.00.10.excalidraw",
+      "path": "00 - Excalidraw/Drawing 2024-07-26 21.00.10.excalidraw.md"
     },
     {
       "basename": "Strategic Thinking - A Mental Model from Chess",
@@ -38,107 +50,95 @@
     },
     {
       "basename": "base-9",
-      "path": "Excalidraw/base-9.md"
+      "path": "00 - Excalidraw/base-9.md"
     },
     {
       "basename": "Drawing 2024-07-19 09.07.51.excalidraw",
-      "path": "Excalidraw/Drawing 2024-07-19 09.07.51.excalidraw.md"
+      "path": "00 - Excalidraw/Drawing 2024-07-19 09.07.51.excalidraw.md"
     },
     {
       "basename": "base-10",
-      "path": "Excalidraw/base-10.md"
+      "path": "00 - Excalidraw/base-10.md"
     },
     {
       "basename": "2024-07-24 Component Trees",
-      "path": "Calendar/2024-07-24 Component Trees.md"
-    },
-    {
-      "basename": "Calendar",
-      "path": "Calendar.md"
-    },
-    {
-      "basename": "2024-07-24 Props",
-      "path": "Calendar/2024-07-24 Props.md"
+      "path": "00 - Calendar/2024-07-24 Component Trees.md"
     },
     {
       "basename": "base-14",
-      "path": "Excalidraw/base-14.md"
+      "path": "00 - Excalidraw/base-14.md"
     },
     {
       "basename": "2024-07-24 Converting HTML to JSX",
-      "path": "Calendar/2024-07-24 Converting HTML to JSX.md"
+      "path": "00 - Calendar/2024-07-24 Converting HTML to JSX.md"
     },
     {
       "basename": "2024-07-23 Asynchronous JavaScript",
-      "path": "Calendar/2024-07-23 Asynchronous JavaScript.md"
+      "path": "00 - Calendar/2024-07-23 Asynchronous JavaScript.md"
     },
     {
       "basename": "Drawing 2024-07-19 11.29.05.excalidraw",
-      "path": "Excalidraw/Drawing 2024-07-19 11.29.05.excalidraw.md"
+      "path": "00 - Excalidraw/Drawing 2024-07-19 11.29.05.excalidraw.md"
     },
     {
       "basename": "base-13",
-      "path": "Excalidraw/base-13.md"
+      "path": "00 - Excalidraw/base-13.md"
     },
     {
       "basename": "2024-07-23 Rest-Spread operator",
-      "path": "Calendar/2024-07-23 Rest-Spread operator.md"
+      "path": "00 - Calendar/2024-07-23 Rest-Spread operator.md"
     },
     {
       "basename": "2024-07-23 Destructuring Data",
-      "path": "Calendar/2024-07-23 Destructuring Data.md"
-    },
-    {
-      "basename": "2024-07-23 Template",
-      "path": "05 - Template/2024-07-23 Template.md"
+      "path": "00 - Calendar/2024-07-23 Destructuring Data.md"
     },
     {
       "basename": "Pasted Image 20240718101521_328",
-      "path": "Assets/Pasted Image 20240718101521_328.png"
+      "path": "00 - Assets/Pasted Image 20240718101521_328.png"
     },
     {
       "basename": "Pasted Image 20240718100357_184",
-      "path": "Assets/Pasted Image 20240718100357_184.png"
+      "path": "00 - Assets/Pasted Image 20240718100357_184.png"
     },
     {
       "basename": "Pasted Image 20240717114707_789",
-      "path": "Assets/Pasted Image 20240717114707_789.svg"
+      "path": "00 - Assets/Pasted Image 20240717114707_789.svg"
     },
     {
       "basename": "Pasted Image 20240717081008_460",
-      "path": "Assets/Pasted Image 20240717081008_460.png"
+      "path": "00 - Assets/Pasted Image 20240717081008_460.png"
     },
     {
       "basename": "Pasted Image 20240716230641_640",
-      "path": "Assets/Pasted Image 20240716230641_640.png"
+      "path": "00 - Assets/Pasted Image 20240716230641_640.png"
     },
     {
       "basename": "Pasted Image 20240716134414_605",
-      "path": "Assets/Pasted Image 20240716134414_605.svg"
+      "path": "00 - Assets/Pasted Image 20240716134414_605.svg"
     },
     {
       "basename": "Screenshot 2024-07-18 at 10.11.13 in the morning",
-      "path": "Assets/Screenshot 2024-07-18 at 10.11.13 in the morning.png"
+      "path": "00 - Assets/Screenshot 2024-07-18 at 10.11.13 in the morning.png"
     },
     {
       "basename": "Screenshot 2024-07-18 at 10.10.04 in the morning",
-      "path": "Assets/Screenshot 2024-07-18 at 10.10.04 in the morning.png"
+      "path": "00 - Assets/Screenshot 2024-07-18 at 10.10.04 in the morning.png"
     },
     {
       "basename": "Screenshot 2024-07-18 at 10.09.03 in the morning",
-      "path": "Assets/Screenshot 2024-07-18 at 10.09.03 in the morning.png"
+      "path": "00 - Assets/Screenshot 2024-07-18 at 10.09.03 in the morning.png"
     },
     {
       "basename": "Screenshot 2024-07-17 at 6.45.36 in the evening",
-      "path": "Assets/Screenshot 2024-07-17 at 6.45.36 in the evening.png"
+      "path": "00 - Assets/Screenshot 2024-07-17 at 6.45.36 in the evening.png"
     },
     {
       "basename": "Pasted Image 20240719144134_900",
-      "path": "Assets/Pasted Image 20240719144134_900.png"
+      "path": "00 - Assets/Pasted Image 20240719144134_900.png"
     },
     {
       "basename": "Kanban",
-      "path": "Kanban/Kanban.md"
+      "path": "00 - Kanban/Kanban.md"
     }
   ],
   "omittedPaths": []

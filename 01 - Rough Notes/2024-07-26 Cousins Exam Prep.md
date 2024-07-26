@@ -357,18 +357,18 @@ Prepare journal entries to record:
 
 **Journal Entry 1: Accrued Payroll**
 
-|Account Title|Debit|Credit|
-|---|---|---|
-|Salaries Expense|360,000||
-|Social Security Tax Payable|22,320||
-|Medicare Tax Payable|5,220||
-|Federal Income Tax Payable|90,000||
-|State Income Tax Payable|20,000||
-|Union Dues Payable|1,000||
-|Medical Insurance Expense|4,200||
-|Life Insurance Expense|2,400||
-|Salaries Payable||217,060|
-|Cash Payable||142,940|
+| Account Title               | Debit   | Credit  |
+| --------------------------- | ------- | ------- |
+| Salaries Expense            | 360,000 |         |
+| Social Security Tax Payable | 22,320  |         |
+| Medicare Tax Payable        | 5,220   |         |
+| Federal Income Tax Payable  | 90,000  |         |
+| State Income Tax Payable    | 20,000  |         |
+| Union Dues Payable          | 1,000   |         |
+| Medical Insurance Expense   | 4,200   |         |
+| Life Insurance Expense      | 2,400   |         |
+| Salaries Payable            |         | 217,060 |
+| Cash Payable                |         | 142,940 |
 
 
 **Explanation:**
@@ -379,11 +379,11 @@ Prepare journal entries to record:
 
 **Journal Entry 2: Cash Payment of Net Payroll**
 
-|Account Title|Debit|Credit|
-|---|---|---|
-|Salaries Payable|217,060||
-|Cash Payable|142,940||
-|Cash||217,060|
+| Account Title    | Debit   | Credit  |
+| ---------------- | ------- | ------- |
+| Salaries Payable | 217,060 |         |
+| Cash Payable     | 142,940 |         |
+| Cash             |         | 217,060 |
 
 
 **Explanation:**
@@ -393,13 +393,13 @@ Prepare journal entries to record:
 
 **Journal Entry 3: Accrued Employer Payroll Taxes**
 
-|Account Title|Debit|Credit|
-|---|---|---|
-|Social Security Tax Payable|2,754,000||
-|Medicare Tax Payable|1,377,000||
-|SUTA Tax Payable|19,440||
-|FUTA Tax Payable|2,160||
-|Salaries Expense||2,754,000|
+| Account Title               | Debit     | Credit    |
+| --------------------------- | --------- | --------- |
+| Social Security Tax Payable | 2,754,000 |           |
+| Medicare Tax Payable        | 1,377,000 |           |
+| SUTA Tax Payable            | 19,440    |           |
+| FUTA Tax Payable            | 2,160     |           |
+| Salaries Expense            |           | 2,754,000 |
 
 
 **Explanation:**
@@ -430,4 +430,81 @@ Prepare journal entries to record:
 - All the liability accounts and expense accounts are debited for their respective balances.
 - Cash is credited for the total amount paid ($3,135,600).
 
-I hope this helps! Let me know if you have any other questions.
+
+
+
+
+
+
+
+
+### Problem 3
+
+Martinez Company owns a building that appears on its prior year-end balance sheet at its original $572,000 cost less $429,000 accumulated depreciation. The building is depreciated on a straight-line basis assuming a 20-year life and no salvage value. During the first week in January of the current calendar year, major structural repairs are completed on the building at a $68,350 cost. The repairs extend its useful life for 5 years beyond the 20 years originally estimated. 
+
+a) Determine the building’s age (plant asset age) as of the prior year-end balance 
+sheet date. 
+
+b. Prepare the entry to record the cost of the structural repairs that are paid in cash. 
+
+c. Determine the book value of the building immediately after the repairs are 
+recorded. 
+
+d. Prepare the entry to record the current calendar year’s depreciation.
+
+---
+### a. Determine the building’s age (plant asset age) as of the prior year-end balance sheet date.
+
+- **Annual depreciation:** $572,000 / 20 years = $28,600
+- **Building age:** $429,000 accumulated depreciation / $28,600 annual depreciation = 15 years
+
+**Therefore, the building's age as of the prior year-end balance sheet date is 15 years.**
+
+### b. Prepare the entry to record the cost of the structural repairs that are paid in cash.
+
+- **Debit:** Building ($68,350)
+- **Credit:** Cash ($68,350)
+
+**Journal Entry:**
+
+|Date|Account Title|Debit|Credit|
+|---|---|---|---|
+|Jan|Building|68,350||
+||Cash||68,350|
+
+Export to Sheets
+
+### c. Determine the book value of the building immediately after the repairs are recorded.
+
+- **Original cost:** $572,000
+- **Accumulated depreciation:** $429,000
+- **Building cost after repairs:** $572,000 + $68,350 = $640,350
+- **Book value:** $640,350 - $429,000 = $211,350
+
+**Therefore, the book value of the building immediately after the repairs is $211,350.**
+
+### d. Prepare the entry to record the current calendar year’s depreciation.
+
+- **New total life:** 20 years (original) + 5 years (extension) = 25 years
+    
+- **Remaining life:** 25 years - 15 years (already depreciated) = 10 years
+    
+- **New depreciable base:** $640,350 (building cost after repairs)
+    
+- **Annual depreciation:** $640,350 / 10 years = $64,035
+    
+- **Debit:** Depreciation Expense ($64,035)
+    
+- **Credit:** Accumulated Depreciation - Building ($64,035)
+    
+
+**Journal Entry:**
+
+|Date|Account Title|Debit|Credit|
+|---|---|---|---|
+|Dec 31|Depreciation Expense|64,035||
+||Accumulated Depreciation - Building||64,035|
+
+Export to Sheets
+
+**Note:** This entry assumes the depreciation is recorded at the end of the year. The actual timing may vary depending on the company's accounting period.

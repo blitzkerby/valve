@@ -23,7 +23,7 @@ completed:
 
 
 
-#### (1) What are the advantages and disadvantages account receivables to a firm?
+### (1) What are the advantages and disadvantages account receivables to a firm?
 ---
 > **Accounts receivable** represent amounts owed to a company by its customers for goods or services sold on credit.
  
@@ -49,7 +49,7 @@ Disadvantages:
 
 
 
-#### (2) What are the differences between Allowance Method and Direct Write-off Method for uncollectible account receivable? 
+### (2) What are the differences between Allowance Method and Direct Write-off Method for uncollectible account receivable? 
 ---
 > Both methods account for uncollectible accounts, but they differ in timing and approach.
  
@@ -76,7 +76,7 @@ Disadvantages:
 
 
 
-#### (3) What is the definition of a plant asset? What is different type of plant assets? How different between a plant asset and a current asset?
+### (3) What is the definition of a plant asset? What is different type of plant assets? How different between a plant asset and a current asset?
 ---
 > A **plant asset** (or fixed asset) is a long-term asset with a physical form that is used in the operations of a business and is not intended for sale.
 
@@ -100,7 +100,7 @@ Disadvantages:
 
 
 
-#### (4) How to allocate cost of a plant asset into an expense? Give your explanations to each method of the cost allocation of a plant asset. 
+### (4) How to allocate cost of a plant asset into an expense? Give your explanations to each method of the cost allocation of a plant asset. 
 ---
  > Depreciation is the process of allocating the cost of a plant asset over its useful life.
 
@@ -138,4 +138,84 @@ $$
 
 
 
-#### 
+
+### (5) How many forms of business company are there in general?
+---
+
+Generally, there are three primary forms of business organizations:
+
+- **Sole proprietorship**
+- **Partnership**
+- **Corporation**
+
+### Question 6: Partnership
+
+A **partnership** is a business owned by two or more people who share profits, losses, and control.
+
+**Types of Partnerships:**
+
+- **General Partnership:** All partners share in management, profits, and liabilities.
+- **Limited Partnership:** At least one general partner manages the business and assumes unlimited liability, while limited partners contribute capital but have limited liability.
+- **Limited Liability Partnership (LLP):** Similar to a general partnership, but partners have limited personal liability for the debts and actions of other partners.
+
+### Question 7: Advantages and Disadvantages of Partnerships
+
+**General Partnership:**
+
+- **Advantages:** Easy to form, shared decision-making, tax advantages.
+- **Disadvantages:** Unlimited liability, potential for disagreements, lack of continuity.
+
+**Limited Partnership:**
+
+- **Advantages:** Limited liability for limited partners, ability to raise capital.
+- **Disadvantages:** Requires at least one general partner with unlimited liability, complex structure.
+
+**Limited Liability Partnership:**
+
+- **Advantages:** Limited liability for partners, tax advantages.
+- **Disadvantages:** More complex to form than a general partnership, potential for higher fees.
+
+### Question 8: Corporation
+
+A **corporation** is a legal entity separate from its owners (shareholders). It has the right to enter into contracts, own property, and sue or be sued.
+
+**Forms of Corporations:**
+
+- **C Corporation:** The most common type, subject to corporate income tax.
+- **S Corporation:** A pass-through entity, meaning profits and losses pass through to shareholders' personal tax returns.
+- **LLC (Limited Liability Company):** Hybrid structure combining characteristics of partnerships and corporations.
+
+### Question 9: Corporation vs. Partnership
+
+**Corporation:**
+
+- Separate legal entity
+- Limited liability for shareholders
+- Continuous life
+- Double taxation (corporate and shareholder level)
+- Complex formation and regulation
+
+**Partnership:**
+
+- Not a separate legal entity
+- Partners have personal liability (except for LLP)
+- Limited life
+- Pass-through taxation
+- Easier to form and manage
+
+### Question 10: Advantages and Disadvantages of Corporations
+
+**C Corporation:**
+
+- **Advantages:** Limited liability, ability to raise capital, continuous life.
+- **Disadvantages:** Double taxation, complex formation and regulation.
+
+**S Corporation:**
+
+- **Advantages:** Limited liability, pass-through taxation, easier to manage than a C Corporation.
+- **Disadvantages:** Restrictions on shareholders, eligibility requirements.
+
+**LLC:**
+
+- **Advantages:** Limited liability, pass-through taxation, flexibility in management structure.
+- **Disadvantages:** State-specific regulations, potential for double taxation in some cases.

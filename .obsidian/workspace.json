@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "24fd55b260ba9505",
+        "id": "d089cb815768ee83",
         "type": "tabs",
         "children": [
           {
-            "id": "ebf54bbda28ab8f2",
+            "id": "52c7f00a1a312f43",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Calendar/2024-07-26 Cousins Exam Prep.md",
+                "file": "01 - Rough Notes/2024-07-26 Cousins Exam Prep.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -95,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 696.5,
-    "collapsed": true
+    "width": 443.5
   },
   "right": {
     "id": "28f84addcdfc127b",
@@ -120,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Calendar/2024-07-26 Cousins Exam Prep.md",
+                "file": "01 - Rough Notes/2024-07-26 Cousins Exam Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Calendar/2024-07-26 Cousins Exam Prep.md",
+                "file": "01 - Rough Notes/2024-07-26 Cousins Exam Prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Calendar/2024-07-26 Cousins Exam Prep.md"
+                "file": "01 - Rough Notes/2024-07-26 Cousins Exam Prep.md"
               }
             }
           },
@@ -199,11 +196,22 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "ebf54bbda28ab8f2",
+  "active": "52c7f00a1a312f43",
   "lastOpenFiles": [
-    "Final Exam Question_26 July 2024.pdf",
-    "00 - Calendar/2024-07-26 Cousins Exam Prep.md",
     "Calendar.md",
+    "02 - Zettelkasten/1. The basics of functions.md",
+    "02 - Zettelkasten/Strategic Thinking - A Mental Model from Chess.md",
+    "02 - Zettelkasten/2024-07-22 How to Calculate an atomic bomb's critical mass.md",
+    "2024-07-17.md",
+    "01 - Rough Notes/2024-07-22 The Absolute Value of a Real Number.md",
+    "2024-07-22.md",
+    "01 - Rough Notes/2024-07-22 React Journey.md",
+    "2024-07-23.md",
+    "01 - Rough Notes/2024-07-22 Laplacian Operator.md",
+    "01 - Rough Notes/2024-07-22 Integral - Vienna 2024.md",
+    "01 - Rough Notes/2024-07-22 First Order Differential Equations.md",
+    "01 - Rough Notes/2024-07-26 Cousins Exam Prep.md",
+    "Final Exam Question_26 July 2024.pdf",
     "07 - Output/Pasted Image 20240724164752_308.svg",
     "07 - Output/Pasted image 20240724165244.png",
     "07 - Output/Pasted image 20240724233157.png",
@@ -212,17 +220,9 @@
     "07 - Output/2024-07-26 Cousins Exam Prep.pdf",
     "2024-07-26.md",
     "00 - Calendar/2024-07-24 Props.md",
-    "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
     "Untitled.md",
     "00 - Excalidraw/Drawing 2024-07-26 21.00.10.excalidraw.md",
     "04 - Template/2024-07-23 Calendar Template.md",
-    "02 - Zettelkasten/Strategic Thinking - A Mental Model from Chess.md",
-    "01 - Rough Notes/Integral - Vienna 2024.md",
-    "01 - Rough Notes/First Order Differential Equations.md",
-    "01 - Rough Notes/Laplacian Operator.md",
-    "01 - Rough Notes/React Journey.md",
-    "01 - Rough Notes/The Absolute Value of a Real Number.md",
-    "02 - Zettelkasten/1. The basics of functions.md",
     "00 - Excalidraw/base-9.md",
     "00 - Excalidraw/Drawing 2024-07-19 09.07.51.excalidraw.md",
     "00 - Excalidraw/base-10.md",
@@ -240,8 +240,6 @@
     "07 - Output/Pasted image 20240724165122.png",
     "07 - Output/Pasted image 20240724165107.png",
     "00 - Excalidraw/Drawing 2024-07-19 11.29.05.excalidraw.md",
-    "00 - Excalidraw/base-13.md",
-    "00 - Calendar/2024-07-23 Rest-Spread operator.md",
     "04 - Template",
     "Calendar/Untitled.canvas",
     "00 - Assets/Pasted Image 20240718101521_328.png",

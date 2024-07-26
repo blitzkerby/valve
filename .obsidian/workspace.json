@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/2024-07-24 Component Trees.md",
+                "file": "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/2024-07-24 Component Trees.md",
+                "file": "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/2024-07-24 Component Trees.md",
+                "file": "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/2024-07-24 Component Trees.md"
+                "file": "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md"
               }
             }
           },
@@ -180,22 +180,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59ab9493b01aabc1",
+  "active": "3687e9fda175fe4e",
   "lastOpenFiles": [
+    "Untitled.md",
+    "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
+    "02 - Zettelkasten/Strategic Thinking - A Mental Model from Chess.md",
+    "01 - Rough Notes/Integral - Vienna 2024.md",
+    "01 - Rough Notes/First Order Differential Equations.md",
+    "01 - Rough Notes/Laplacian Operator.md",
+    "01 - Rough Notes/React Journey.md",
+    "01 - Rough Notes/The Absolute Value of a Real Number.md",
+    "02 - Zettelkasten/1. The basics of functions.md",
+    "Excalidraw/base-9.md",
+    "Excalidraw/Drawing 2024-07-19 09.07.51.excalidraw.md",
+    "Excalidraw/base-10.md",
+    "04 - Output/Integral - Vienna 2024.pdf",
+    "04 - Output",
+    "99 - Output",
+    "New folder (2)",
+    "New folder",
+    "Calendar/2024-07-24 Component Trees.md",
     "Calendar.md",
     "Calendar/2024-07-24 Props.md",
     "Pasted image 20240724233157.png",
     "Excalidraw/base-14.md",
     "Calendar/2024-07-24 Converting HTML to JSX.md",
     "Calendar/2024-07-23 Asynchronous JavaScript.md",
-    "01 - Rough Notes/React Journey.md",
-    "Calendar/2024-07-24 Component Trees.md",
     "Pasted image 20240724165244.png",
     "Pasted image 20240724165219.png",
     "Pasted image 20240724165131.png",
     "Pasted image 20240724165122.png",
     "Pasted image 20240724165107.png",
-    "Excalidraw/Drawing 2024-07-19 09.07.51.excalidraw.md",
     "Excalidraw/Drawing 2024-07-19 11.29.05.excalidraw.md",
     "Excalidraw/base-13.md",
     "Pasted Image 20240724164752_308.svg",
@@ -204,17 +219,8 @@
     "2024-07-23.md",
     "Test.md",
     "Test2.md",
-    "01 - Rough Notes/The Absolute Value of a Real Number.md",
-    "01 - Rough Notes/Laplacian Operator.md",
-    "01 - Rough Notes/Integral - Vienna 2024.md",
-    "01 - Rough Notes/First Order Differential Equations.md",
     "Calendar/2024-07-23 Destructuring Data.md",
-    "01 - Rough Notes/Untitled.md",
-    "Template/2024-07-23 Template.md",
-    "Template",
-    "02 - Zettelkasten/Strategic Thinking - A Mental Model from Chess.md",
-    "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
-    "02 - Zettelkasten/1. The basics of functions.md",
+    "05 - Template",
     "01 - pure-react",
     "01-pure-react",
     "Calendar/Untitled.canvas",
@@ -222,7 +228,6 @@
     "Assets/Pasted Image 20240718100357_184.png",
     "Assets/Pasted Image 20240717114707_789.svg",
     "ipynb/states.csv",
-    "ipynb/instance.ipynb",
-    "ipynb/base-1.ipynb",
-    "ipynb/docs/Wild Bones (2022) - full transcript.txt",
-    "
+    "ipynb/instance.ipynb"
+  ]
+}

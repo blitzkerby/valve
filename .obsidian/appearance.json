@@ -1,7 +1,7 @@
 {
   "accentColor": "#66ff75",
   "theme": "obsidian",
-  "cssTheme": "Vanilla AMOLED",
+  "cssTheme": "AnuPpuccin",
   "textFontFamily": "JetBrains Mono NL",
   "monospaceFontFamily": "JetBrains Mono NL",
   "interfaceFontFamily": "JetBrains Mono NL",
@@ -16,5 +16,5 @@
     "Notebook Backgrounds"
   ],
   "baseFontSizeAction": true,
-  "baseFontSize": 13
+  "baseFontSize": 12
 }

@@ -8,19 +8,18 @@ completed:
 tags:
   - math
 ---
-## $$
-\begin{align}
+ $$
+\huge{
+	\begin{align}
 	
+		\int^{\frac{\pi}{2}}_{0} 
+			\frac{\sin 2024x}
+				{\sin x}
+		dx 
+		
+		\\ 
 	
-	\int^{\frac{\pi}{2}}_{0} 
-		\frac{\sin 2024x}
-			{\sin x}
-	dx 
-	
-	\\ 
-
-
-\end{align}
-
+	\end{align}
+}
 $$
 

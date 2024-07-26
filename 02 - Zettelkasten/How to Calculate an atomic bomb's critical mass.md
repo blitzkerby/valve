@@ -10,13 +10,17 @@ tags:
 ---
 
 ## The Neutron Diffusion Equation
-## $$
-\begin{align}
-	& \frac{\partial N}
-		{\partial t} = \frac{(v-1)}
-					{\tau}N  + \frac{\lambda_t \lambda_f}
-									{3\tau} \nabla^2 N
-\end{align}
+
+$$
+\large
+{
+	\begin{align}
+		& \frac{\partial N}
+			{\partial t} = \frac{(v-1)}
+						{\tau}N  + \frac{\lambda_t \lambda_f}
+										{3\tau} \nabla^2 N
+	\end{align}
+}
 $$
 #####  $$
 \begin{align}
@@ -30,9 +34,12 @@ $$
 
 
 ## Continuity Equation
-## $$
-\frac{\partial N}
-	{\partial t} + \nabla \cdot J = 0
+ $$
+\large
+{
+	\frac{\partial N}
+		{\partial t} + \nabla \cdot J = 0
+}
 $$
 #####  $$
 \begin{align}

@@ -26,8 +26,6 @@ completed:
 ### (1) What are the advantages and disadvantages account receivables to a firm?
 ---
 
-> **Accounts receivable** represent amounts owed to a company by its customers for goods or services sold on credit.
- 
 Advantages:
 
 - Increased sales: Offering credit terms can attract customers and increase sales.
@@ -52,9 +50,6 @@ Disadvantages:
 
 ### (2) What are the differences between Allowance Method and Direct Write-off Method for uncollectible account receivable? 
 ---
-
-> Both methods account for uncollectible accounts, but they differ in timing and approach.
- 
 
 **Allowance Method:**
 
@@ -81,8 +76,6 @@ Disadvantages:
 ### (3) What is the definition of a plant asset? What is different type of plant assets? How different between a plant asset and a current asset?
 ---
 
-> A **plant asset** (or fixed asset) is a long-term asset with a physical form that is used in the operations of a business and is not intended for sale.
-
 **Types of plant assets:**
 
 - **Land:** The earth's surface and anything permanently attached to it.
@@ -105,10 +98,6 @@ Disadvantages:
 
 ### (4) How to allocate cost of a plant asset into an expense? Give your explanations to each method of the cost allocation of a plant asset. 
 ---
- 
- > Depreciation is the process of allocating the cost of a plant asset over its useful life.
-
-**Methods of depreciation:**
 
 - **Straight-line method:** Allocates equal amounts of depreciation expense each year.
 $$
@@ -133,7 +122,7 @@ $$
 	}
 $$
 
-**Choice of method:** Depends on factors like asset usage, company policy, and tax implications.
+The choice of each methods depend on factors like asset usage, company policy, and tax implications.
 
 
 
@@ -146,7 +135,7 @@ $$
 ### (5) How many forms of business company are there in general?
 ---
 
-Generally, there are three primary forms of business organizations:
+Generally, there are three primary forms of business companies:
 
 - **Sole proprietorship**
 - **Partnership**
@@ -165,10 +154,13 @@ Generally, there are three primary forms of business organizations:
 
 A **partnership** is a business owned by two or more people who share profits, losses, and control.
 
-**Types of Partnerships:**
+
+****Types of Partnerships:**
 
 - **General Partnership:** All partners share in management, profits, and liabilities.
+
 - **Limited Partnership:** At least one general partner manages the business and assumes unlimited liability, while limited partners contribute capital but have limited liability.
+  
 - **Limited Liability Partnership (LLP):** Similar to a general partnership, but partners have limited personal liability for the debts and actions of other partners.
 
 
@@ -262,11 +254,13 @@ A **corporation** is a legal entity separate from its owners (shareholders). It 
 **S Corporation:**
 
 - **Advantages:** Limited liability, pass-through taxation, easier to manage than a C Corporation.
+
 - **Disadvantages:** Restrictions on shareholders, eligibility requirements.
 
 **LLC:**
 
 - **Advantages:** Limited liability, pass-through taxation, flexibility in management structure.
+
 - **Disadvantages:** State-specific regulations, potential for double taxation in some cases. 
 
 
@@ -291,14 +285,10 @@ Gomez Corp. uses the allowance method to account for un-collectibles. On January
 
 ---
 
-### 1. January 31: Writing Off C. Green's Account
-
-Since Gomez Corp. uses the allowance method, we will reduce the Accounts Receivable and the Allowance for Doubtful Accounts.
+### 1. Prepare the journal entries for January 31
 
 - **Debit:** Allowance for Doubtful Accounts ($800)
 - **Credit:** Accounts Receivable ($800)
-
-**Journal Entry:**
 
 | Date   | Account Title                   | Debit | Credit |
 | ------ | ------------------------------- | ----- | ------ |
@@ -484,11 +474,11 @@ d. Prepare the entry to record the current calendar year’s depreciation.
 
 ### d. Prepare the entry to record the current calendar year’s depreciation.
 
-- **New total life:** 20 years (original) + 5 years (extension) = 25 years
+- **New total life:** 20 years + 5 years = 25 years
     
-- **Remaining life:** 25 years - 15 years (already depreciated) = 10 years
+- **Remaining life:** 25 years - 15 years = 10 years
     
-- **New depreciable base:** $640,350 (building cost after repairs)
+- **New depreciable base:** $640,350
     
 - **Annual depreciation:** $640,350 / 10 years = $64,035
     
@@ -538,8 +528,6 @@ d. Diaz sold the machine for $80,000 cash.
 
 #### a. Machine disposed of with no return
 
-When an asset is disposed of with no return, it's essentially given away. The company will record a loss equal to the asset's book value.
-
 |Date|Account Title|Debit|Credit|
 |---|---|---|---|
 |Jan 3|Accumulated Depreciation - Milling Machine|182,000||
@@ -548,8 +536,6 @@ When an asset is disposed of with no return, it's essentially given away. The co
 
 
 #### b. Machine sold for $35,000 cash
-
-Since the selling price is less than the book value, there is a loss on disposal.
 
 |Date|Account Title|Debit|Credit|
 |---|---|---|---|
@@ -561,8 +547,6 @@ Since the selling price is less than the book value, there is a loss on disposal
 
 #### c. Machine sold for $68,000 cash
 
-In this case, the selling price equals the book value, resulting in no gain or loss.
-
 |Date|Account Title|Debit|Credit|
 |---|---|---|---|
 |Jan 3|Accumulated Depreciation - Milling Machine|182,000||
@@ -571,8 +555,6 @@ In this case, the selling price equals the book value, resulting in no gain or l
 
 
 #### d. Machine sold for $80,000 cash
-
-Since the selling price is greater than the book value, there is a gain on disposal.
 
 | Date  | Account Title                              | Debit   | Credit  |
 | ----- | ------------------------------------------ | ------- | ------- |
@@ -611,8 +593,6 @@ assuming a five-year life and double-declining-balance depreciation.
 ---
 
 **a. Allocation Table**
-
-To allocate the lump-sum purchase price, we'll use the relative fair market value method.
 
 |Asset|Fair Market Value|Percentage|Allocated Cost|
 |---|---|---|---|
@@ -653,7 +633,4 @@ To allocate the lump-sum purchase price, we'll use the relative fair market valu
 - **Depreciation rate:** 2 / 5 = 40% (double-declining-balance)
 
 **Depreciation expense for year 2015:** $27,000 * 40% = $10,800
-
 **Depreciation expense for year 2015 on land improvements is $10,800.**
-
-**Note:** Double-declining-balance depreciation is an accelerated method that results in higher depreciation expense in the early years of an asset's life.

@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 578.5,
-    "collapsed": true
+    "width": 578.5
   },
   "right": {
     "id": "28f84addcdfc127b",
@@ -201,6 +200,7 @@
   },
   "active": "ebf54bbda28ab8f2",
   "lastOpenFiles": [
+    "07 - Output/2024-07-26 Cousins Exam Prep.pdf",
     "Calendar.md",
     "00 - Calendar/2024-07-26 Cousins Exam Prep.md",
     "2024-07-26.md",
@@ -238,7 +238,6 @@
     "00 - Excalidraw/base-13.md",
     "Pasted Image 20240724164752_308.svg",
     "00 - Calendar/2024-07-23 Rest-Spread operator.md",
-    "“2024-07-23.md",
     "04 - Template",
     "01 - pure-react",
     "01-pure-react",

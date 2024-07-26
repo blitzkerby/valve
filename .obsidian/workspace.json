@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "2c27d83430993e7e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Final Exam Question_26 July 2024.pdf"
-              },
-              "pinned": true
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final Exam Question_26 July 2024.pdf",
+                "file": "00 - Calendar/2024-07-26 Cousins Exam Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final Exam Question_26 July 2024.pdf",
+                "file": "00 - Calendar/2024-07-26 Cousins Exam Prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final Exam Question_26 July 2024.pdf"
+                "file": "00 - Calendar/2024-07-26 Cousins Exam Prep.md"
               }
             }
           },
@@ -212,10 +199,10 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "2c27d83430993e7e",
+  "active": "ebf54bbda28ab8f2",
   "lastOpenFiles": [
-    "00 - Calendar/2024-07-26 Cousins Exam Prep.md",
     "Final Exam Question_26 July 2024.pdf",
+    "00 - Calendar/2024-07-26 Cousins Exam Prep.md",
     "Calendar.md",
     "07 - Output/Pasted Image 20240724164752_308.svg",
     "07 - Output/Pasted image 20240724165244.png",

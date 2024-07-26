@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "2c27d83430993e7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Calendar/2024-07-26 Cousins Exam Prep.md",
+                "file": "Calendar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Calendar/2024-07-26 Cousins Exam Prep.md",
+                "file": "Calendar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Calendar/2024-07-26 Cousins Exam Prep.md"
+                "file": "Calendar.md"
               }
             }
           },
@@ -198,11 +211,12 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "ebf54bbda28ab8f2",
+  "active": "3687e9fda175fe4e",
   "lastOpenFiles": [
+    "00 - Assets/Final Exam Question_26 July 2024.pdf",
+    "00 - Calendar/2024-07-26 Cousins Exam Prep.md",
     "07 - Output/2024-07-26 Cousins Exam Prep.pdf",
     "Calendar.md",
-    "00 - Calendar/2024-07-26 Cousins Exam Prep.md",
     "2024-07-26.md",
     "00 - Calendar/2024-07-24 Props.md",
     "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
@@ -245,7 +259,6 @@
     "00 - Assets/Pasted Image 20240718101521_328.png",
     "00 - Assets/Pasted Image 20240718100357_184.png",
     "00 - Assets/Pasted Image 20240717114707_789.svg",
-    "00 - ipynb/states.csv",
-    "00 - ipynb/instance.ipynb"
+    "00 - ipynb/states.csv"
   ]
 }

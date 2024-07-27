@@ -4,25 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "91b12a5601f58695",
+        "id": "a5293fb04d332bef",
         "type": "tabs",
         "children": [
           {
-            "id": "28b1dc7a084baf3a",
+            "id": "4a68607fbe543506",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
             }
           },
           {
-            "id": "4ac73bb0421ffd77",
+            "id": "4f63553569c3914b",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "00 - Excalidraw/Drawing 2024-07-27 14.36.31.excalidraw.md"
-              }
+                "file": "01 - Rough Notes/2024-07-27 Piskunov-C1-SEC1.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ],
@@ -46,7 +52,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -100,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.5,
+    "width": 658.5,
     "collapsed": true
   },
   "right": {
@@ -125,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Excalidraw/Drawing 2024-07-27 14.36.31.excalidraw.md",
+                "file": "01 - Rough Notes/2024-07-27 Piskunov-C1-SEC1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Excalidraw/Drawing 2024-07-27 14.36.31.excalidraw.md",
+                "file": "01 - Rough Notes/2024-07-27 Piskunov-C1-SEC1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Excalidraw/Drawing 2024-07-27 14.36.31.excalidraw.md"
+                "file": "01 - Rough Notes/2024-07-27 Piskunov-C1-SEC1.md"
               }
             }
           },
@@ -204,21 +210,23 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "4ac73bb0421ffd77",
+  "active": "4f63553569c3914b",
   "lastOpenFiles": [
+    "01 - Rough Notes/2024-07-27 Piskunov-C1-SEC1.md",
+    "02 - Zettelkasten/2024-07-22 How to Calculate an atomic bomb's critical mass.md",
+    "03 - Archived/Strategic Thinking - A Mental Model from Chess.md",
+    "03 - Archived/1. The basics of functions.md",
+    "Pasted Image 20240727143701_699.png",
+    "Calendar.md",
+    "PDF/Final Exam Question_26 July 2024.pdf",
+    "2024-07-17.md",
+    "00 - Excalidraw/Drawing 2024-07-27 14.36.31.excalidraw.md",
     "Pasted Image 20240727145631_572.png",
     "Pasted Image 20240727144455_871.png",
     "Pasted Image 20240727143715_585.png",
-    "Pasted Image 20240727143701_699.png",
-    "00 - Excalidraw/Drawing 2024-07-27 14.36.31.excalidraw.md",
     "01 - Rough Notes/2024-07-26 Cousins Exam Prep (Refine).md",
     "07 - Output/Exam.pdf",
     "01 - Rough Notes/2024-07-26 Cousins Exam Prep.md",
-    "Calendar.md",
-    "02 - Zettelkasten/1. The basics of functions.md",
-    "02 - Zettelkasten/Strategic Thinking - A Mental Model from Chess.md",
-    "02 - Zettelkasten/2024-07-22 How to Calculate an atomic bomb's critical mass.md",
-    "2024-07-17.md",
     "01 - Rough Notes/2024-07-22 The Absolute Value of a Real Number.md",
     "2024-07-22.md",
     "01 - Rough Notes/2024-07-22 React Journey.md",
@@ -226,7 +234,6 @@
     "01 - Rough Notes/2024-07-22 Laplacian Operator.md",
     "01 - Rough Notes/2024-07-22 Integral - Vienna 2024.md",
     "01 - Rough Notes/2024-07-22 First Order Differential Equations.md",
-    "Final Exam Question_26 July 2024.pdf",
     "07 - Output/Pasted Image 20240724164752_308.svg",
     "07 - Output/Pasted image 20240724165244.png",
     "07 - Output/Pasted image 20240724233157.png",
@@ -251,7 +258,6 @@
     "07 - Output/Pasted image 20240724165219.png",
     "07 - Output/Pasted image 20240724165131.png",
     "07 - Output/Pasted image 20240724165122.png",
-    "07 - Output/Pasted image 20240724165107.png",
     "Calendar/Untitled.canvas"
   ]
 }

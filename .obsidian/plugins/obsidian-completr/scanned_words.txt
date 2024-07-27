@@ -3002,6 +3002,7 @@ Pfk
 PfhZE
 PSXeq
 Piskunov
+POINTS
 obj
 on
 oo
@@ -21547,6 +21548,7 @@ Rxe
 Rir
 RkfT
 RGH
+REAL
 ic
 iV
 iw
@@ -27701,6 +27703,7 @@ eFFx
 eTC
 exJ
 eNS
+extract
 Type
 Tx
 TY
@@ -36052,6 +36055,7 @@ Sry
 SOw
 SIz
 SREV
+SCALE
 Image
 Ip
 Io
@@ -50228,6 +50232,7 @@ CiF
 CWY
 CkUb
 Cqm
+Chapter
 DeviceRGB
 DCTDecode
 Dq
@@ -58443,6 +58448,7 @@ EsnFQ
 Etkz
 EPfEG
 ELs
+Every
 MM
 MuL
 MG
@@ -78924,6 +78930,8 @@ rez
 rBU
 rio
 rKv
+rational
+ratio
 NM
 NH
 NI
@@ -81423,6 +81431,8 @@ NZsn
 NWG
 NIGmggK
 Nzgq
+NUMBERS
+NUMBER
 ks
 kC
 kF
@@ -114010,6 +114020,7 @@ VrK
 VrlQ
 VtW
 VHY
+Variable
 ZX
 ZwG
 Zio
@@ -123076,6 +123087,7 @@ ALY
 AvS
 ALV
 Apr
+ABSOLUTE
 ug
 uE
 uj

@@ -1,3 +1,10 @@
+---
+title: React State
+allDay: true
+date: 2024-07-28
+completed: null
+---
+```jsx
 import { useState } from "react";
 
 const messages = [
@@ -10,16 +17,20 @@ const messages = [
 export default function App()
 {
   const [step, setStep] = useState(1)
+
   function handlePrevious()
   {
     if(step > 1)
       setStep(step - 1);
   }
+
   function handleNext()
   {
     if(step < 3)
       setStep(step + 1);
   }
+
+
   return <>
     <div className="steps">
       
@@ -53,3 +64,5 @@ export default function App()
     
   </>
 }
+```
+

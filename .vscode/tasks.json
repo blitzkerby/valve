@@ -4,9 +4,15 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Auto Commit",
+            "label": "Auto Commit (WIN)",
             "type": "shell",
             "command": "${workspaceFolder}/autocommit.bat",
+            "problemMatcher": []
+        },
+        {
+            "label": "Auto Commit (MacOS)",
+            "type": "shell",
+            "command": "${workspaceFolder}/autocommit.sh",
             "problemMatcher": []
         }
     ]

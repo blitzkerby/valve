@@ -19,6 +19,11 @@
       "type": "local",
       "color": "hsl(126, 100%, 70%)",
       "directory": "03 - Archived"
+    },
+    {
+      "type": "local",
+      "color": "hsl(126, 100%, 70%)",
+      "directory": "00 - Excalidraw"
     }
   ],
   "defaultCalendar": 0,

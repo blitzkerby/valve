@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "238a2d4a4b94a358",
+        "id": "3ea682513c0f7606",
         "type": "tabs",
         "children": [
           {
-            "id": "70329b8fd61bcf8f",
+            "id": "b1969f3daa3f902e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Calendar/2024-07-24 Component Trees.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -31,7 +27,6 @@
       {
         "id": "8f555a9b5839e619",
         "type": "tabs",
-        "dimension": 37.91374122367101,
         "children": [
           {
             "id": "3687e9fda175fe4e",
@@ -77,12 +72,11 @@
         ]
       },
       {
-        "id": "bfab6c801dfbc679",
+        "id": "45ade482ceff47fd",
         "type": "tabs",
-        "dimension": 62.08625877632899,
         "children": [
           {
-            "id": "e67f1ef328ccbf85",
+            "id": "4c25506ae9aae842",
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
@@ -93,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 735.5
+    "width": 840.5
   },
   "right": {
     "id": "28f84addcdfc127b",
@@ -117,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Calendar/2024-07-24 Component Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Calendar/2024-07-24 Component Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "00 - Calendar/2024-07-24 Component Trees.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,13 +186,29 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e67f1ef328ccbf85",
+  "active": "b1969f3daa3f902e",
   "lastOpenFiles": [
-    "Pasted Image 20240729121035_121.png",
-    "00 - Excalidraw/Drawing 2024-07-29 12.02.30.excalidraw.md",
+    "00 - Assets/Pasted Image 20240729121035_121.png",
+    "00 - Excalidraw/2024-07-29 12.02.30.excalidraw.md",
+    "01 - Rough Notes/2024-07-27 Piskunov-C1-S1.md",
+    "01 - Rough Notes/2024-07-26 Cousins Exam Prep (Refine).md",
+    "00 - Excalidraw/2024-07-26 21.00.10.excalidraw.md",
+    "00 - Excalidraw/2024-07-27 14.36.31.excalidraw.md",
+    "00 - Excalidraw/2024-07-29 14.12.40.excalidraw.md",
+    "00 - Excalidraw/2024-07-29 14.12.16.excalidraw.md",
+    "00 - Excalidraw/2024-07-29 14.12.25.excalidraw.md",
+    "00 - Excalidraw/2024-07-29 14.12.25_0.excalidraw.md",
+    "00 - Excalidraw/2024-07-29 14.12.25_1.excalidraw.md",
+    "00 - Excalidraw/2024-07-29 14.12.26.excalidraw.md",
+    "00 - Excalidraw/2024-07-29 14.12.26_0.excalidraw.md",
+    "00 - Excalidraw/2024-07-29 14.12.10.excalidraw.md",
+    "Calendar.md",
+    "00 - Assets/Pasted Image 20240727145631_572.png",
+    "00 - Assets/Pasted Image 20240727144455_871.png",
+    "00 - Calendar/2024-07-24 Component Trees.md",
     "00 - Calendar/2024-07-28 React State.md",
     "00 - Excalidraw/base-10.md",
-    "00 - Excalidraw/Drawing 2024-07-19 09.07.51.excalidraw.md",
+    "00 - Excalidraw/2024-07-19 09.07.51.excalidraw.md",
     "autocommit.sh",
     "autocommit_wrapper.sh",
     "Pasted Image 20240718104850_534.png",
@@ -214,33 +220,17 @@
     "Pasted Image 20240718102039_472.png",
     "Pasted Image 20240718101521_328.png",
     "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
-    "Assets/Pasted Image 20240718101112_655.png",
     "02 - Zettelkasten/Strategic Thinking - A Mental Model from Chess.md",
-    "Assets/Screenshot 2024-07-18 at 10.11.13 in the morning.png",
     "Untitled Kanban.md",
     "Excalidraw/base-9.md",
     "Home.md",
     "Calendar/2024-07-17 Canvas Model.md",
-    "01 - Rough Notes/Laplacian Operator.md",
-    "01 - Rough Notes/Laplacian Operator.md",
-    "How to calculate an atomic bomb's critical mass.md",
     "Assets/the-business-model-canvas.pdf",
     "99 - Mission 4/the-business-model-canvas.pdf",
     "Untitled 1",
     "99 - Mission 3/3rd missiion for indivisual.pdf",
-    "03 - Archived/DESCRIPTIVE STATISTICS.md",
-    "03 - Archived/MISSION 3 (Briefing II).md",
     "03 - Archived",
     "Untitled",
-    "Kanban/Kanban.md",
-    "03 - Archived/Untitled 1.md",
-    "03 - Archived/Things To do Now.md",
-    "03 - Archived/Mission 3 - Revised.md",
-    "03 - Archived/Mission 3.md",
-    "Calendar/2024-06-03 A trick for Logarithm integrals.md",
-    "Calendar/2024-07-16 Differentiation of Complex Functions.md",
-    "Calendar/2024-07-16 Fast Facts about Cambodia's Agriculture Sector.md",
-    "Calendar/2024-07-16 Legatum prosperity index.md",
     "02 - Src/Webpages/LaTex Cheat Sheet/LaTeX Cheat Sheet & Quick Reference_files/carbon.js.download",
     "02 - Src/Webpages/LaTex Cheat Sheet/LaTeX Cheat Sheet & Quick Reference_files/style.css",
     "src/data-analysis/meta/99 - Misc/Untitled.canvas",

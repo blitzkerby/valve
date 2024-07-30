@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3ea682513c0f7606",
+        "id": "849fffeb19748fb1",
         "type": "tabs",
         "children": [
           {
-            "id": "b1969f3daa3f902e",
+            "id": "a2250a24539a6e3f",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -186,7 +186,7 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "3687e9fda175fe4e",
+  "active": "a2250a24539a6e3f",
   "lastOpenFiles": [
     "autocommit.sh",
     "00 - Assets/Pasted Image 20240729121035_121.png",

@@ -1,13 +1,5 @@
 import "./styles.css";
 
-export default function App() {
-  return (
-    <div className="App">
-      <FlashCards />
-    </div>
-  );
-}
-
 const questions = [
   {
     id: 3457,
@@ -43,5 +35,23 @@ const questions = [
 ];
 
 function FlashCards() {
-  return <div>TODO</div>;
+  const [selectedId, setSelectedID] = useState(9103)
+
+  return (
+    <div className="flashcards">
+      {questions.map((card) => (
+        <div key={card.id}>
+          <p>{card.id === selectedId ? card.answer : card.question}</p>
+        </div>
+      ))}
+    </div>
+  );
+}
+
+export default function App() {
+  return (
+    <div className="App">
+      <FlashCards />
+    </div>
+  );
 }

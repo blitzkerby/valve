@@ -13649,6 +13649,7 @@ sYn
 soK
 syu
 sFY
+short
 wa
 with
 www
@@ -25049,6 +25050,7 @@ iUCQ
 ixr
 iUK
 inL
+immutable
 endstream
 endobj
 eq
@@ -130413,6 +130415,8 @@ mMTT
 mZB
 mHhy
 memory
+modified
+mutable
 GpG
 Gj
 Gz

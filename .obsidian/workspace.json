@@ -33,9 +33,11 @@
             "id": "e2a32b82484432a6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "00 - Excalidraw/2024-07-30 13.14.56.excalidraw.md"
+                "file": "01 - Rough Notes/2024-07-22 Laplacian Operator.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -136,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Excalidraw/2024-07-30 13.14.56.excalidraw.md",
+                "file": "01 - Rough Notes/2024-07-22 Laplacian Operator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Excalidraw/2024-07-30 13.14.56.excalidraw.md",
+                "file": "01 - Rough Notes/2024-07-22 Laplacian Operator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Excalidraw/2024-07-30 13.14.56.excalidraw.md"
+                "file": "01 - Rough Notes/2024-07-22 Laplacian Operator.md"
               }
             }
           },
@@ -217,10 +219,11 @@
   },
   "active": "e2a32b82484432a6",
   "lastOpenFiles": [
+    "01 - Rough Notes/2024-07-22 First Order Differential Equations.md",
+    "00 - Excalidraw/2024-07-30 13.14.56.excalidraw.md",
     "Pasted Image 20240730135740_579.png",
     "Pasted Image 20240730135653_874.png",
     "00 - Excalidraw/2024-07-29 12.02.30.excalidraw.md",
-    "00 - Excalidraw/2024-07-30 13.14.56.excalidraw.md",
     "00 - Calendar/2024-07-30 State vs Props.md",
     "Pasted image 20240730102040.png",
     "Screenshot 2024-07-30 at 10.19.58 in the morning.png",
@@ -250,7 +253,6 @@
     "00 - Excalidraw/base-10.md",
     "00 - Excalidraw/2024-07-19 09.07.51.excalidraw.md",
     "autocommit_wrapper.sh",
-    "Pasted Image 20240718104850_534.png",
     "Excalidraw/base-12.md",
     "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
     "02 - Zettelkasten/Strategic Thinking - A Mental Model from Chess.md",

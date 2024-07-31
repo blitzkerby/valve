@@ -5,11 +5,6 @@
         "name": "Auto Commit (WIN)",
         "path": "${workspaceFolder}",
         "command": ".\\autocommit.bat"
-      },
-      {
-        "name": "Auto Commit (MAC)",
-        "path": "${workspaceFolder}",
-        "command": "./autocommit.sh"
       }
     ]
   ],

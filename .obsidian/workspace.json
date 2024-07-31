@@ -30,15 +30,11 @@
             }
           },
           {
-            "id": "e2a32b82484432a6",
+            "id": "3e6d1279bd890ca3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Rough Notes/2024-07-22 Laplacian Operator.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -138,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Rough Notes/2024-07-22 Laplacian Operator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Rough Notes/2024-07-22 Laplacian Operator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01 - Rough Notes/2024-07-22 Laplacian Operator.md"
-              }
+              "state": {}
             }
           },
           {
@@ -217,24 +209,28 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e2a32b82484432a6",
+  "active": "3e6d1279bd890ca3",
   "lastOpenFiles": [
+    "00 - Excalidraw/2024-07-29 12.02.30.excalidraw.md",
+    "02 - Zettelkasten/2024-07-22 How to Calculate an atomic bomb's critical mass.md",
+    "01 - Rough Notes/2024-07-22 Laplacian Operator.md",
     "01 - Rough Notes/2024-07-22 First Order Differential Equations.md",
+    "01 - Rough Notes/2024-07-22 React Journey.md",
+    "01 - Rough Notes/2024-07-22 Integral - Vienna 2024.md",
+    "01 - Rough Notes/2024-07-26 Cousins Exam Prep (Refine).md",
+    "01 - Rough Notes/2024-07-27 Piskunov-C1-S1.md",
     "00 - Excalidraw/2024-07-30 13.14.56.excalidraw.md",
     "Pasted Image 20240730135740_579.png",
     "Pasted Image 20240730135653_874.png",
-    "00 - Excalidraw/2024-07-29 12.02.30.excalidraw.md",
     "00 - Calendar/2024-07-30 State vs Props.md",
     "Pasted image 20240730102040.png",
     "Screenshot 2024-07-30 at 10.19.58 in the morning.png",
     "Pasted image 20240730101934.png",
     "Pasted image 20240730101845.png",
     "Pasted image 20240730101808.png",
-    "01 - Rough Notes/2024-07-27 Piskunov-C1-S1.md",
     "00 - Calendar/2024-07-30 What I learnt today.md",
     "autocommit.sh",
     "00 - Assets/Pasted Image 20240729121035_121.png",
-    "01 - Rough Notes/2024-07-26 Cousins Exam Prep (Refine).md",
     "00 - Excalidraw/2024-07-26 21.00.10.excalidraw.md",
     "00 - Excalidraw/2024-07-27 14.36.31.excalidraw.md",
     "00 - Excalidraw/2024-07-29 14.12.40.excalidraw.md",
@@ -253,10 +249,6 @@
     "00 - Excalidraw/base-10.md",
     "00 - Excalidraw/2024-07-19 09.07.51.excalidraw.md",
     "autocommit_wrapper.sh",
-    "Excalidraw/base-12.md",
-    "02 - Zettelkasten/How to Calculate an atomic bomb's critical mass.md",
-    "02 - Zettelkasten/Strategic Thinking - A Mental Model from Chess.md",
-    "Untitled Kanban.md",
     "Assets/the-business-model-canvas.pdf",
     "99 - Mission 4/the-business-model-canvas.pdf",
     "Untitled 1",

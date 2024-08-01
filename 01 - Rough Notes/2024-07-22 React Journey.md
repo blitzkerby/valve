@@ -347,3 +347,23 @@ export default Counter;
 ![[Pasted image 20240801174230.png]]
 
 
+
+# Deriving State
+---
+State that is computed from an existing piece of 
+
+```jsx
+const [cart, setCart] = useState([
+	{name: "JavaScript Course", price: 15.99},
+	{name: "Node.js Bootcamp", price: 14.99}
+])
+
+const [numItems, setNumItems] = useState(2);
+const [totalPrice, setTotalPrice] = useState(30.98);
+```
+
+```jsx
+const [cart, setCart] = useState([
+
+])
+```

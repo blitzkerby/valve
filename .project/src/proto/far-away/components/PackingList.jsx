@@ -22,17 +22,19 @@ function Item({item}){
         <span style={item.packed? {textDecoration: "line-through"} : {}}>
             {item.quantity} {item.description}
         </span>
+        <button>❌</button>
     </li>
 }
 
 
-export default function PackingList({items}) {
-    return <ul className="list">
-        
-            { items.map(item => {
-                    return <Item item={item}/>
-                }) 
-            }
-        
-    </ul>
+export default function PackingList({items , onDeleteItem}) {
+    return (
+        <div className="list">
+            <ul>
+                { items.map(item => {
+                        <Item item={item}/>
+                    })}
+            </ul>
+        </div>
+    )
 }

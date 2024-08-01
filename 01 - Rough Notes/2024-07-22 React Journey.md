@@ -360,15 +360,23 @@ const [cart, setCart] = useState([
 ```
 
 
-### Bad Practice
+***Bad Practice***
 ```jsx
 const [numItems, setNumItems] = useState(2);
 const [totalPrice, setTotalPrice] = useState(30.98);
 ```
+---
 - Three separate pieces of state, even though `numItems` and `totalPrice`
+- Need to keep them in sync (update together)
+- 3 state updates will cause 3 re-renders
 
 
+***Good Practice***
 ```jsx
 const numItems = cart.length;
 const totalPrice = cart.reduce((acc, cur) => acc + cur.price, 0)
 ```
+---
+- Just regular variables, no `useState`
+- Cart state is the *single source of truth for this related* data
+- Works because re-rendering component will *automatically re-calculate* derived state

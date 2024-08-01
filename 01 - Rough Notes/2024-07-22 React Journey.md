@@ -350,20 +350,25 @@ export default Counter;
 
 # Deriving State
 ---
-State that is computed from an existing piece of 
+![State that is computed from an existing piece of state or from props.]
 
 ```jsx
 const [cart, setCart] = useState([
 	{name: "JavaScript Course", price: 15.99},
 	{name: "Node.js Bootcamp", price: 14.99}
 ])
+```
 
+
+### Bad Practice
+```jsx
 const [numItems, setNumItems] = useState(2);
 const [totalPrice, setTotalPrice] = useState(30.98);
 ```
+- Three separate pieces of state, even though `numItems` and `totalPrice`
+
 
 ```jsx
-const [cart, setCart] = useState([
-
-])
+const numItems = cart.length;
+const totalPrice = cart.reduce((acc, cur) => acc + cur.price, 0)
 ```

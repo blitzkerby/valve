@@ -339,3 +339,11 @@ export default Counter;
 
 
 ![[Pasted image 20240731191611.png]]
+
+
+
+# Child-to-Parent communications
+---
+![[Pasted image 20240801174230.png]]
+
+

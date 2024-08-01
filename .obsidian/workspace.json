@@ -82,12 +82,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 866.5,
-    "collapsed": true
+    "width": 866.5
   },
   "right": {
     "id": "28f84addcdfc127b",
@@ -192,19 +191,20 @@
   },
   "active": "c7280df921eb49d6",
   "lastOpenFiles": [
+    "Pasted image 20240801174230.png",
+    "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
+    "01 - Rough Notes/2024-07-22 React Journey.md",
+    "2024-07-23 Rest-Spread o[[2024-07-22 React Journey.md",
     "00 - Calendar/2024-07-31 Thinking in React.md",
     "00 - Calendar/2024-07-30 State vs Props.md",
     "00 - Calendar/2024-07-27 Range.md",
     "00 - Calendar/2024-07-28 React State.md",
-    "01 - Rough Notes/2024-07-22 React Journey.md",
     "00 - Calendar/2024-07-24 Props.md",
     "00 - Calendar/2024-07-24 Converting HTML to JSX.md",
     "00 - Calendar/2024-07-24 Component Trees.md",
     "00 - Calendar/2024-07-23 Rest-Spread operator.md",
     "00 - Calendar/2024-07-23 Destructuring Data.md",
-    "2024-07-23 Rest-Spread o[[2024-07-22 React Journey.md",
     "00 - Calendar/2024-07-23 Asynchronous JavaScript.md",
-    "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
     "00 - Calendar/2024-08-01 Information Architecture II.md",
     "Screenshot 2024-07-30 at 10.19.58 in the morning.png",
     "README.md",
@@ -228,7 +228,6 @@
     "00 - Excalidraw/2024-07-19 09.07.51.excalidraw.md",
     "00 - Excalidraw/2024-07-27 14.36.31.excalidraw.md",
     "00 - Excalidraw/2024-07-26 21.00.10.excalidraw.md",
-    "00 - Excalidraw/2024-07-19 11.29.05.excalidraw.md",
     "autocommit.sh",
     "autocommit_wrapper.sh",
     "Assets/the-business-model-canvas.pdf",

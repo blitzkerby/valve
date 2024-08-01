@@ -26,12 +26,13 @@ function Item({item}){
 }
 
 
-
-export default function PackingList() {
+export default function PackingList({items}) {
     return <ul className="list">
-        { initialItems.map(item => {
-                return <Item item={item}/>
-            }) 
-        }
+        
+            { items.map(item => {
+                    return <Item item={item}/>
+                }) 
+            }
+        
     </ul>
 }

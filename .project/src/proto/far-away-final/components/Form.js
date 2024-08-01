@@ -4,10 +4,6 @@ export default function Form({ onAddItems }) {
   const [description, setDescription] = useState("");
   const [quantity, setQuantity] = useState(1);
 
-  function handleAddItems(item){
-    setItems((items) => [...items, item])
-  }
-
   function handleSubmit(e) {
     e.preventDefault();
 
@@ -15,7 +11,7 @@ export default function Form({ onAddItems }) {
 
     const newItem = { description, quantity, packed: false, id: Date.now() };
 
-    handleAddItems(newItem);
+    onAddItems(newItem);
 
     setDescription("");
     setQuantity(1);

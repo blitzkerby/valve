@@ -362,7 +362,7 @@ const [cart, setCart] = useState([
 
 ***Bad Practice***
 ```jsx
-const [numItems, setNumItems] = useState(2);
+const [numItems, setNumItems]     = useState(2);
 const [totalPrice, setTotalPrice] = useState(30.98);
 ```
 ---
@@ -373,7 +373,7 @@ const [totalPrice, setTotalPrice] = useState(30.98);
 
 ***Good Practice***
 ```jsx
-const numItems = cart.length;
+const numItems   = cart.length;
 const totalPrice = cart.reduce((acc, cur) => acc + cur.price, 0)
 ```
 ---

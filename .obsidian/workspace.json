@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c7dc16305889f53",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "685f1baeea763b45",
+            "id": "c7280df921eb49d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Calendar/2024-07-31 Thinking in React.md",
+                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,13 +72,7 @@
               "type": "recent-files",
               "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "4c5c8ac892e531eb",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "b9541cdf26611c2a",
             "type": "leaf",
@@ -99,11 +81,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 590.5,
+    "width": 866.5,
     "collapsed": true
   },
   "right": {
@@ -128,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
+                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
+                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md"
+                "file": "01 - Rough Notes/2024-07-22 React Journey.md"
               }
             }
           },
@@ -181,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -207,8 +190,22 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8c7dc16305889f53",
+  "active": "c7280df921eb49d6",
   "lastOpenFiles": [
+    "00 - Calendar/2024-07-31 Thinking in React.md",
+    "00 - Calendar/2024-07-30 State vs Props.md",
+    "00 - Calendar/2024-07-27 Range.md",
+    "00 - Calendar/2024-07-28 React State.md",
+    "01 - Rough Notes/2024-07-22 React Journey.md",
+    "00 - Calendar/2024-07-24 Props.md",
+    "00 - Calendar/2024-07-24 Converting HTML to JSX.md",
+    "00 - Calendar/2024-07-24 Component Trees.md",
+    "00 - Calendar/2024-07-23 Rest-Spread operator.md",
+    "00 - Calendar/2024-07-23 Destructuring Data.md",
+    "2024-07-23 Rest-Spread o[[2024-07-22 React Journey.md",
+    "00 - Calendar/2024-07-23 Asynchronous JavaScript.md",
+    "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
+    "00 - Calendar/2024-08-01 Information Architecture II.md",
     "Screenshot 2024-07-30 at 10.19.58 in the morning.png",
     "README.md",
     "Pasted image 20240730102040.png",
@@ -219,11 +216,8 @@
     "Pasted Image 20240730135653_874.png",
     "Calendar.md",
     "Pasted Image 20240731192239_669.png",
-    "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
-    "00 - Calendar/2024-07-31 Thinking in React.md",
     "Pasted image 20240731191611.png",
     "00 - Assets/Screenshot 2024-07-31 at 7.15.29 in the evening.png",
-    "00 - Assets/Pasted image 20240731191519.png",
     "00 - Excalidraw/2024-07-31 18.48.53.excalidraw.md",
     "00 - Assets/Calendar.md",
     "00 - Assets/README.md",
@@ -235,18 +229,7 @@
     "00 - Excalidraw/2024-07-27 14.36.31.excalidraw.md",
     "00 - Excalidraw/2024-07-26 21.00.10.excalidraw.md",
     "00 - Excalidraw/2024-07-19 11.29.05.excalidraw.md",
-    "00 - Excalidraw/base-10.md",
-    "00 - Excalidraw/base-11.md",
-    "00 - Excalidraw/base-12.md",
-    "00 - Excalidraw/base-9.md",
-    "00 - Excalidraw/base-14.md",
-    "00 - Excalidraw/base-13.md",
-    "01 - Rough Notes/2024-07-26 Cousins Exam Prep (Refine).md",
-    "00 - Calendar/2024-07-30 State vs Props.md",
-    "01 - Rough Notes/2024-07-27 Piskunov-C1-S1.md",
-    "00 - Calendar/2024-07-30 What I learnt today.md",
     "autocommit.sh",
-    "00 - Excalidraw/2024-07-29 14.12.40.excalidraw.md",
     "autocommit_wrapper.sh",
     "Assets/the-business-model-canvas.pdf",
     "99 - Mission 4/the-business-model-canvas.pdf",

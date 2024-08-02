@@ -488,15 +488,32 @@ function Reset()
 # Using An API
 ---
 
-In order to utilize APIs, you first have to ensure that Axios is installed:
+In order to utilize APIs, you first have to ensure that `Axios` is installed:
 
 ```BaSH
 npm run dev
 ```
 
-Then following can be written:
+Then your APIs could be written like the following, which uses the `Unsplash API`. 
+
 ```jsx
 import axios from 'axios';
 
+const api_link = "https://api.unsplash.com/search/photos"
+const access_key = "8050V7bNzfKdVixwS9W9nZVdr0VnrCv9gmeimfdvp6Y"
+
 const searchImages = async () => {
-	const response = await axios.get('some-generic
+	const response = await axios.get(api_link, {
+		headers:{
+			Authorization: `Client-ID ${access_key}`
+		},
+		params:{
+			query: "cars"
+		}
+	})
+
+	return reponse	
+}
+
+export default searchImages
+```

@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "00 - Excalidraw/base-13.md"
+                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md"
               }
             }
           }
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 866.5
+    "width": 413.5,
+    "collapsed": true
   },
   "right": {
     "id": "28f84addcdfc127b",
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Excalidraw/base-13.md",
+                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Excalidraw/base-13.md",
+                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Excalidraw/base-13.md"
+                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md"
               }
             }
           },
@@ -188,6 +189,7 @@
   },
   "active": "831f346e631a03aa",
   "lastOpenFiles": [
+    "00 - Excalidraw/base-13.md",
     "00 - Excalidraw/base-14.md",
     "00 - Excalidraw/2024-07-31 17.17.28.excalidraw.md",
     "00 - Excalidraw/base-9.md",
@@ -216,7 +218,6 @@
     "00 - Calendar/2024-07-24 Converting HTML to JSX.md",
     "00 - Calendar/2024-07-24 Component Trees.md",
     "00 - Calendar/2024-07-23 Rest-Spread operator.md",
-    "00 - Calendar/2024-07-23 Destructuring Data.md",
     "Screenshot 2024-07-30 at 10.19.58 in the morning.png",
     "Pasted image 20240730102040.png",
     "Pasted image 20240730101934.png",

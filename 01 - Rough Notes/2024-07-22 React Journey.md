@@ -480,3 +480,23 @@ function Reset()
 }
 ```
 >>>>>>> a4989bf (saving progress)
+
+
+
+
+
+# Using An API
+---
+
+In order to utilize APIs, you first have to ensure that Axios is installed:
+
+```BaSH
+npm run dev
+```
+
+Then following can be written:
+```jsx
+import axios from 'axios';
+
+const searchImages = async () => {
+	const response = await axios.get('some-generic

@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "aed2497fa197cd37",
+        "id": "ca8a09c2330e44f0",
         "type": "tabs",
         "children": [
           {
-            "id": "c7280df921eb49d6",
+            "id": "1130d80dab345166",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,11 +81,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 866.5
+    "width": 866.5,
+    "collapsed": true
   },
   "right": {
     "id": "28f84addcdfc127b",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Calendar/2024-08-02 AXIOS.md",
+                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Calendar/2024-08-02 AXIOS.md",
+                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Calendar/2024-08-02 AXIOS.md"
+                "file": "01 - Rough Notes/2024-07-22 React Journey.md"
               }
             }
           },
@@ -189,11 +190,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c7280df921eb49d6",
+  "active": "1130d80dab345166",
   "lastOpenFiles": [
+    "01 - Rough Notes/2024-07-22 React Journey.md",
     "Pasted image 20240801174230.png",
     "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
-    "01 - Rough Notes/2024-07-22 React Journey.md",
     "2024-07-23 Rest-Spread o[[2024-07-22 React Journey.md",
     "00 - Calendar/2024-07-31 Thinking in React.md",
     "00 - Calendar/2024-07-30 State vs Props.md",

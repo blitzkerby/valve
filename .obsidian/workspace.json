@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "93668fd0c6f304a3",
+        "id": "aed2497fa197cd37",
         "type": "tabs",
         "children": [
           {
-            "id": "c40fd2afffe898eb",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "e1890c0d4b0c32b6",
+            "id": "c7280df921eb49d6",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -29,12 +17,10 @@
                 "file": "01 - Rough Notes/2024-07-22 React Journey.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,13 +82,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 866.5,
-    "collapsed": true
+    "width": 866.5
   },
   "right": {
     "id": "28f84addcdfc127b",
@@ -126,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
+                "file": "00 - Calendar/2024-08-02 AXIOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
+                "file": "00 - Calendar/2024-08-02 AXIOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Rough Notes/2024-07-22 React Journey.md"
+                "file": "00 - Calendar/2024-08-02 AXIOS.md"
               }
             }
           },
@@ -205,11 +189,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e1890c0d4b0c32b6",
+  "active": "c7280df921eb49d6",
   "lastOpenFiles": [
+    "Pasted image 20240801174230.png",
     "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
     "01 - Rough Notes/2024-07-22 React Journey.md",
-    "Pasted image 20240801174230.png",
     "2024-07-23 Rest-Spread o[[2024-07-22 React Journey.md",
     "00 - Calendar/2024-07-31 Thinking in React.md",
     "00 - Calendar/2024-07-30 State vs Props.md",
@@ -223,16 +207,15 @@
     "00 - Calendar/2024-07-23 Asynchronous JavaScript.md",
     "00 - Calendar/2024-08-01 Information Architecture II.md",
     "Screenshot 2024-07-30 at 10.19.58 in the morning.png",
-    "README.md",
     "Pasted image 20240730102040.png",
     "Pasted image 20240730101934.png",
     "Pasted image 20240730101845.png",
     "Pasted image 20240730101808.png",
     "Pasted Image 20240730135740_579.png",
-    "Pasted Image 20240730135653_874.png",
     "Calendar.md",
     "Pasted Image 20240731192239_669.png",
     "Pasted image 20240731191611.png",
+    "00 - Assets/Screenshot 2024-07-31 at 7.15.29 in the evening.png",
     "00 - Excalidraw/2024-07-31 18.48.53.excalidraw.md",
     "00 - Assets/Calendar.md",
     "00 - Assets/README.md",

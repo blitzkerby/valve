@@ -139,8 +139,6 @@ const B = [4,5,6]
 const C = [...A, ...B] // [1,2,3,4,5,6]
 ```
 
-
-
 ![[Pasted image 20240724165244.png]]
 
 
@@ -348,6 +346,7 @@ export default Counter;
 
 
 
+<<<<<<< HEAD
 # Deriving State
 ---
 ![State that is computed from an existing piece of state or from props.]
@@ -380,3 +379,104 @@ const totalPrice = cart.reduce((acc, cur) => acc + cur.price, 0)
 - Just regular variables, no `useState`
 - Cart state is the *single source of truth for this related* data
 - Works because re-rendering component will *automatically re-calculate* derived state
+=======
+
+
+
+![[Pasted image 20240802110937.png]]
+
+
+# Tip Calculator
+---
+
+# `App.jsx`
+---
+
+![App()]
+```jsx
+import { useState } from "react"
+
+export default function App()
+{
+    return (
+        <div>
+            <TipCalculator />
+        </div>
+    )
+}
+```
+
+![TipCalculator()]
+```jsx
+
+function TipCalculator()
+{
+    const [bill, setBill] = useState(0)
+    const [percentage1, SelectPercentage1] = useState(0)
+    const [percentage2, SelectPercentage2] = useState(0)
+
+    const tip = bill * (percentage1 + percentage2) / (2 * 100)
+
+    return <div>
+        <BillInput 
+		        bill={bill}
+		        setBill={setBill}/>
+        <SelectPercentage 
+			    percentage={percentage1} 
+			    SelectPercentage={SelectPercentage1}>
+			How did you like the service? 
+	    </SelectPercentage>
+        <SelectPercentage 
+			    percentage={percentage2}
+			    SelectPercentage={SelectPercentage2}>
+			How did your friend like the service?
+		</SelectPercentage>
+        <Output bill={bill} tip={tip} />
+        <Reset />
+    </div>
+}
+```
+
+```jsx
+function BillInput({ bill , setBill })
+{ 
+    return <div>
+        <label>How much was the bill?</label>
+        <input type="number" onChange={(e) => setBill(Number(e.target.value))}/>
+    </div>
+}
+```
+
+
+```jsx
+function SelectPercentage({ percentage , SelectPercentage , children })
+{
+
+
+    return <div>
+        <label>{children}</label>
+        <select value={percentage} onChange={e => SelectPercentage(Number(e.target.value))}>
+            <option value={0}  >    Very dissatisfied (0%)  </option>
+            <option value={5}  >    dissatisfied (5%)       </option>
+            <option value={10} >    Neutral (10%)           </option>
+            <option value={15} >    satisfied (15%)         </option>
+            <option value={20} >    Very satisfied (20%)    </option>
+        </select>
+    </div>
+}
+```
+
+```jsx
+function Output({ bill , tip })
+{
+    return <h3>You pay ${bill + tip} (${bill} + ${tip})</h3>
+}
+```
+
+```jsx
+function Reset()
+{
+    return <button>Reset</button>
+}
+```
+>>>>>>> a4989bf (saving progress)

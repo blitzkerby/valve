@@ -11,11 +11,9 @@
             "id": "831f346e631a03aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
-                "mode": "source",
-                "source": false
+                "file": "00 - Excalidraw/base-13.md"
               }
             }
           }
@@ -109,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
+                "file": "00 - Excalidraw/base-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
+                "file": "00 - Excalidraw/base-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md"
+                "file": "00 - Excalidraw/base-13.md"
               }
             }
           },
@@ -190,21 +188,21 @@
   },
   "active": "831f346e631a03aa",
   "lastOpenFiles": [
-    "00 - Excalidraw/base-10.md",
-    "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
-    "00 - Excalidraw/2024-07-31 18.48.53.excalidraw.md",
-    "00 - Excalidraw/2024-08-03 05.50.59.excalidraw.md",
+    "00 - Excalidraw/base-14.md",
     "00 - Excalidraw/2024-07-31 17.17.28.excalidraw.md",
     "00 - Excalidraw/base-9.md",
+    "00 - Excalidraw/2024-07-31 18.48.53.excalidraw.md",
+    "00 - Excalidraw/2024-08-03 05.50.59.excalidraw.md",
     "00 - Excalidraw/2024-07-30 13.14.56.excalidraw.md",
+    "00 - Excalidraw/2024-07-19 11.29.05.excalidraw.md",
+    "00 - Excalidraw/2024-07-19 09.07.51.excalidraw.md",
+    "00 - Excalidraw/2024-07-29 12.02.30.excalidraw.md",
     "00 - Excalidraw/2024-07-27 14.36.31.excalidraw.md",
     "00 - Excalidraw/2024-07-26 21.00.10.excalidraw.md",
-    "00 - Excalidraw/base-12.md",
     "00 - Excalidraw/base-11.md",
-    "00 - Excalidraw/2024-07-29 12.02.30.excalidraw.md",
-    "00 - Excalidraw/2024-07-19 09.07.51.excalidraw.md",
-    "00 - Excalidraw/2024-07-19 11.29.05.excalidraw.md",
-    "00 - Excalidraw/base-14.md",
+    "00 - Excalidraw/base-12.md",
+    "00 - Excalidraw/base-10.md",
+    "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
     "Screenshot 2024-08-02 at 10.22.14 in the morning.png",
     "Pasted image 20240802110824.png",
     "01 - Rough Notes/2024-07-22 React Journey.md",

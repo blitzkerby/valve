@@ -30,7 +30,8 @@
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
-    "debugMode": false
+    "debugMode": false,
+    "lucideIconPackType": "native"
   },
   "03 - Tags": "CoTag",
   "04 - Indexes": "CoLabel",

@@ -15,7 +15,15 @@ function App() {
     // Update that books 'title' property
     // Don't forget to update the 'books' state by calling 'setBooks'
 
-    console.log("test")
+    const updatedBooks = books.map( (book) => {
+      book.id === id 
+        ? console.log(book)
+        : book
+    })
+
+    console.log(updatedBooks)
+
+    setBooks(updatedBooks)
   };
   
   const addBook = (title) => {
@@ -39,5 +47,4 @@ function App() {
   );
 }
 
-const useState = React.useState;
 export default App;

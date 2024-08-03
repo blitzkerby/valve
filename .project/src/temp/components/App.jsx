@@ -8,9 +8,7 @@ function App() {
   const addColorAtIndex = (newColor, index) => {
     // Todo: Add 'newColor' to 'colors' at the designated 'index'
     // and update state
-    let newList = colors.splice(index, 0, newColor)
-    
-    setColors(newList)
+  
   };
   
   const renderedColors = colors.map((color, i) => {

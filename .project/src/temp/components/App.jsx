@@ -27,5 +27,4 @@ function App() {
   );
 }
 
-const useState = React.useState;
 export default App;

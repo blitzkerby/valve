@@ -346,7 +346,6 @@ export default Counter;
 
 
 
-<<<<<<< HEAD
 # Deriving State
 ---
 ![State that is computed from an existing piece of state or from props.]
@@ -479,9 +478,6 @@ function Reset()
     return <button>Reset</button>
 }
 ```
->>>>>>> a4989bf (saving progress)
-
-
 
 
 
@@ -517,3 +513,6 @@ const searchImages = async () => {
 
 export default searchImages
 ```
+
+
+![[Pasted image 20240803072036.png]]

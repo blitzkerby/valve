@@ -14,13 +14,8 @@ function App() {
     // TODO: Find a book in the 'books' array with the given id
     // Update that books 'title' property
     // Don't forget to update the 'books' state by calling 'setBooks'
-    
-    for (let book of books) {
-      console.log(book)
-      if (book.id === id) {
-        setBooks(title)
-      }
-    }
+
+    console.log("test")
   };
   
   const addBook = (title) => {
@@ -44,4 +39,5 @@ function App() {
   );
 }
 
+const useState = React.useState;
 export default App;

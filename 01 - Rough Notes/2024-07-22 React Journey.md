@@ -515,4 +515,13 @@ export default searchImages
 ```
 
 
+
+# JSON Server Issues and Required version
+---
+
 ![[Pasted image 20240803072036.png]]
+
+
+```BaSH
+npm install json-server@0
+```

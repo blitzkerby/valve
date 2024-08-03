@@ -525,3 +525,4 @@ export default searchImages
 ```BaSH
 npm install json-server@0
 ```
+

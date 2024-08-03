@@ -1,30 +1,45 @@
 import React from 'react';
 import { Input } from './Input';
+import { EditForm } from './EditForm';
 import { useState } from 'react';
 
 function App() {
-  const [colors, setColors] = useState([]);
+  const [books, setBooks] = useState([
+      { id: 10, title: 'Harry Potter' }, // Don't change
+      { id: 17, title: 'Hunger Games' },
+      { id: 54, title: 'Dark Tower' }
+  ]);
   
-  const addColorAtIndex = (newColor, index) => {
-    // Todo: Add 'newColor' to 'colors' at the designated 'index'
-    // and update state
-    let tempList = [...colors]
-    tempList.splice(index, 0, newColor)
-
-    setColors(tempList);
-    console.log(colors)
+  const updateBookById = (id, title) => {
+    // TODO: Find a book in the 'books' array with the given id
+    // Update that books 'title' property
+    // Don't forget to update the 'books' state by calling 'setBooks'
+    
+    for (let book of books) {
+      console.log(book)
+      if (book.id === id) {
+        setBooks(title)
+      }
+    }
   };
   
-  const renderedColors = colors.map((color, i) => {
-      return <li key={i}>{color}</li>
+  const addBook = (title) => {
+    const book = { title: title, id: ~~(Math.random() * 1000) };
+    setBooks([...books, book])
+  };
+  
+  const renderedBooks = books.map((book, i) => {
+      return <li key={book.id}>Title: {book.title}, Id: {book.id}</li>
   });
   
   return (
     <div>
-      <Input onSubmit={addColorAtIndex} max={colors.length} />
-      <ul>
-        {renderedColors}
-      </ul>
+      <Input onSubmit={addBook} />
+      <ol>
+        {renderedBooks}
+      </ol>
+      <hr />
+      <EditForm books={books} onSubmit={updateBookById}  />
     </div>
   );
 }

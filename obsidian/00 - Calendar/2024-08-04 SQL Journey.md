@@ -21,3 +21,4 @@ completed: null
 | ability to for untrained people <br>to work with data | Automate steps for re-use                        |
 | Ability for untrained people to<br>work with data     | Can support data for website and<br>applications |
 
+![[Pasted image 20240804141633.png]]

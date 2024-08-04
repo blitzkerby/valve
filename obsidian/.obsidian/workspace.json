@@ -10,11 +10,27 @@
           {
             "id": "831f346e631a03aa",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Calendar/2024-08-04 SQL Journey.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "35bf5a064648e69a",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "excalidraw",
               "state": {
                 "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md"
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -109,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
+                "file": "00 - Calendar/2024-08-04 SQL Journey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
+                "file": "00 - Calendar/2024-08-04 SQL Journey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md"
+                "file": "00 - Calendar/2024-08-04 SQL Journey.md"
               }
             }
           },
@@ -190,6 +206,9 @@
   },
   "active": "831f346e631a03aa",
   "lastOpenFiles": [
+    "Pasted image 20240804141633.png",
+    "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
+    "00 - Calendar/2024-08-04 SQL Journey.md",
     "Pasted Image 20240804140650_468.png",
     "Pasted Image 20240804140547_460.png",
     "Pasted Image 20240804140255_458.png",
@@ -197,7 +216,6 @@
     "Pasted Image 20240804135832_566.png",
     "Pasted Image 20240804135648_467.svg",
     "01 - Rough Notes/2024-07-22 React Journey.md",
-    "00 - Calendar/2024-08-04 SQL Journey.md",
     "node_modules/core-js-pure/stable/promise/with-resolvers.js",
     "node_modules/core-js-pure/full/promise/with-resolvers.js",
     "node_modules/core-js-pure/features/promise/with-resolvers.js",
@@ -230,12 +248,10 @@
     "node_modules/eslint-plugin-jest/docs/rules/require-top-level-describe.md",
     "node_modules/eslint-plugin-jest/docs/rules/require-to-throw-message.md",
     "node_modules/eslint-plugin-jest/docs/rules/require-hook.md",
-    "node_modules/eslint-plugin-jest/README.md",
     "node_modules/react-scripts/template/src/logo.svg",
     "node_modules/react-scripts/template-typescript/src/logo.svg",
     "node_modules/stream-http/test/server/static/browserify.png",
     "node_modules/unique-filename/coverage/sort-arrow-sprite.png",
-    "node_modules/mute-stream/coverage/lcov-report/sort-arrow-sprite.png",
     "src/data-analysis/meta/99 - Misc/Untitled.canvas",
     "src/data-analysis/meta/99 - Misc/Untitled 1.canvas",
     "Untitled.canvas",

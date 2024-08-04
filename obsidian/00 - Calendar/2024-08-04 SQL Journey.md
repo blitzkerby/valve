@@ -40,3 +40,10 @@ completed: null
 
 ![DO NOT OPEN THE `dvdrental.tar` file directly]
 ![Forgetting PostgreSQL password]
+
+
+> PASSWORD FOR DATABASE
+> 
+> 	what the FUCK is a K!lom1t3r??
+> 
+

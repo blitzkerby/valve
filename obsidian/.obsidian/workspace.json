@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.5,
-    "collapsed": true
+    "width": 413.5
   },
   "right": {
     "id": "28f84addcdfc127b",
@@ -140,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
+                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
+                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Rough Notes/2024-07-22 React Journey.md"
+                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md"
               }
             }
           },
@@ -219,9 +218,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "33b3ab485f2258c8",
+  "active": "35bf5a064648e69a",
   "lastOpenFiles": [
     "00 - Calendar/2024-08-04 SQL Journey.md",
+    "01 - Rough Notes/2024-07-22 React Journey.md",
     "Pasted image 20240804141633.png",
     "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
     "Pasted Image 20240804140650_468.png",
@@ -230,7 +230,6 @@
     "Pasted Image 20240804135935_488.png",
     "Pasted Image 20240804135832_566.png",
     "Pasted Image 20240804135648_467.svg",
-    "01 - Rough Notes/2024-07-22 React Journey.md",
     "node_modules/core-js-pure/stable/promise/with-resolvers.js",
     "node_modules/core-js-pure/full/promise/with-resolvers.js",
     "node_modules/core-js-pure/features/promise/with-resolvers.js",

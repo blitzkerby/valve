@@ -3205,6 +3205,10 @@ Pfw
 Plain
 PostgreSQL
 PWktHBb
+PostGreSQL
+Periscope
+Presto
+PASSWORD
 obj
 on
 oo
@@ -8962,6 +8966,7 @@ LoBoL
 LMAcO
 LOB
 LFQjU
+Looker
 <<<<<<< HEAD
 =======
 >>>>>>> 3c6f49bebab7e5e0fe218cf3d698f51bec1a0c0b
@@ -11837,6 +11842,7 @@ FxIHDMCtaXHzrht
 Fjy
 FoFonfzjpUDup
 FVIDQPI
+FUCK
 stream
 sT
 sa
@@ -20650,6 +20656,7 @@ tDVAU
 tIA
 tIDiwcsey
 txtuI
+things
 RQ
 Rv
 Rs
@@ -23511,6 +23518,7 @@ REACT
 Request
 Response
 Rho
+Redshift
 ic
 iV
 iw
@@ -48024,6 +48032,8 @@ HqEM
 HsGdnr
 HyAD
 HdHJ
+Hive
+Hadoop
 BitsPerComponent
 BIM
 BT
@@ -51127,6 +51137,7 @@ BbuG
 BnFsH
 BgEgAIZAghmAkgA
 BHvga
+BigQuery
 ColorSpace
 Created
 CDEFGHIJSTUVWXYZcdefghijstuvwxyz
@@ -57964,6 +57975,7 @@ DqOv
 DPAF
 DyoLaDJFYS
 Databases
+DATABASE
 JFIF
 Ji
 Jk
@@ -66903,6 +66915,7 @@ MySQL
 MariaSQL
 Multi
 Mainly
+MemSQL
 com
 cl
 cZ
@@ -82422,6 +82435,7 @@ OGNFsUAFItsj
 OdLl
 OoXftENhh
 Ovzw
+Oracle
 rW
 rN
 rS
@@ -117612,6 +117626,7 @@ lvMyEqi
 lWzBFrATEmOgPvQ
 lboNq
 large
+lom
 hz
 hk
 hp
@@ -133445,6 +133460,7 @@ Automate
 Ability
 Access
 AJMk
+Amazon
 ug
 uE
 uj

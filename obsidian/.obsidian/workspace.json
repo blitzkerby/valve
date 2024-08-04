@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "831f346e631a03aa",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Calendar/2024-08-04 SQL Journey.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "35bf5a064648e69a",
             "type": "leaf",
             "pinned": true,
@@ -34,21 +20,19 @@
             }
           },
           {
-            "id": "33b3ab485f2258c8",
+            "id": "1e8d43f976f9b083",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "01 - Rough Notes/2024-07-22 React Journey.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,11 +203,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "33b3ab485f2258c8",
+  "active": "1e8d43f976f9b083",
   "lastOpenFiles": [
+    "01 - Rough Notes/2024-07-22 React Journey.md",
     "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
     "00 - Calendar/2024-08-04 SQL Journey.md",
-    "01 - Rough Notes/2024-07-22 React Journey.md",
     "Pasted image 20240804181833.png",
     "Pasted image 20240804141633.png",
     "Pasted Image 20240804140650_468.png",

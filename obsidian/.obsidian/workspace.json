@@ -81,12 +81,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 413.5,
-    "collapsed": true
+    "width": 413.5
   },
   "right": {
     "id": "28f84addcdfc127b",
@@ -181,15 +181,15 @@
       "smart-random-note:Open Random Note from Search": false,
       "templater-obsidian:Templater": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "homepage:Open homepage": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "831f346e631a03aa",
+  "active": "49c8d6a64672f215",
   "lastOpenFiles": [
     "node_modules/core-js-pure/stable/promise/with-resolvers.js",
     "node_modules/core-js-pure/full/promise/with-resolvers.js",

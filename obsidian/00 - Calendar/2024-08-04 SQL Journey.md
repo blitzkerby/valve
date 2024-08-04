@@ -22,3 +22,21 @@ completed: null
 | Ability for untrained people to<br>work with data     | Can support data for website and<br>applications |
 
 ![[Pasted image 20240804141633.png]]
+
+
+### SQL is useful for a lot of things!
+
+- MySQL
+- PostGreSQL
+- Oracle Databases
+- Microsoft Access
+- Amazon’s Redshift
+- Looker
+- MemSQL
+- Periscope Data
+- Hive (Runs on top of Hadoop)
+- Google’s BigQuery
+- Facebook’s Presto
+
+![DO NOT OPEN THE `dvdrental.tar` file directly]
+![Forgetting PostgreSQL password]

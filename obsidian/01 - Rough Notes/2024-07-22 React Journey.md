@@ -573,66 +573,112 @@ function Display() {
 ![[Pasted image 20240804181833.png]]
 
 
-`useState` is a hook that allows you to add state to your functional components. It returns an array with two elements: the current state value and a function to update it.
+
+# Chat Room Example
+---
+
+`App.js`
 
 ```jsx
-import React, { useState } from 'react';
-
-function Counter() 
-{
-  const [count, setCount] = useState(0);
-
-  return (
-    <div>
-      <p>Count: {count}</p>
-      <button onClick={() => setCount(count + 1)}>Increment</button>
-    </div>
-  );
-}
-
-export default Counter;
-```
-
-```jsx
-import { useEffect } from 'react';
+import React, { Component } from 'react';
 import { createConnection } from './chat.js';
 
-function ChatRoom({ roomId }) {
-  const [serverUrl, setServerUrl] = useState('https://localhost:1234');
+class ChatRoom extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      serverUrl: 'https://localhost:1234',
+      message: '',
+    };
+  }
 
-  useEffect(() => {
+  componentDidMount() {
+    const { serverUrl } = this.state;
+    const { roomId } = this.props;
     const connection = createConnection(serverUrl, roomId);
     connection.connect();
-    return () => {
-      connection.disconnect();
+    this.connection = connection;
+  }
+
+  componentWillUnmount() {
+    this.connection.disconnect();
+  }
+
+  render() {
+    const { serverUrl, message } = this.state;
+    const { roomId } = this.props;
+
+    return (
+      <>
+        <label>
+          Server URL:{' '}
+          <input
+            value={serverUrl}
+            onChange={(e) => this.setState({ serverUrl: e.target.value })}
+          />
+        </label>
+        <h1>Welcome to the {roomId} room!</h1>
+        <label>
+          Your message:{' '}
+          <input
+            value={message}
+            onChange={(e) => this.setState({ message: e.target.value })}
+          />
+        </label>
+      </>
+    );
+  }
+}
+
+export default class App extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      show: false,
+      roomId: 'general',
     };
-  }, [serverUrl, roomId]);
-  // ...
+  }
+
+  render() {
+    const { show, roomId } = this.state;
+
+    return (
+      <>
+        <label>
+          Choose the chat room:{' '}
+          <select
+            value={roomId}
+            onChange={(e) => this.setState({ roomId: e.target.value })}
+          >
+            <option value="general">general</option>
+            <option value="travel">travel</option>
+            <option value="music">music</option>
+          </select>
+          <button onClick={() => this.setState({ show: !show })}>
+            {show ? 'Close chat' : 'Open chat'}
+          </button>
+        </label>
+        {show && <hr />}
+        {show && <ChatRoom roomId={roomId} />}
+      </>
+    );
+  }
 }
 
 ```
 
+
+
 ```jsx
-import React, { useContext, createContext } from 'react';
-
-const ThemeContext = createContext('light');
-
-function ThemedButton() 
-{
-  const theme = useContext(ThemeContext);
-
-  return <button style={{ background: theme === 'dark' ? '#333' : '#FFF' }}>Theme: {theme}</button>;
+export function createConnection(serverUrl, roomId) {
+  // A real implementation would actually connect to the server
+  return {
+    connect() {
+      console.log('✅ Connecting to "' + roomId + '" room at ' + serverUrl + '...');
+    },
+    disconnect() {
+      console.log('❌ Disconnected from "' + roomId + '" room at ' + serverUrl);
+    }
+  };
 }
-
-function App() 
-{
-  return (
-    <ThemeContext.Provider value="dark">
-      <ThemedButton />
-    </ThemeContext.Provider>
-  );
-}
-
-export default App;
-
 ```

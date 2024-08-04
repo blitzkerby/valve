@@ -32,8 +32,23 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "33b3ab485f2258c8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Calendar/2024-08-04 SQL Journey.md",
+                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Calendar/2024-08-04 SQL Journey.md",
+                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Calendar/2024-08-04 SQL Journey.md"
+                "file": "01 - Rough Notes/2024-07-22 React Journey.md"
               }
             }
           },
@@ -204,11 +219,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "831f346e631a03aa",
+  "active": "33b3ab485f2258c8",
   "lastOpenFiles": [
+    "00 - Calendar/2024-08-04 SQL Journey.md",
     "Pasted image 20240804141633.png",
     "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
-    "00 - Calendar/2024-08-04 SQL Journey.md",
     "Pasted Image 20240804140650_468.png",
     "Pasted Image 20240804140547_460.png",
     "Pasted Image 20240804140255_458.png",
@@ -251,7 +266,6 @@
     "node_modules/react-scripts/template/src/logo.svg",
     "node_modules/react-scripts/template-typescript/src/logo.svg",
     "node_modules/stream-http/test/server/static/browserify.png",
-    "node_modules/unique-filename/coverage/sort-arrow-sprite.png",
     "src/data-analysis/meta/99 - Misc/Untitled.canvas",
     "src/data-analysis/meta/99 - Misc/Untitled 1.canvas",
     "Untitled.canvas",

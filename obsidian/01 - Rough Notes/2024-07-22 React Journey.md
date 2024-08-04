@@ -526,3 +526,46 @@ export default searchImages
 npm install json-server@0
 ```
 
+
+
+
+
+# Creating a `context`
+---
+```jsx
+const NumberContext = React.createContext();
+
+function App() {
+  return (
+    <NumberContext.Provider value={42}>
+      <Display />
+    </NumberContext.Provider>
+  );
+}
+```
+
+
+## **Using `useContext`**:
+---
+```jsx
+function Display() {
+  const value = useContext(NumberContext);
+  return <div>The answer is {value}.</div>;
+}
+
+```
+
+
+## **Using `Consumer` (the traditional way)**:
+---
+```jsx
+function Display() {
+  return (
+    <NumberContext.Consumer>
+      {value => <div>The answer is {value}.</div>}
+    </NumberContext.Consumer>
+  );
+}
+```
+
+

@@ -14,16 +14,8 @@ function App() {
     // TODO: Find a book in the 'books' array with the given id
     // Update that books 'title' property
     // Don't forget to update the 'books' state by calling 'setBooks'
-
-    const updatedBooks = books.map( (book) => {
-      book.id === id 
-        ? console.log(book)
-        : book
-    })
-
-    console.log(updatedBooks)
-
-    setBooks(updatedBooks)
+    const updatedBooks = [...books]
+    const bookIndex = 
   };
   
   const addBook = (title) => {

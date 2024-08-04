@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
+                "file": "00 - Calendar/2024-08-04 SQL Journey.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,11 +82,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 413.5
+    "width": 413.5,
+    "collapsed": true
   },
   "right": {
     "id": "28f84addcdfc127b",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
+                "file": "00 - Calendar/2024-08-04 SQL Journey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
+                "file": "00 - Calendar/2024-08-04 SQL Journey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Rough Notes/2024-07-22 React Journey.md"
+                "file": "00 - Calendar/2024-08-04 SQL Journey.md"
               }
             }
           },
@@ -189,8 +190,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "49c8d6a64672f215",
+  "active": "831f346e631a03aa",
   "lastOpenFiles": [
+    "01 - Rough Notes/2024-07-22 React Journey.md",
+    "00 - Calendar/2024-08-04 SQL Journey.md",
     "node_modules/core-js-pure/stable/promise/with-resolvers.js",
     "node_modules/core-js-pure/full/promise/with-resolvers.js",
     "node_modules/core-js-pure/features/promise/with-resolvers.js",
@@ -201,7 +204,6 @@
     "node_modules/core-js-pure/modules/web.url-search-params.has.js",
     "node_modules/core-js-pure/modules/web.url-search-params.delete.js",
     "node_modules/core-js-pure/internals/weak-map-helpers.js",
-    "node_modules/core-js-pure/internals/weak-map-basic-detection.js",
     "node_modules/underscore/README.md",
     "node_modules/@typescript-eslint/eslint-plugin/docs/rules/no-unsafe-enum-comparison.md",
     "node_modules/@typescript-eslint/eslint-plugin/docs/rules/no-duplicate-type-constituents.md",
@@ -226,7 +228,6 @@
     "node_modules/eslint-plugin-jest/docs/rules/require-hook.md",
     "node_modules/eslint-plugin-jest/README.md",
     "node_modules/eslint-plugin-jest/docs/rules/prefer-todo.md",
-    "node_modules/eslint-plugin-jest/docs/rules/prefer-to-have-length.md",
     "node_modules/react-scripts/template/src/logo.svg",
     "node_modules/react-scripts/template-typescript/src/logo.svg",
     "node_modules/stream-http/test/server/static/browserify.png",

@@ -569,3 +569,70 @@ function Display() {
 ```
 
 
+
+![[Pasted image 20240804181833.png]]
+
+
+`useState` is a hook that allows you to add state to your functional components. It returns an array with two elements: the current state value and a function to update it.
+
+```jsx
+import React, { useState } from 'react';
+
+function Counter() 
+{
+  const [count, setCount] = useState(0);
+
+  return (
+    <div>
+      <p>Count: {count}</p>
+      <button onClick={() => setCount(count + 1)}>Increment</button>
+    </div>
+  );
+}
+
+export default Counter;
+```
+
+```jsx
+import { useEffect } from 'react';
+import { createConnection } from './chat.js';
+
+function ChatRoom({ roomId }) {
+  const [serverUrl, setServerUrl] = useState('https://localhost:1234');
+
+  useEffect(() => {
+    const connection = createConnection(serverUrl, roomId);
+    connection.connect();
+    return () => {
+      connection.disconnect();
+    };
+  }, [serverUrl, roomId]);
+  // ...
+}
+
+```
+
+```jsx
+import React, { useContext, createContext } from 'react';
+
+const ThemeContext = createContext('light');
+
+function ThemedButton() 
+{
+  const theme = useContext(ThemeContext);
+
+  return <button style={{ background: theme === 'dark' ? '#333' : '#FFF' }}>Theme: {theme}</button>;
+}
+
+function App() 
+{
+  return (
+    <ThemeContext.Provider value="dark">
+      <ThemedButton />
+    </ThemeContext.Provider>
+  );
+}
+
+export default App;
+
+```

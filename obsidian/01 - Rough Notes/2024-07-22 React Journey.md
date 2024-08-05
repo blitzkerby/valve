@@ -573,14 +573,21 @@ function Display() {
 ![[Pasted image 20240804181833.png]]
 
 
+# GENERAL GUIDELINES FOR COMPONENTS
+---
+
 
 ![[Pasted image 20240805174521.png]]
 
 
+![[Pasted image 20240805183958.png]]
 
-The 4 criteria for splitting a UI into components:
 
-1. Logical separation of content/Layout
-2. Reusability
-3. Responsibilities/Complexities
-4. Personal 
+💰 Be aware that creating a new component [creates a new abstraction]. Abstraction have a [cost], because [more abstractions require more mental energy] to switch back and forth between components. So try not to create new components too early.
+
+
+🏷 Name a component according to [what it does] or [what it displays]. Don’t be afraid of using long component names.
+
+
+🧅 Never declare a new component [inside another component!]
+

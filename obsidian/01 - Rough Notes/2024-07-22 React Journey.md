@@ -585,9 +585,10 @@ function Display() {
 
 💰 Be aware that creating a new component [creates a new abstraction]. Abstraction have a [cost], because [more abstractions require more mental energy] to switch back and forth between components. So try not to create new components too early.
 
-
 🏷 Name a component according to [what it does] or [what it displays]. Don’t be afraid of using long component names.
-
 
 🧅 Never declare a new component [inside another component!]
 
+🗃 [Co-locate related components inside the same file.] Don’t separate components into different files too early.
+
+↔  It's completely normal that an app has components of many different size, including very small and huge ones 

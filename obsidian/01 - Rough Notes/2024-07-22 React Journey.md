@@ -592,3 +592,13 @@ function Display() {
 🗃 [Co-locate related components inside the same file.] Don’t separate components into different files too early.
 
 ↔  It's completely normal that an app has components of many different size, including very small and huge ones 
+
+
+
+### Component categories
+---
+
+Most components will naturally fall into one of the following categories:
+
+
+

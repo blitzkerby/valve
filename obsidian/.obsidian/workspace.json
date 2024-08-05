@@ -23,11 +23,16 @@
             "id": "f7bff90fdd141020",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
+                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
+                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md"
+                "file": "01 - Rough Notes/2024-07-22 React Journey.md"
               }
             }
           },
@@ -198,10 +203,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "35bf5a064648e69a",
+  "active": "f7bff90fdd141020",
   "lastOpenFiles": [
-    "01 - Rough Notes/2024-07-22 React Journey.md",
+    "Pasted image 20240805174521.png",
     "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
+    "01 - Rough Notes/2024-07-22 React Journey.md",
     "00 - Calendar/2024-08-04 SQL Journey.md",
     "Pasted image 20240804181833.png",
     "Pasted image 20240804141633.png",

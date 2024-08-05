@@ -20,15 +20,17 @@
             }
           },
           {
-            "id": "f7bff90fdd141020",
+            "id": "d4a724d1b2cbda49",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "01 - Rough Notes/2024-07-22 React Journey.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -203,11 +205,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f7bff90fdd141020",
+  "active": "d4a724d1b2cbda49",
   "lastOpenFiles": [
-    "Pasted image 20240805174521.png",
     "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
     "01 - Rough Notes/2024-07-22 React Journey.md",
+    "Pasted image 20240805174521.png",
     "00 - Calendar/2024-08-04 SQL Journey.md",
     "Pasted image 20240804181833.png",
     "Pasted image 20240804141633.png",
@@ -250,7 +252,6 @@
     "node_modules/eslint-plugin-jest/docs/rules/require-to-throw-message.md",
     "node_modules/eslint-plugin-jest/docs/rules/require-hook.md",
     "node_modules/react-scripts/template/src/logo.svg",
-    "node_modules/react-scripts/template-typescript/src/logo.svg",
     "src/data-analysis/meta/99 - Misc/Untitled.canvas",
     "src/data-analysis/meta/99 - Misc/Untitled 1.canvas",
     "Untitled.canvas",

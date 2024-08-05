@@ -576,3 +576,11 @@ function Display() {
 
 ![[Pasted image 20240805174521.png]]
 
+
+
+The 4 criteria for splitting a UI into components:
+
+1. Logical separation of content/Layout
+2. Reusability
+3. Responsibilities/Complexities
+4. Personal 

@@ -600,5 +600,16 @@ function Display() {
 
 Most components will naturally fall into one of the following categories:
 
+- Stateless / Presentation Components : 
+	- No state
+	- Can receive props and simply present received data or other content
+	- Usually [small and reusable]
+
+- Stateful components
+	- Have state
+	- Can still be reusable
+
+- Structral 
+
 
 

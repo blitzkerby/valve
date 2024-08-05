@@ -20,19 +20,14 @@
             }
           },
           {
-            "id": "1e8d43f976f9b083",
+            "id": "f7bff90fdd141020",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
+                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
+                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Rough Notes/2024-07-22 React Journey.md"
+                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md"
               }
             }
           },
@@ -203,7 +198,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1e8d43f976f9b083",
+  "active": "35bf5a064648e69a",
   "lastOpenFiles": [
     "01 - Rough Notes/2024-07-22 React Journey.md",
     "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",

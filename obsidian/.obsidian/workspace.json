@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bf2e7d82acdabbd4",
+        "id": "25db63a95df5fa08",
         "type": "tabs",
         "children": [
           {
-            "id": "35bf5a064648e69a",
+            "id": "482485094947085c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -182,7 +182,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "35bf5a064648e69a",
+  "active": "482485094947085c",
   "lastOpenFiles": [
     "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
     "01 - Rough Notes/2024-07-22 React Journey.md",

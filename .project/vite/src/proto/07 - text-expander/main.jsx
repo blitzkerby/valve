@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client"
 import { StrictMode } from "react";
 
 import App from "./components/App";
-import "styles.css"
+import "./styles.css"
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 

@@ -32,7 +32,7 @@ export default function App() {
   );
 }
 
-function TextExpander(
+function TextExpander({
     collapsedNumWords,
     expandButtonText,
     collapseButtonText,
@@ -40,6 +40,8 @@ function TextExpander(
     expanded,
     className,
     children
-) {
-  return <div>{children}</div>;
+}) {
+    return (
+        <div className={className}>{children}</div>
+    );
 }

@@ -33,8 +33,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
+                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
+                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Rough Notes/2024-07-22 React Journey.md"
+                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md"
               }
             }
           },
@@ -205,11 +204,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d4a724d1b2cbda49",
+  "active": "35bf5a064648e69a",
   "lastOpenFiles": [
+    "01 - Rough Notes/2024-07-22 React Journey.md",
     "Pasted image 20240805183958.png",
     "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
-    "01 - Rough Notes/2024-07-22 React Journey.md",
     "Pasted image 20240805174521.png",
     "00 - Calendar/2024-08-04 SQL Journey.md",
     "Pasted image 20240804181833.png",
@@ -252,7 +251,6 @@
     "node_modules/eslint-plugin-jest/docs/rules/require-top-level-describe.md",
     "node_modules/eslint-plugin-jest/docs/rules/require-to-throw-message.md",
     "node_modules/eslint-plugin-jest/docs/rules/require-hook.md",
-    "node_modules/react-scripts/template/src/logo.svg",
     "src/data-analysis/meta/99 - Misc/Untitled.canvas",
     "src/data-analysis/meta/99 - Misc/Untitled 1.canvas",
     "Untitled.canvas",

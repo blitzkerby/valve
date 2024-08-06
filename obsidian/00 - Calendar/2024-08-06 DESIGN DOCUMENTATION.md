@@ -8,7 +8,7 @@ completed: null
 ---
 
 # Screen Sizes
----
+
 
 **Our app will feature a responsive design that seamlessly adapts to various screen sizes.** To optimize user experience, we will focus on two primary design layouts: tablet and mobile.
 
@@ -31,7 +31,7 @@ Mobile users can expect a stable and enjoyable experience, regardless of device 
 	
 
 $$
-\Large{
+\large{
 	\begin{matrix}
 	   & 
 	   & 
@@ -55,7 +55,7 @@ $$
 
 
 # Miscellaneous
----
+
 
 For other niche considerations, in relation to the components and page layouts, we have the following:
 

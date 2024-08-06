@@ -641,3 +641,6 @@ this()
 ```
 
 because the top returns an [instance of a React component] whereas the bottom directly returns a [type “div” that is the raw element of that component].
+
+React will not be able to see the component if it is passed like `this()`. So it is important to always call it using JSX like `<this />`.
+

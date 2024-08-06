@@ -4,18 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "bd130377b81cde23",
+        "id": "66f0d82112167f33",
         "type": "tabs",
         "children": [
           {
-            "id": "6ab679b4a9cd927d",
+            "id": "9d60336c59c139cf",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00 - Calendar/2024-08-06 How Rendering Works.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d67ea06fa31ca4c0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md"
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,14 +87,6 @@
               "type": "recent-files",
               "state": {}
             }
-          },
-          {
-            "id": "b9541cdf26611c2a",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
           }
         ],
         "currentTab": 3
@@ -107,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
+                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
+                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Rough Notes/2024-07-22 React Journey.md"
+                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md"
               }
             }
           },
@@ -186,47 +197,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "floating": {
-    "id": "e15c00a11a9a67b9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b7d752782d21cbfc",
-        "type": "window",
-        "children": [
-          {
-            "id": "b81b4fb105d58bbe",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "94461f48ae5c78fc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01 - Rough Notes/2024-07-22 React Journey.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 813,
-        "y": 117,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "94461f48ae5c78fc",
+  "active": "d67ea06fa31ca4c0",
   "lastOpenFiles": [
-    "01 - Rough Notes/2024-07-22 React Journey.md",
+    "00 - Calendar/2024-08-06 How Rendering Works.md",
     "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
+    "01 - Rough Notes/2024-07-22 React Journey.md",
     "Pasted image 20240805183958.png",
     "Pasted image 20240805174521.png",
     "00 - Calendar/2024-08-04 SQL Journey.md",

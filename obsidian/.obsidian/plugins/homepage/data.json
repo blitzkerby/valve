@@ -3,7 +3,7 @@
   "homepages": {
     "Main Homepage": {
       "value": "Calendar",
-      "kind": "Graph view",
+      "kind": "Nothing",
       "openOnStartup": true,
       "openMode": "Replace all open notes",
       "manualOpenMode": "Keep open notes",
@@ -14,7 +14,12 @@
       "autoCreate": true,
       "autoScroll": false,
       "pin": false,
-      "commands": [],
+      "commands": [
+        {
+          "id": "obsidian-full-calendar:full-calendar-open",
+          "period": "Both"
+        }
+      ],
       "alwaysApply": false,
       "hideReleaseNotes": false
     }

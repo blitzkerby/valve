@@ -45,12 +45,14 @@ function TextExpander({
 }) {
     const [isExpanded, setIsExpanded] = useState(false)
 
-    const displayText = isExpanded ? children : 'test'
+    const displayText = isExpanded ? children : children.split(" ").slice(0, collapsedNumWords.join(' ') + "...")
 
     return (
         <div className={className}>
             <span>{displayText}</span>
-            <button>{isExpanded ? collapseButtonText : expandButtonText}</button>
+            <button onClick={() => setIsExpanded((exp) => !exp)}>
+                {isExpanded ? collapseButtonText : expandButtonText}
+            </button>
         </div>
     );
 }

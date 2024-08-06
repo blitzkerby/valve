@@ -614,3 +614,30 @@ Most components will naturally fall into one of the following categories:
 	- Result of [composition]
 	- Can be [huge and non-reusable] (but don’t have to)
 
+
+---
+
+# React’s Cross-site scripted attack protection
+----
+React components all have a `$$typeof: Symbol(react.element)` 
+
+[symbols cannot be transmitted via JSON, so if a fake react element is sent (from attackers), it will not have this property attached.]
+
+
+
+# Calling components
+---
+
+calling components like
+
+```jsx
+<this />
+```
+
+is not the same as calling it like
+
+```jsx
+this()
+```
+
+because the top returns an [instance of a React component] whereas the bottom directly returns a [type “div” that is the raw element of that component].

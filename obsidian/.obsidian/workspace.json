@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "25db63a95df5fa08",
+        "id": "bd130377b81cde23",
         "type": "tabs",
         "children": [
           {
-            "id": "482485094947085c",
+            "id": "6ab679b4a9cd927d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -107,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01 - Rough Notes/2024-07-22 React Journey.md"
+              }
             }
           },
           {
@@ -182,10 +186,47 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "482485094947085c",
+  "floating": {
+    "id": "e15c00a11a9a67b9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b7d752782d21cbfc",
+        "type": "window",
+        "children": [
+          {
+            "id": "b81b4fb105d58bbe",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "94461f48ae5c78fc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01 - Rough Notes/2024-07-22 React Journey.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 813,
+        "y": 117,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "94461f48ae5c78fc",
   "lastOpenFiles": [
-    "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
     "01 - Rough Notes/2024-07-22 React Journey.md",
+    "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
     "Pasted image 20240805183958.png",
     "Pasted image 20240805174521.png",
     "00 - Calendar/2024-08-04 SQL Journey.md",

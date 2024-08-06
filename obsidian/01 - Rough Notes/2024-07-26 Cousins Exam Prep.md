@@ -322,12 +322,12 @@ The customer made a partial payment. This will increase Cash and decrease Accoun
 
 **Journal Entries:**
 
-|Date|Account Title|Debit|Credit|
-|---|---|---|---|
-|Mar 9|Accounts Receivable - C. Green|800||
-||Allowance for Doubtful Accounts||800|
-|Mar 9|Cash|300||
-||Accounts Receivable - C. Green||300|
+| Date  | Account Title                   | Debit | Credit |
+| ----- | ------------------------------- | ----- | ------ |
+| Mar 9 | Accounts Receivable - C. Green  | 800   |        |
+|       | Allowance for Doubtful Accounts |       | 800    |
+| Mar 9 | Cash                            | 300   |        |
+|       | Accounts Receivable - C. Green  |       | 300    |
 
 
 **Note:** The remaining balance of $500 in Accounts Receivable - C. Green would typically be considered uncollectible and written off again at a later date if no further payments are received.

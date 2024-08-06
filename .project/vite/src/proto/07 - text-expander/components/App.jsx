@@ -37,8 +37,8 @@ export default function App() {
 function TextExpander({
     collapsedNumWords,
     expandButtonText = "show more",
-    collapseButtonText,
-    buttonColor,
+    collapseButtonText = "show less",
+    buttonColor = "#1f09",
     expanded = false,
     className,
     children
@@ -53,7 +53,7 @@ function TextExpander({
         font : "inherit",
         cursor : "pointer",
         marginLeft : "6px",
-        color: buttonColor
+        color: buttonColor,
     }
 
     return (

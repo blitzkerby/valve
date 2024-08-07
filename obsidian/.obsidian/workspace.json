@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "cc00aa049863bf03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Calendar/2024-08-07 Convention Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cd7c231bb3df56d5",
             "type": "leaf",
             "pinned": true,
@@ -32,8 +44,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "a380b2e41e390f58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Calendar/2024-08-06 DESIGN DOCUMENTATION.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,13 +112,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 413.5,
-    "collapsed": true
+    "width": 413.5
   },
   "right": {
     "id": "28f84addcdfc127b",
@@ -117,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Excalidraw/2024-08-06 14.03.20.excalidraw.md",
+                "file": "00 - Calendar/2024-08-07 Convention Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Excalidraw/2024-08-06 14.03.20.excalidraw.md",
+                "file": "00 - Calendar/2024-08-07 Convention Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Excalidraw/2024-08-06 14.03.20.excalidraw.md"
+                "file": "00 - Calendar/2024-08-07 Convention Guide.md"
               }
             }
           },
@@ -196,11 +219,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "12f23fc854f14e71",
+  "active": "cc00aa049863bf03",
   "lastOpenFiles": [
-    "00 - Calendar/2024-08-06 DESIGN DOCUMENTATION.md",
-    "01 - Rough Notes/2024-07-26 Cousins Exam Prep.md",
     "00 - Excalidraw/2024-08-06 14.03.20.excalidraw.md",
+    "00 - Calendar/2024-08-07 Convention Guide.md",
+    "00 - Calendar/2024-08-06 DESIGN DOCUMENTATION.md",
+    "PDF/2024-08-06 DESIGN DOCUMENTATION.pdf",
+    "compass.png",
+    "Pasted Image 20240806194203_899.png",
+    "Pasted Image 20240806194130_907.png",
+    "01 - Rough Notes/2024-07-26 Cousins Exam Prep.md",
     "Screenshot (275).png",
     "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
     "00 - Calendar/2024-08-06 How Rendering Works.md",
@@ -212,9 +240,6 @@
     "Pasted image 20240805174521.png",
     "00 - Calendar/2024-08-04 SQL Journey.md",
     "Pasted image 20240804181833.png",
-    "Pasted image 20240804141633.png",
-    "Pasted Image 20240804140650_468.png",
-    "Pasted Image 20240804140547_460.png",
     "node_modules/core-js-pure/stable/promise/with-resolvers.js",
     "node_modules/core-js-pure/full/promise/with-resolvers.js",
     "node_modules/core-js-pure/features/promise/with-resolvers.js",
@@ -224,7 +249,6 @@
     "node_modules/core-js-pure/modules/web.url.can-parse.js",
     "node_modules/core-js-pure/modules/web.url-search-params.has.js",
     "node_modules/core-js-pure/modules/web.url-search-params.delete.js",
-    "node_modules/core-js-pure/internals/weak-map-helpers.js",
     "node_modules/underscore/README.md",
     "node_modules/@typescript-eslint/eslint-plugin/docs/rules/no-unsafe-enum-comparison.md",
     "node_modules/@typescript-eslint/eslint-plugin/docs/rules/no-duplicate-type-constituents.md",
@@ -243,7 +267,6 @@
     "node_modules/eslint-plugin-jest/docs/rules/valid-expect.md",
     "node_modules/eslint-plugin-jest/docs/rules/valid-expect-in-promise.md",
     "node_modules/eslint-plugin-jest/docs/rules/valid-describe-callback.md",
-    "node_modules/eslint-plugin-jest/docs/rules/unbound-method.md",
     "src/data-analysis/meta/99 - Misc/Untitled.canvas",
     "src/data-analysis/meta/99 - Misc/Untitled 1.canvas",
     "Untitled.canvas",

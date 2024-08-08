@@ -1,9 +1,9 @@
 ---
-title: Thinking in React
+title: How Rendering Works
 allDay: false
-startTime: 15:30
-endTime: 16:00
-date: 2024-07-31
+startTime: 09:00
+endTime: 09:30
+date: 2024-08-08
 completed: 
 tags:
   - JavaScript
@@ -643,4 +643,143 @@ this()
 because the top returns an [instance of a React component] whereas the bottom directly returns a [type “div” that is the raw element of that component].
 
 React will not be able to see the component if it is passed like `this()`. So it is important to always call it using JSX like `<this />`.
+
+
+
+![[Pasted image 20240808091531.png]]
+
+
+![[Pasted image 20240808091536.png]]
+
+
+![[Pasted image 20240808093723.png]]
+
+
+# KEY PROP
+---
+
+- Special props that we use to tell the diffing algorithm that an element is unique
+  
+- Allows React to distinguish between multiple instances of the same component type
+  
+- When a key stays the same across renders, the element will be kept in the DOM (even if the position in the tree changes)
+
+- Using keys in lists:
+	- When a key changes between renders, the element will be destroyed and a new one will be created (even if the position in the tree is the same as before)
+  
+- Using keys to reset state
+
+
+Assume a list of items [without keys],
+```jsx
+<ul>
+	<Question question={q[1]} />
+	<Question question={q[2]} />
+</ul>
+```
+
+Assuming a new list item is added,
+```jsx
+<ul>
+	<Question question={q[0]} />
+	<Question question={q[1]} />
+	<Question question={q[2]} />
+</ul>
+```
+
+Same elements, but different positions in tree, so they are removed and recreated in the DOM (![BAD FOR PERFORMANCE])
+
+
+If [keys] are used:
+```JSX
+<ul>
+	<Question key="q1" question={q[1]} />
+	<Question key="q2" question={q[2]} />
+</ul>
+```
+
+When adding a new list item,
+```JSX
+<ul>
+	<Question key="q0" question={q[0]} />
+	<Question key="q1" question={q[1]} />
+	<Question key="q2" question={q[2]} />
+</ul>
+```
+
+
+
+
+
+
+
+---
+
+Assume the following:
+
+
+```jsx
+function Question({question}){
+	const [newAnswer, setNewAnswer] = useState('')
+	const numAnswers = question.answers.length ?? 0;
+
+	const handleNewAsnwer = function(e){
+		if (question.closed) return;
+		setNewAnswer(e.target.value)	
+	}
+
+	const createList = function(){
+		return (
+			<ul>
+				{question.answers.map((q) => (
+					<li>{q}</li>
+				))}
+			</ul>
+		)
+	}
+
+	return (
+	<div>
+		<h3>{question.title}</h3>
+		<p>{question.body}</p>
+		{question.hasAnswer} ? (
+			createList()
+		) : (
+			<input value={newAnswer} onChange={handleNewAnswer} />
+		)
+	)
+}
+
+```
+
+
+
+# Render Logic
+
+👉    Code that lives at the top level of the component function
+
+👉    Participates in describing how the component view looks like
+
+👉    Executed every time the component renders
+
+[All `const` and `return` functions are part of the render logic]
+
+
+# Event Handler Function
+
+👉    Executed as a consequence of the event that the handler is listening for (change event in this example)
+
+👉    Code that actually does things: update state, perform an HTTP, request, read an input field, navigate to another page, etc…
+
+![[Pasted image 20240808154853.png]]
+
+- By default, event handlers listen to events on the target *and during the bubbling phase*
+
+- We can prevent bubbling with `e.stopPropagation()`
+
+
+
+
+
+
 

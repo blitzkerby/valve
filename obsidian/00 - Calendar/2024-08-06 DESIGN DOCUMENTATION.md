@@ -33,8 +33,8 @@ Mobile users can expect a stable and enjoyable experience, regardless of device 
 $$
 \large{
 	\begin{matrix}
-	   & 
-	   & 
+	   & 1440px
+	   & \ge
 	   & \text{Desktop} 
 	   & > 
 	   & 1007px \\
@@ -48,9 +48,45 @@ $$
 	   & 641px  
 	   & \ge 
 	   & \text{Phone}
+	   & >
+	   & 0
 	\end{matrix}
 }
+$$
 
+
+# Screen Ranges
+$$
+\large{
+	\begin{matrix}
+	   & 1440px
+	   & \ge
+	   & \text{Desktop + Tablet} 
+	   & > 
+	   & 1007px \\
+	   
+	   & 1007px  
+	   & \ge 
+	   & \text{Phone}
+	   & >
+	   & 0
+	\end{matrix}
+}
+$$`
+# UI Screen Mockup
+
+$$
+\large{
+	\begin{matrix}
+	   & \text{Large Screen} 
+	   & :
+	   & 1007px \\
+	   
+	   & \text{Small Screen}
+	   & :
+	   & 320px
+	\end{matrix}
+}
 $$
 
 

@@ -7,6 +7,7 @@ date: 2024-08-08
 completed: 
 tags:
   - JavaScript
+  - React
 type: single
 ---
 JavaScript has “`async`” and “`await`” methods, used for promises.

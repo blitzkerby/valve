@@ -73,18 +73,18 @@ $$
 	\end{matrix}
 }
 $$`
-# UI Screen Mockup
+# UI Screen (Figma)
 
 $$
 \large{
 	\begin{matrix}
-	   & \text{Large Screen} 
+	   & \text{Desktop} 
 	   & :
-	   & 1007px \\
+	   & 1440px \\
 	   
-	   & \text{Small Screen}
+	   & \text{Mobile}
 	   & :
-	   & 320px
+	   & 390px
 	\end{matrix}
 }
 $$

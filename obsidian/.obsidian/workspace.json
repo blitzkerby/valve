@@ -11,8 +11,12 @@
             "id": "4b19d63e2390eca0",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00 - Calendar/2024-08-09 useEffect.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -51,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
+                "file": "00 - Calendar/2024-08-09 useEffect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
+                "file": "00 - Calendar/2024-08-09 useEffect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Rough Notes/2024-07-22 React Journey.md"
+                "file": "00 - Calendar/2024-08-09 useEffect.md"
               }
             }
           },
@@ -214,11 +217,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b551c173aab659fa",
+  "active": "4b19d63e2390eca0",
   "lastOpenFiles": [
+    "01 - Rough Notes/2024-07-22 React Journey.md",
+    "00 - Calendar/2024-08-09 useEffect.md",
     "00 - Excalidraw/2024-08-06 14.03.20.excalidraw.md",
     "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
-    "01 - Rough Notes/2024-07-22 React Journey.md",
     "00 - Calendar/2024-08-06 DESIGN DOCUMENTATION.md",
     "PDF/2024-07-22 React Journey.pdf",
     "Pasted Image 20240809142140_136.svg",

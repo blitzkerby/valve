@@ -18,11 +18,27 @@
           {
             "id": "7aa6bde31d9c9379",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Calendar/2024-08-06 DESIGN DOCUMENTATION.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "fcb9c3ec3ee7806d",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "excalidraw",
               "state": {
                 "file": "00 - Excalidraw/2024-08-06 14.03.20.excalidraw.md"
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -80,12 +96,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 413.5,
-    "collapsed": true
+    "width": 413.5
   },
   "right": {
     "id": "28f84addcdfc127b",
@@ -109,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Excalidraw/2024-08-06 14.03.20.excalidraw.md",
+                "file": "00 - Calendar/2024-08-06 DESIGN DOCUMENTATION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Excalidraw/2024-08-06 14.03.20.excalidraw.md",
+                "file": "00 - Calendar/2024-08-06 DESIGN DOCUMENTATION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Excalidraw/2024-08-06 14.03.20.excalidraw.md"
+                "file": "00 - Calendar/2024-08-06 DESIGN DOCUMENTATION.md"
               }
             }
           },
@@ -190,8 +206,9 @@
   },
   "active": "7aa6bde31d9c9379",
   "lastOpenFiles": [
-    "Pasted Image 20240809142140_136.svg",
     "00 - Excalidraw/2024-08-06 14.03.20.excalidraw.md",
+    "00 - Calendar/2024-08-06 DESIGN DOCUMENTATION.md",
+    "Pasted Image 20240809142140_136.svg",
     "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
     "00 - Excalidraw/2024-07-27 14.36.31.excalidraw.md",
     "00 - Excalidraw/2024-07-29 12.02.30.excalidraw.md",

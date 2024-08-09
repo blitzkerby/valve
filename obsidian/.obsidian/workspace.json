@@ -16,20 +16,6 @@
             }
           },
           {
-            "id": "7aa6bde31d9c9379",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Calendar/2024-08-06 DESIGN DOCUMENTATION.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "fcb9c3ec3ee7806d",
             "type": "leaf",
             "pinned": true,
@@ -40,9 +26,33 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "1f7d1e7bf4e05190",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "b551c173aab659fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Calendar/2024-08-06 DESIGN DOCUMENTATION.md",
+                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Calendar/2024-08-06 DESIGN DOCUMENTATION.md",
+                "file": "01 - Rough Notes/2024-07-22 React Journey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Calendar/2024-08-06 DESIGN DOCUMENTATION.md"
+                "file": "01 - Rough Notes/2024-07-22 React Journey.md"
               }
             }
           },
@@ -204,12 +214,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7aa6bde31d9c9379",
+  "active": "b551c173aab659fa",
   "lastOpenFiles": [
     "00 - Excalidraw/2024-08-06 14.03.20.excalidraw.md",
-    "00 - Calendar/2024-08-06 DESIGN DOCUMENTATION.md",
-    "Pasted Image 20240809142140_136.svg",
     "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
+    "01 - Rough Notes/2024-07-22 React Journey.md",
+    "00 - Calendar/2024-08-06 DESIGN DOCUMENTATION.md",
+    "PDF/2024-07-22 React Journey.pdf",
+    "Pasted Image 20240809142140_136.svg",
     "00 - Excalidraw/2024-07-27 14.36.31.excalidraw.md",
     "00 - Excalidraw/2024-07-29 12.02.30.excalidraw.md",
     "00 - Excalidraw/2024-07-19 09.07.51.excalidraw.md",
@@ -221,7 +233,6 @@
     "00 - Excalidraw/base-11.md",
     "00 - Excalidraw/base-12.md",
     "00 - Excalidraw/base-10.md",
-    "01 - Rough Notes/2024-07-22 React Journey.md",
     "00 - Assets/Pasted image 20240808154853.png",
     "00 - Assets/microsoft-edge.svg",
     "readme.md",
@@ -242,7 +253,6 @@
     "00 - Calendar/2024-07-30 State vs Props.md",
     "00 - Calendar/2024-07-27 Range.md",
     "00 - Calendar/2024-07-28 React State.md",
-    "00 - Calendar/2024-07-24 Props.md",
     "PDF/Final Exam Question_26 July 2024.pdf",
     "autocommit.sh",
     "autocommit_wrapper.sh",
@@ -251,7 +261,6 @@
     "Untitled 1",
     "99 - Mission 3/3rd missiion for indivisual.pdf",
     "03 - Archived",
-    "Untitled",
     "src/data-analysis/meta/99 - Misc/Untitled.canvas",
     "src/data-analysis/meta/99 - Misc/Untitled 1.canvas",
     "Untitled.canvas",

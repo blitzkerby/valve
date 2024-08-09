@@ -11,8 +11,6 @@ type: single
 ---
 JavaScript has “`async`” and “`await`” methods, used for promises.
 
-
-
 Assume the following example,
 
 ```JS

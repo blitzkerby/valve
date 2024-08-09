@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-08-09 Side Effects",
+      "path": "00 - Calendar/2024-08-09 Side Effects.md"
+    },
+    {
       "basename": "2024-08-09 useEffect",
       "path": "00 - Calendar/2024-08-09 useEffect.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2024-08-06 How Rendering Works",
       "path": "00 - Calendar/2024-08-06 How Rendering Works.md"
-    },
-    {
-      "basename": "2024-07-26 Cousins Exam Prep (Refine)",
-      "path": "01 - Rough Notes/2024-07-26 Cousins Exam Prep (Refine).md"
     }
   ],
   "omittedPaths": []

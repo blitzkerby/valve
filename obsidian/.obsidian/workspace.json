@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "1905c8741bd619c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Calendar/2024-08-09 Side Effects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fcb9c3ec3ee7806d",
             "type": "leaf",
             "pinned": true,
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.5
+    "width": 413.5,
+    "collapsed": true
   },
   "right": {
     "id": "28f84addcdfc127b",
@@ -138,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Calendar/2024-08-09 useEffect.md",
+                "file": "00 - Calendar/2024-08-09 Side Effects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Calendar/2024-08-09 useEffect.md",
+                "file": "00 - Calendar/2024-08-09 Side Effects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Calendar/2024-08-09 useEffect.md"
+                "file": "00 - Calendar/2024-08-09 Side Effects.md"
               }
             }
           },
@@ -217,12 +231,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4b19d63e2390eca0",
+  "active": "1905c8741bd619c7",
   "lastOpenFiles": [
+    "00 - Calendar/2024-08-09 useEffect.md",
+    "00 - Calendar/2024-08-09 Side Effects.md",
     "00 - Excalidraw/2024-08-06 14.03.20.excalidraw.md",
     "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md",
     "01 - Rough Notes/2024-07-22 React Journey.md",
-    "00 - Calendar/2024-08-09 useEffect.md",
     "00 - Calendar/2024-08-06 DESIGN DOCUMENTATION.md",
     "PDF/2024-07-22 React Journey.pdf",
     "Pasted Image 20240809142140_136.svg",
@@ -256,7 +271,6 @@
     "00 - Calendar/2024-07-31 Thinking in React.md",
     "00 - Calendar/2024-07-30 State vs Props.md",
     "00 - Calendar/2024-07-27 Range.md",
-    "00 - Calendar/2024-07-28 React State.md",
     "PDF/Final Exam Question_26 July 2024.pdf",
     "autocommit.sh",
     "autocommit_wrapper.sh",

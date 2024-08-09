@@ -1,40 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-07-22 React Journey",
+      "path": "01 - Rough Notes/2024-07-22 React Journey.md"
+    },
+    {
       "basename": "2024-08-06 14.03.20.excalidraw",
       "path": "00 - Excalidraw/2024-08-06 14.03.20.excalidraw.md"
     },
     {
-      "basename": "Pasted Image 20240808205029_605",
-      "path": "Pasted Image 20240808205029_605.png"
+      "basename": "Pasted image 20240808154853",
+      "path": "00 - Assets/Pasted image 20240808154853.png"
+    },
+    {
+      "basename": "microsoft-edge",
+      "path": "00 - Assets/microsoft-edge.svg"
+    },
+    {
+      "basename": "readme",
+      "path": "readme.md"
+    },
+    {
+      "basename": "Pasted Image 20240804135648_467",
+      "path": "00 - Assets/Pasted Image 20240804135648_467.svg"
     },
     {
       "basename": "2024-07-31 16.13.10.excalidraw",
       "path": "00 - Excalidraw/2024-07-31 16.13.10.excalidraw.md"
     },
     {
+      "basename": "Pasted image 20240808093723",
+      "path": "00 - Assets/Pasted image 20240808093723.png"
+    },
+    {
+      "basename": "Kanban",
+      "path": "00 - Kanban/Kanban.md"
+    },
+    {
+      "basename": "2024-08-07 Convention Guide",
+      "path": "00 - Calendar/2024-08-07 Convention Guide.md"
+    },
+    {
+      "basename": "Pasted Image 20240808205029_605",
+      "path": "00 - Assets/Pasted Image 20240808205029_605.png"
+    },
+    {
       "basename": "2024-08-08 DOM Refresher",
       "path": "00 - Calendar/2024-08-08 DOM Refresher.md"
     },
     {
-      "basename": "2024-07-22 React Journey",
-      "path": "01 - Rough Notes/2024-07-22 React Journey.md"
-    },
-    {
       "basename": "Pasted Image 20240808173720_337",
-      "path": "Pasted Image 20240808173720_337.png"
+      "path": "00 - Assets/Pasted Image 20240808173720_337.png"
     },
     {
       "basename": "Pasted Image 20240731192239_669",
       "path": "00 - Assets/Pasted Image 20240731192239_669.png"
     },
     {
-      "basename": "Pasted Image 20240804135648_467",
-      "path": "Pasted Image 20240804135648_467.svg"
-    },
-    {
       "basename": "Pasted Image 20240808162543_640",
-      "path": "Pasted Image 20240808162543_640.png"
+      "path": "00 - Assets/Pasted Image 20240808162543_640.png"
     },
     {
       "basename": "Pasted image 20240731171809",
@@ -90,31 +114,27 @@
     },
     {
       "basename": "Pasted Image 20240804135935_488",
-      "path": "Pasted Image 20240804135935_488.png"
+      "path": "00 - Assets/Pasted Image 20240804135935_488.png"
     },
     {
       "basename": "Pasted Image 20240804140650_468",
-      "path": "Pasted Image 20240804140650_468.png"
+      "path": "00 - Assets/Pasted Image 20240804140650_468.png"
     },
     {
       "basename": "Pasted Image 20240808103807_637",
-      "path": "Pasted Image 20240808103807_637.png"
+      "path": "00 - Assets/Pasted Image 20240808103807_637.png"
     },
     {
       "basename": "Pasted Image 20240808162425_602",
-      "path": "Pasted Image 20240808162425_602.png"
-    },
-    {
-      "basename": "Pasted image 20240808154853",
-      "path": "Pasted image 20240808154853.png"
+      "path": "00 - Assets/Pasted Image 20240808162425_602.png"
     },
     {
       "basename": "Pasted Image 20240808162442_607",
-      "path": "Pasted Image 20240808162442_607.png"
+      "path": "00 - Assets/Pasted Image 20240808162442_607.png"
     },
     {
       "basename": "Pasted Image 20240808103641_865",
-      "path": "Pasted Image 20240808103641_865.png"
+      "path": "00 - Assets/Pasted Image 20240808103641_865.png"
     },
     {
       "basename": "2024-08-06 How Rendering Works",
@@ -179,26 +199,6 @@
     {
       "basename": "2024-07-27 14.36.31.excalidraw",
       "path": "00 - Excalidraw/2024-07-27 14.36.31.excalidraw.md"
-    },
-    {
-      "basename": "base-11",
-      "path": "00 - Excalidraw/base-11.md"
-    },
-    {
-      "basename": "base-12",
-      "path": "00 - Excalidraw/base-12.md"
-    },
-    {
-      "basename": "base-10",
-      "path": "00 - Excalidraw/base-10.md"
-    },
-    {
-      "basename": "Screenshot 2024-08-02 at 10.22.14 in the morning",
-      "path": "Screenshot 2024-08-02 at 10.22.14 in the morning.png"
-    },
-    {
-      "basename": "Pasted image 20240802110824",
-      "path": "Pasted image 20240802110824.png"
     }
   ],
   "omittedPaths": []
